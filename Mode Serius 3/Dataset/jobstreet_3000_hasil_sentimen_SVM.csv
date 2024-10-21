@@ -1,4 +1,4 @@
-Label,text_tokens_stemmed,Label NB
+Label,text_tokens_stemmed,Label_pred
 positif,nyaman the best resposif,positif
 negatif,ni gimanasii daritdi bikin akun register aja gabisa2 tlong lh sistem baik,negatif
 negatif,gak masuk,negatif
@@ -15,13 +15,13 @@ negatif,sbenernya bagus saran ku lebh filter loker nya banget usaha bodong nawar
 positif,bagus info,positif
 negatif,lokerpenipuwan masuk iya kelas jobstreet tida bajak akunpenipu,negatif
 positif,moga cepat kerja,positif
-negatif,sulit,positif
+negatif,sulit,negatif
 negatif,apk taik loker palsu loker tipu loker ga loker formalitas aja loker fiktif,negatif
-negatif,php doang,positif
+negatif,php doang,negatif
 positif,bagus,positif
 positif,bantu loker nasional,positif
 negatif,yg ngadain event seminar ga lanjut reward ewallet yg tunggu h14 sampe h21 hahahaha ga amanah yaa,negatif
-negatif,ga dapet kerja,negatif
+negatif,ga dapet kerja,positif
 negatif,gabisa login loading mulu,negatif
 negatif,versi bug gk akses menu kecuali home,negatif
 negatif,kesini buruk bnyk loker palsubodong,negatif
@@ -37,21 +37,21 @@ positif,mmqntap,positif
 negatif,loker hoax panggil ruko kalo dapet,negatif
 positif,informatifsemoga lamar nyantol,positif
 positif,alam kerja bidang marketing jual pasar promosi,positif
-negatif,semuamasih calo,positif
+negatif,semuamasih calo,negatif
 negatif,kerja data yg sebar whatsapp ditawarin kerja apply usaha tsb cek usaha palsupenipu,negatif
-negatif,didik s cingcau s dawetberkat aplikasi mudah kerja sesuai terimakasih jobstreet,positif
+negatif,didik s cingcau s dawetberkat aplikasi mudah kerja sesuai terimakasih jobstreet,negatif
 positif,10 kebun kakao 15 kebun kelapa sawit sbg asisten tanam,positif
 positif,ok,positif
 negatif,tipu lowong apk,negatif
 negatif,aplikasi kontil ngelamar bolak gk update progressnya gk panggil,negatif
 positif,wadah cari kerja moga depan aplikasi sedia tenaga kerja,positif
 positif,bagus apk e yaa sulit banget cari kerja yaa allah tolong hamba ini,positif
-negatif,lokasi kerja tdk sesuai,positif
+negatif,lokasi kerja tdk sesuai,negatif
 positif,perna helper welder,positif
 negatif,daftar usaha yg apk tp panggil tes usaha bodong data cantum apk sebar usaha yg,negatif
 positif,aplikasi qualified bantu cari kerja,positif
 negatif,loker palsu usaha alamat tolong filter usaha daftar jobstreet developer tolong lanjut,negatif
-negatif,tolong blokir yg beri kerja yg kantor ruko jl saharjo orang cari kerja ya cari duit dimintain duit usaha bodong yg jg yg mintain biaya admin dll dah,positif
+negatif,tolong blokir yg beri kerja yg kantor ruko jl saharjo orang cari kerja ya cari duit dimintain duit usaha bodong yg jg yg mintain biaya admin dll dah,negatif
 positif,bantu kerja dapat terimakasih,positif
 positif,mantap,positif
 positif,bantu,positif
@@ -63,7 +63,7 @@ negatif,data yg kirim bocor kirim pesan tawar kerja ujung tipu informasi databas
 positif,bagus,positif
 positif,good,positif
 positif,moga kerja,positif
-negatif,kecewa lowong sedia orang milik tamat sarjana diploma tamat smk kali sulit cari loker sk isi minimal s1 tamat smasmk layak usaha moga aplikasi sikap buka kalang sarjana,positif
+negatif,kecewa lowong sedia orang milik tamat sarjana diploma tamat smk kali sulit cari loker sk isi minimal s1 tamat smasmk layak usaha moga aplikasi sikap buka kalang sarjana,negatif
 positif,bantu,positif
 positif,jobstreet bantu cari informasi lowong kerja,positif
 positif,bantu,positif
@@ -80,12 +80,12 @@ negatif,tipu ngabisin ngisi panggil kagak,negatif
 negatif,ratus kali lamar loker satu panggil kerja penuh syarat usaha butuh kerja,negatif
 negatif,serius bete banget udah nyoba login kali tetep aja gabisa pake email gabisa pake google gabisa aneh,negatif
 negatif,tolong fokus loker nama kotaaaa,negatif
-negatif,jelek,positif
+negatif,jelek,negatif
 negatif,apk sampah asw udh g buka apk tiba2 logout trus login lg g 5 kali g bisa2 developer payah,negatif
 positif,mantap,positif
 negatif,kecewa ga dapet kerja panggil aplikasi,negatif
 negatif,bahasa inggris ga ngerti setel bahasa indonesia,negatif
-negatif,asu,positif
+negatif,asu,negatif
 negatif,maaf tipu nomor sebar,negatif
 negatif,tolong developer usaha wajib isi salarygaji usaha biar cari kerja cocok gaji usaha buka lowong wajib isi salary benefitnya hrd,negatif
 negatif,wkwk aplikasi zoonk nya panggil interview kerja pt rusa loker wa email 8x tanggepi karna buka alamat goggle map nya isi 2 ubah beda usaha recomend bnget aplikasi terimakasih,negatif
@@ -93,7 +93,7 @@ negatif,jngn download buang wktu bnyk loker yg udh kadaluarsa msih d posting,neg
 positif,the best platform for job search and companies looking for workers,positif
 negatif,hapus aja aplikasi nya orang kasihan interview kena tipu kerja bayar nyampek juta,negatif
 negatif,update mulu loker hoax,negatif
-positif,didik alam kerja sesuai ekspektasi lamar apply 1 2 jam diposting notif lamar sdh kirim usaha selang 1 2 minggu muncul notif lamar tutup cv diupdate ahli usaha memposting loker usaha yg syarat usia perhati usia tq,negatif
+positif,didik alam kerja sesuai ekspektasi lamar apply 1 2 jam diposting notif lamar sdh kirim usaha selang 1 2 minggu muncul notif lamar tutup cv diupdate ahli usaha memposting loker usaha yg syarat usia perhati usia tq,positif
 negatif,cari lokasi tentu keluar lokasi lowong tipu,negatif
 negatif,loker jobstreet hoax udh naro lamar pt lamar kadaluarsa terima lamar lagipadahal tanggal pas buka nya loker pt tersebutbaru lamarbeberapa minggu terang nya terima lamar,negatif
 positif,temu passion karir alam didik,positif
@@ -102,11 +102,11 @@ positif,manfaat aplikasi jobstreet manfaat cari kerja,positif
 positif,moga aplikasi aktif maju kerja pindah 3 panggil kerja apk initerimakasih jobstreet,positif
 positif,syukur terima kasih jobstreet mudah cari kerja,positif
 negatif,tolong loker hoax mulu banyak,negatif
-positif,gak admin jobstreet ngiklanin lowong kerja tolong serta nama usaha nya nama iklan anonimous kesan curiga takut tau usaha ngasih iklan lowong aja jobstreet depan nama usaha iklan biar gak kena tipu oknum pt gadungan thanks,negatif
+positif,gak admin jobstreet ngiklanin lowong kerja tolong serta nama usaha nya nama iklan anonimous kesan curiga takut tau usaha ngasih iklan lowong aja jobstreet depan nama usaha iklan biar gak kena tipu oknum pt gadungan thanks,positif
 positif,terimakasih jobstreetkarena jobstreet beban ortu,positif
 positif,bantu informasi sy blm job sesuai spek yg milik,positif
 negatif,tipu,negatif
-negatif,tolong lapor tindak lanjut modus usaha pt visi cipta media cari kerja account executive freelance curi data client cari diam2 usaha tsb hubung proyek tahu modus rugi cari kerja jobstreet pakai buang gaji bulan komisi,positif
+negatif,tolong lapor tindak lanjut modus usaha pt visi cipta media cari kerja account executive freelance curi data client cari diam2 usaha tsb hubung proyek tahu modus rugi cari kerja jobstreet pakai buang gaji bulan komisi,negatif
 positif,bagus cari tenaga kerja,positif
 negatif,loker hoax,negatif
 negatif,aply usaha satu direspon direspon itu usaha bodong indonesiacemas2024,negatif
@@ -131,14 +131,14 @@ negatif,lokernya sih emang ratus lamar yg udh sya apply ga yg respon dri hrd nya
 positif,bagus,positif
 negatif,ga buka aplikasi,negatif
 negatif,loker tipu mengatasnamakan usaha seleksi ketat hai jobstreet panggil ujung2nya tes ruko,negatif
-negatif,not a al qaeda,positif
-negatif,no koment aza dech,positif
-negatif,honestly at first i was excited about this application but unfortunately after many times we actually get scammers from people who claim to be companies looking for workers i think this application is very unsafe it does not protect the user its so easy for fraudsters to impersonate labor recruitment companies and manipulate prospective employees,positif
+negatif,not a al qaeda,negatif
+negatif,no koment aza dech,negatif
+negatif,honestly at first i was excited about this application but unfortunately after many times we actually get scammers from people who claim to be companies looking for workers i think this application is very unsafe it does not protect the user its so easy for fraudsters to impersonate labor recruitment companies and manipulate prospective employees,negatif
 positif,apk bagus manfaat cari kerja,positif
 negatif,ngasih bintang 1 bocor nomor whatsapp nmr dikenalpenipu tipu kedok loker d egan iming2 gaji ga masuk akal,negatif
 negatif,guna jobstreet th 2019 panggil jarang banget panggil interview banyak usaha tipu tawar kerja like sosmed artis gitu dah,negatif
 positif,tolong tambah filter pengalama kerja,positif
-positif,bagus panggil ya udh lamar usaha tambah masuk kualifikasi usaha yg dapet email lowong tutup,negatif
+positif,bagus panggil ya udh lamar usaha tambah masuk kualifikasi usaha yg dapet email lowong tutup,positif
 positif,bantu,positif
 positif,5 thn driver,positif
 negatif,gara gara aplikasi inidata pribadinomr hp sebar bnyk bnget usah bodong yg masuk,negatif
@@ -149,7 +149,7 @@ positif,usaha bodong panggil interview daerah jakarta raya 3 usaha beda 1 lokasi
 positif,inovatif,positif
 negatif,salam luckin news,positif
 positif,bantu cari peluang2 kerja,positif
-positif,tolong buat filter halaman applied viaa urut status yg terupdate trims klo bintang 5 hehe,negatif
+positif,tolong buat filter halaman applied viaa urut status yg terupdate trims klo bintang 5 hehe,positif
 positif,mantap pp,positif
 positif,bantu mantap,positif
 negatif,iklan anonim blok banyak nipu kelas jobstreet menginklankan usaha yg kantor pt nya gak kasihyg korban coba selektif lg terima info loker yg sebar masukin info loker yg gak,negatif
@@ -161,27 +161,27 @@ positif,bagus,positif
 negatif,pt pt padu tidur cok gapernah liat lamar,negatif
 positif,good,positif
 positif,terima kasih hubung cari kerja beri kerja,positif
-negatif,aplikasi nipu,positif
+negatif,aplikasi nipu,negatif
 negatif,tolong spam loker email kalo ujung lowong tutup gimmick doang pt kalo loker udah kandidat ordal post loker kasi ngarepin loker,negatif
 negatif,akun tibatiba blokir masuk aplikasi website halhal aneh anya cari loker tolong baik,negatif
 positif,aplikasi patut coba manfaat,positif
 negatif,banyak upgret jelek sortir ga fungsi sotir daerah bekas jakarta bogor muncul usaha anonim block aja usaha nipu,negatif
 negatif,ah useless jobstreet skrg loker tipu tipu informasi lowong kerja campur campur mending linked in,negatif
 negatif,gx tau interview usaha real usaha bodong,negatif
-negatif,muak aplikasi bantu isi calo yg bikin loker ajar kaya gitu ko gabisa saring apk nya,positif
+negatif,muak aplikasi bantu isi calo yg bikin loker ajar kaya gitu ko gabisa saring apk nya,negatif
 negatif,loker tutup kalah warung madura 24jam payah kalo emg galolos udh dapet kandidat langsung update,negatif
 positif,bagus,positif
 negatif,panggil interview keduayayasan usaha langsung,negatif
 negatif,aplikasi ga update loker banyak s1 apply lamar ga panggil,negatif
 negatif,tolong fitur searchnya bug cari a muncul b tolong ya,negatif
-positif,instal panggil interview beda aplikasi belah interview cocok,negatif
+positif,instal panggil interview beda aplikasi belah interview cocok,positif
 positif,,positif
 negatif,apaanngasih info lowong banget penipuansya dapet panggil interview ptfujitetsu autopart manufakturz jobstreetmalah uang sewa seragam 850ribualamat kantor green mansion blok b no 10 samping astra hondaada globallogistic ajabahaya nih ngelamar jobstreet,negatif
 positif,top,positif
 positif,aplikasi bagus kalo search loker lokasi ga akurat banyak loker yg kualifikasi berat,negatif
-negatif,upload resume anj,positif
+negatif,upload resume anj,negatif
 negatif,jobstreet saking banyak lowong fiktif saking ga bedain lowong asli lowong palsu,negatif
-negatif,apk kaga jelasngelamar kirain mah lowong bener semuapas diseriusin nipu,positif
+negatif,apk kaga jelasngelamar kirain mah lowong bener semuapas diseriusin nipu,negatif
 positif,bantu,positif
 positif,bantu,positif
 negatif,sengaja kasih bintang biar baca gin ya fitur lapor guna iklan coba tipu jobstreetnya ketat atur kait iklan loker coba bijak usaha identitas anonim tayang iklan identitas usaha wajib betulbetul verifikasi ngga orang naro iklan loker kasi awam,negatif
@@ -196,33 +196,33 @@ positif,done,positif
 negatif,sortir apk mudah cari loker banyak loker kosong yg loker tipu cmn ambil data teliti developer apknya udh bagus bknnnya mudah sulit,negatif
 negatif,banget undang interview bodong yg interview ruko ruko tolong jobstreet privasi cv yg brtanggung,negatif
 positif,kerja aplikasi terimakasih,positif
-negatif,error ya 2 loh gabisa akses,positif
+negatif,error ya 2 loh gabisa akses,negatif
 positif,okey,positif
 positif,login technical eror tolong bantu,positif
-positif,isi data pribadi gmna cv biodata surat lamar kerja mohon nya,negatif
+positif,isi data pribadi gmna cv biodata surat lamar kerja mohon nya,positif
 negatif,dapet kerja ngga data bocor ngikutin arah saran apk tetep aja ngga panggil dapet email usaha tutup aplikasi formalitas buang,negatif
-negatif,byk bahasa inggristidak terjemah,positif
+negatif,byk bahasa inggristidak terjemah,negatif
 negatif,ga ngerti knpa blm oanggipan gitu udh hambis tahun pake apk cmn ga tau blmrezekinya kali yaa cmn gitu rezeki wkwk yaudah lag ga paksaain jdi hapus aja moga mnapun kerja,negatif
 positif,team individu inteligency kelola emosional komitmen capai target trimakasih,positif
 positif,ok,positif
 negatif,gabisa buka sih tulis were working on it jelek bgt nih aplikasi,negatif
 positif,server lg down ya,positif
 positif,bantu banget,positif
-negatif,apk banyak bug,positif
+negatif,apk banyak bug,negatif
 positif,good job bantu cari kerja,positif
 negatif,min ya apk nya aplikasi nya gabisa masuk ya mohon jawabnnya,negatif
 negatif,apply loker gak tanggap usaha tolak terima buang2 lamar berhati2 usaha bodong kumpul data pribadi jelas,negatif
-negatif,3 aplikasi jobstreet akses tanggal 22 agustus 2024 24 agustus 2024,positif
+negatif,3 aplikasi jobstreet akses tanggal 22 agustus 2024 24 agustus 2024,negatif
 negatif,ga login,negatif
 positif,manfaat,positif
 positif,bagus,positif
 negatif,gak aplikasi nya ken ngeliat lamar gak buka,negatif
 positif,keren,positif
-positif,ya allah bgt loker palsu tipu ngeselin bgt yg nulis fasilitas gak ngotak serius deh jaman platform isi orang jahat tolong donk dimanage gimana gt biar yg naroh loker beneran usaha fiktif yg kalo dimasukin gmaps isi aneh2 developer gercep nanggepin,negatif
+positif,ya allah bgt loker palsu tipu ngeselin bgt yg nulis fasilitas gak ngotak serius deh jaman platform isi orang jahat tolong donk dimanage gimana gt biar yg naroh loker beneran usaha fiktif yg kalo dimasukin gmaps isi aneh2 developer gercep nanggepin,positif
 negatif,udah akun udh pake apk tp smlm pas login gabisa eror smpe skrg gabisa dipake akun cobq bkin akun gabisa aneh ni apk,negatif
 negatif,kembang aplikasi merespon review topik robot fitur filter urut dasar tanggal postingsebaiknya tampil cari tolong tingkat kualitas isi lowong standar detail lokasi usaha,negatif
 positif,bagusutk lamar kerja,positif
-positif,keren lokernya masuk akal percaya,negatif
+positif,keren lokernya masuk akal percaya,positif
 positif,jobstreet kerja usaha internasional jaksel tunggu 1 dapetnya jobstreet bantu keren terima kasih,positif
 positif,bantu,positif
 positif,op alat berat,positif
@@ -231,14 +231,14 @@ positif,bantu,positif
 negatif,aplikasi gak suruh masukin akun google error urus aplikasi nya bug,negatif
 negatif,adminini gimana ya tdk login akunsudah diulang2 tdk bisajadinya hapus aplikasi download tdk ganti email login tdk masuk profil,negatif
 positif,nice jobstree go to the my jobs,positif
-positif,operator produksi pt cable ztt operator produksi pabrik spinning pt yamatex,negatif
+positif,operator produksi pt cable ztt operator produksi pabrik spinning pt yamatex,positif
 positif,manfaat,positif
 positif,apliksi ya bagus batu,positif
 positif,sandat manfaat,positif
 positif,ok selesai,positif
 positif,manfaat milik alam kerja good,positif
 positif,ok coba proses nyata timbang perhati,positif
-negatif,aplikasi jobstreet penipuankenapa kaga kaya ya cari kerja gampang aplikasi jobstreet,positif
+negatif,aplikasi jobstreet penipuankenapa kaga kaya ya cari kerja gampang aplikasi jobstreet,negatif
 negatif,udah usaha apply kerja jobstreet gin hasilnyaselalu gak kabar jelas perusahaansudah capek lamar tunggu hasil terima tidaktapi ya beginimain tutuptutup aja perusahaannyasaya jujur aja sedih menang kecewa jobstreettidak jelas sekalisaya henti apps initidak bantu,negatif
 negatif,udah lamar aplikasi alam gak panggil heran nyesel sih donwload,negatif
 positif,lumayan bantu dlm cari job,positif
@@ -247,23 +247,23 @@ positif,mantap caur,positif
 negatif,hati hati lamar dijobstreet tipu gaji yg tera sesuai pas jauh2 interview info gaji buang2 tipu,negatif
 negatif,aplikasi gajelas yg lamar tutup trus ngapain posting mending aplikasi glints bagus real,negatif
 negatif,error,positif
-negatif,temu usaha pt pabrik sawit indonesia pelosok2 karenah usaha yg jobstreet,negatif
+negatif,temu usaha pt pabrik sawit indonesia pelosok2 karenah usaha yg jobstreet,positif
 negatif,aplikasi bagus usaha bodongpenipuan ketatin proses buka lowong kerja usaha kena 2 usaha bodongpenipuan nama usaha jga beda untung cari tau dlu,negatif
 negatif,ganti email daftar akun jobstreet,negatif
 positif,moga bnyak yg kerja aplikasi,positif
 positif,bagus 50 job scam,positif
-positif,aplikasi jobstreet baguspenghubung cari kerja dgn perusahaantapi aplikasi jobstreet qu tdk login utk kirim lamar kerja,positif
+positif,aplikasi jobstreet baguspenghubung cari kerja dgn perusahaantapi aplikasi jobstreet qu tdk login utk kirim lamar kerja,negatif
 positif,posisi hrga hc tmt group trakindi,positif
 negatif,gajelas gapernah lanjut apply,negatif
 positif,semangat cari kerja moga kuat jalan keras hidup salam sukses,positif
 positif,oknum tipu lowong kerja beneran cari kerja harap dapet kerja allhasil tipu hmmm,positif
 positif,cari kerja,positif
 negatif,jobstreet jobstreet versi mending versi versi lowong palsuhoak,negatif
-negatif,kagak ngerti gw,positif
+negatif,kagak ngerti gw,negatif
 negatif,apk nya bagus tolong tingkat tambah opsi lokasi lowong kerja nya filter benarbenar kotaprovinsi yg cari loker nya nyari loker kota muncul nya kota prefer kota,negatif
 negatif,tolong baik sistem nya bngt lowong tipu bngun kena tipu lowong mohon baik lgi,negatif
 negatif,aplikasi jobstreet banget usaha tipu undang interview ruko ruko dapet email undang interview 3 usaha lokasi nya logistikcargoproduksi manufaktur restoran lokasi interview nya wkwkwk ujung ujung nya suruh bayar wkwkwk kocak,negatif
-negatif,eror,positif
+negatif,eror,negatif
 positif,ok,positif
 negatif,jobstreet lolos ya lowong nama nama pt tipu lowong tipu alamat nya masuk list tipu status usaha tutup apdet min biar ilang lamar terang nya tutup nya dapet dapet tipu moga depan jobstreet ketat apdet tetang info lowong kerja nya terimakasih,negatif
 positif,we are engineer working not just by skill but just with believed with him,positif
@@ -283,13 +283,13 @@ positif,info lowong kerja usia atas 30th tolong info makasih,positif
 negatif,hatihati data jual pihak,negatif
 negatif,lowong langsung apply alih website jobstreet express,negatif
 negatif,realisasi panggil,negatif
-positif,alhamdulillah interview user tapiada gak interview,negatif
+positif,alhamdulillah interview user tapiada gak interview,positif
 positif,info loker update apply usah dapet email tutup,negatif
 positif,info lowong kerja mudah akses,positif
 negatif,kecewa sih daftar loker situtupini loker beneran ngak,negatif
 positif,bagus,positif
 negatif,dar nampilin loker doang udah apply gak progres sampe ber minggu loker udah posting,negatif
-positif,usaha pialang loker hoax usaha asli ngga panggil tolong blokir tuh usaha pialangloker hoax,negatif
+positif,usaha pialang loker hoax usaha asli ngga panggil tolong blokir tuh usaha pialangloker hoax,positif
 negatif,gak login minggu butuh banget cari kerja akun aktif suka cari loker minggu kemarin aja masalah gin baru cv kirain lupa password tau nya emg sana susah login tolong jgn susah login akun genting,negatif
 positif,tingkatkankeakuratan yg,positif
 negatif,data pribadi bocor,negatif
@@ -297,12 +297,12 @@ positif,alam sales engineer biasa identifikasi butuh customer lapang tawar b2b l
 negatif,respon usaha udah gitu data base nomor wa jebol kali dapet tawar kerja online bilang dapet data nya jobstreet mending ga pake apk deh cari apk jobseeker aja ya temen,negatif
 positif,terimaksih bantu,positif
 positif,aplikasi nya sih baguscuma lowong kerja yg kadaluarsa posting lagikalau baru ajatrima kasih,positif
-positif,pt tunas mobilindo praksa marketing pt mandiri tunas finance head spv ar pt mayora garut sales to pt kb finansia head col,negatif
-negatif,uda nunggu tahun ga panggil panggil mudah sulit cari kerja,positif
+positif,pt tunas mobilindo praksa marketing pt mandiri tunas finance head spv ar pt mayora garut sales to pt kb finansia head col,positif
+negatif,uda nunggu tahun ga panggil panggil mudah sulit cari kerja,negatif
 positif,senior mechanic heavy duty,positif
 positif,siip,positif
 positif,memposting lowong kerja,positif
-positif,aplikasi udah bagus lowongan2nya dusta gak panggil wawancara menang mh ttep org dalem yg kerja,negatif
+positif,aplikasi udah bagus lowongan2nya dusta gak panggil wawancara menang mh ttep org dalem yg kerja,positif
 negatif,loker fake,negatif
 positif,ok,positif
 negatif,many fake job vacancies,positif
@@ -312,24 +312,24 @@ negatif,maksud gimana nyoba daftar kaga suruh masuk akun jobstreet udah masuk ak
 negatif,karna hp sya problem uninstal apk jobstreet stelah instal ulang pas bgian daftar login loading,negatif
 positif,cocok cari kerja,positif
 positif,good,positif
-negatif,admin dkv 3 raya alf,positif
+negatif,admin dkv 3 raya alf,negatif
 positif,lowong kerja lengkap no tipu tipu surabaya east java terimakasih jobstreet,negatif
 positif,mantap,positif
-positif,ya sy email tiba2 tdk trima info jobstreet,negatif
+positif,ya sy email tiba2 tdk trima info jobstreet,positif
 negatif,aplikasi tolol tipu nya,negatif
 negatif,loker bodong interview ruko,negatif
 negatif,kbnykan lowong staf atas lowong driver khusunya dumptruk ga wilayah sulawesi tenggara,negatif
 positif,bantu cari kerja tambah wawas,positif
-positif,buka ad awat sistem,negatif
+positif,buka ad awat sistem,positif
 negatif,versi versi bagus versi yg error gabisa lihat lamar update kembang lamar kadang kadang gaada sampe lamar expired usaha bodong bener mas yg bawah jg telp tipu sampe ganti no telp lamar tdk kembang harap platform buang rencana pindah platform,negatif
 negatif,bagus aplikasi sayang manfaat usaha bodong yg bayar lamar dgn dalih yg,negatif
 negatif,30 usaha 70 relasi,negatif
 positif,moga updateinfo,positif
 negatif,bertahun2 pake aplikasi tdk satu ketrima usaha aplikasi,negatif
-positif,kembang lamar kerja aplikasi berkalikali apply bulan tunggu ubah status lamar kirim lamar kerja tolak tim it tim kembang tolong status lamar kerja update jelas guna aplikasi,negatif
+positif,kembang lamar kerja aplikasi berkalikali apply bulan tunggu ubah status lamar kirim lamar kerja tolak tim it tim kembang tolong status lamar kerja update jelas guna aplikasi,positif
 positif,kasih rekrut resumecvlamaran kerja liat baca biar serius rekrut kerja karna kasi lamar siang malam liat lamar kerja baca rekrut tingkat layan jobstreet tolong kasih baca cvresumelamaran kerja lamar lamar rekrut cepat serius nya rekrut krna ad yg smpai 7 blm d baca,positif
-negatif,chat hrd,positif
-negatif,aneh bet nih aplikasi cari dasar kota tetep ajah kota tetep tampil 1 provinsi kota cari kota sukabumi tetep muncul depok bekas bandung dah cari cari lokasi sukabumi,positif
+negatif,chat hrd,negatif
+negatif,aneh bet nih aplikasi cari dasar kota tetep ajah kota tetep tampil 1 provinsi kota cari kota sukabumi tetep muncul depok bekas bandung dah cari cari lokasi sukabumi,negatif
 negatif,aplikasi jobstret udah 3 kirim lamar blm yg nyakut d usah yg d bilang salah d file y sesuai yg d jobstret y yg d terima tipu d usah yg ngk yg ngabisin kouata internet ajamencari kerja susah banget sie,negatif
 positif,tebantu terimakasih,positif
 negatif,formalitas udah usaha lamar satu cuman liat nama nama usaha plus,negatif
@@ -346,11 +346,11 @@ negatif,percaya jobstreetbanyak tipu kerja salah satu tipu,negatif
 negatif,data nomor daftar jobstreet privasi jaga rahasia wa orang kenal tawar kerja nggak informasi nomor wa data base jobstreet tolong,negatif
 positif,mohon bantu upload resume file sesuai tentu format pdf ukur 178mb aplikasi update ponsel restart,positif
 positif,lowong sih ya gak yg nyantol ya gimana nyantol ngeselinnya dpt buanyak email undang interview tipu alamat jl industri raya no 910 gunung sahari,negatif
-positif,loker 30th,negatif
+positif,loker 30th,positif
 negatif,knapa ya info lowong yg lamar yg kadaluarsa loh,negatif
-negatif,mohon lowong kerja web gabung tera aplikasi jobstreet mengapply lowong kerja aplikasi jobstreet alih web bikin ruwet pindah web aplikasi jobstreet,positif
+negatif,mohon lowong kerja web gabung tera aplikasi jobstreet mengapply lowong kerja aplikasi jobstreet alih web bikin ruwet pindah web aplikasi jobstreet,negatif
 positif,info lowong kerja mudah fitur lamar cepat nya,positif
-negatif,info lowong banyak nipumereka pake usaha kedok nipu ratarata ruko hati hati,positif
+negatif,info lowong banyak nipumereka pake usaha kedok nipu ratarata ruko hati hati,negatif
 positif,bagus aplikasi guna cari kerja,positif
 negatif,lowong kerja scam be carefull gaes kantor yg jadiin jobstreet brand awareness doang saran pakai platform aja,negatif
 positif,ikut program ai,positif
@@ -359,15 +359,15 @@ positif,kasih bintang 5 berkas lamar panggil,positif
 positif,good,positif
 positif,bantu,positif
 negatif,aplikasi gak banget udah kirim lamar gak tindak,negatif
-negatif,mohon maaf kembang aplikasi jobstreet ulas alam aplikasi jujur buka aplikasi jobstreet kecewa gusar lowong kerja tiga validitas resmi lembaga yayasan outsourcing bayar uang gabung,positif
-negatif,banyak loker jobstreet lamar 1 tiada manggil pemangilan kerja,positif
-positif,update perinci,negatif
+negatif,mohon maaf kembang aplikasi jobstreet ulas alam aplikasi jujur buka aplikasi jobstreet kecewa gusar lowong kerja tiga validitas resmi lembaga yayasan outsourcing bayar uang gabung,negatif
+negatif,banyak loker jobstreet lamar 1 tiada manggil pemangilan kerja,negatif
+positif,update perinci,positif
 positif,ok,positif
 positif,driver duta iraq,positif
-positif,ucap terimakasih joobstreetsaya terima diperusahaansemakin bnyak lamar peluanguntuk interview offline teliti usah ajasaya syukur langsung interview tatap muka efisien memuaskanataupun interview online ikut prosedur tiap2 usaha nilai masing2 yg profesional jg semngt yaah yg,negatif
+positif,ucap terimakasih joobstreetsaya terima diperusahaansemakin bnyak lamar peluanguntuk interview offline teliti usah ajasaya syukur langsung interview tatap muka efisien memuaskanataupun interview online ikut prosedur tiap2 usaha nilai masing2 yg profesional jg semngt yaah yg,positif
 negatif,banyakkkkkk banget loker nipu,negatif
-negatif,gak jobstreet lowong rekomendasi basic kerja ngaco,positif
-positif,usaha abalabal tipu saran jobstreet ketat lagiagar usaha abalabal daftar jobstreet,negatif
+negatif,gak jobstreet lowong rekomendasi basic kerja ngaco,negatif
+positif,usaha abalabal tipu saran jobstreet ketat lagiagar usaha abalabal daftar jobstreet,positif
 positif,andal utama cari kerja,positif
 positif,sebenernya aplikasi bagus ya scam gak jobstreet proses seleksi screening perusahaan2 posting info lowong jobstreet usaha abal2 masuk posting info lowong mohon ketat seleksi usaha posting lowong rugi cari kerja terima kasih,positif
 positif,good,positif
@@ -378,9 +378,9 @@ negatif,aplikasi gak lowong update 1hr 3hr info lowong sdh tutup kaya cv gak kir
 negatif,masukin cv jobstreet alhamdulillah emailwa panggil interview yg telusur tipu mohon baik,negatif
 negatif,tipu aplikasi interview minta uang kisar sampe 18jt sedih kho kerja bayar ngeluarin uang bikin cv bayar transportasi tempat viral tiktok lapor ga tuh berita penakapan interview bodong miris,negatif
 negatif,gajelas banget sumpah gua udah apply 1 ga respon panggil interview terang doang sampe tuh lowong tutup bodoh publik lol mending glints cepet,negatif
-negatif,aplikasi bagus usaha dijobstreet banyak nipu panggil butik gitu pas dichat telegram konfirmasi pesan mana saldo top up kecewa sekali aplikasi ini bayang lowong palsu jobstreet mohon telusur lowong beneran cari kerja serius cari kerja main,positif
+negatif,aplikasi bagus usaha dijobstreet banyak nipu panggil butik gitu pas dichat telegram konfirmasi pesan mana saldo top up kecewa sekali aplikasi ini bayang lowong palsu jobstreet mohon telusur lowong beneran cari kerja serius cari kerja main,negatif
 negatif,aplikasi kocak panggil kerja yg aplikasi hoax gaada yg bener coba make apl 2021 tetep aja,negatif
-positif,kecewa sih oknum tipu yg manfaat apk udah kali interview lolos ujung main uang pas calon yg tipu juta rupiah tolong tinjau oknum nakal harga yg serius cari kerja bantu orang tua,negatif
+positif,kecewa sih oknum tipu yg manfaat apk udah kali interview lolos ujung main uang pas calon yg tipu juta rupiah tolong tinjau oknum nakal harga yg serius cari kerja bantu orang tua,positif
 negatif,fu usaha buka lowong,negatif
 negatif,hatihati lamar kerja online dijobstreet juni kemarin kena tipu lolos ya lowong bodong masuk aplikasi jobstreet,negatif
 negatif,nyoba cuman trouble pas daftar masuk ntah,negatif
@@ -388,12 +388,12 @@ positif,muas,positif
 negatif,berpuluh2 kali kirim lamar kerja blm panggil dri 2022 sd 2024 tolong baik jobstreet ya udah penuh syarat2nya sesuai yg butuh klo panggil says kasih bintang 5,negatif
 negatif,aplikasi ga lamar laku pas liat gmail loker dah tutup kocak trs lamar yg kemaren kemanaklo dah tutup gausah iklaninpayah,negatif
 positif,lowong kerja palsu tolong ketat izin terimakasih,positif
-positif,alam kerja usaha langsung ketemu hrd alhamdulillah test interview,negatif
+positif,alam kerja usaha langsung ketemu hrd alhamdulillah test interview,positif
 negatif,banyak loker bodong nama pt nya ngga alamat nya ngga cantumin nya dpt email interview d kasih maps engga next perhati utk delevop nya pinter sortir yg bener yg engga biarin masuk ngerugiin orang yg bener nyari kerja,negatif
 negatif,data nomor hp sebar wa aku database aplikasi jobstreet hati hati,negatif
 positif,kereen,positif
 positif,bantu cari lowong kerja,positif
-positif,ga ya hubung usaha bodong gak apply usaha tsb kalimat cantum kalo dpt data app tolong amanin udh aktif mode comot data yg bodong2 ga apply mohon tingkat aman terimakasih,negatif
+positif,ga ya hubung usaha bodong gak apply usaha tsb kalimat cantum kalo dpt data app tolong amanin udh aktif mode comot data yg bodong2 ga apply mohon tingkat aman terimakasih,positif
 positif,done,positif
 positif,pilih rentang gaji sesuai 10 langsung 15 jenjang 101213,positif
 positif,manfaat banget,positif
@@ -404,17 +404,17 @@ positif,bagus,positif
 positif,baik,positif
 negatif,susah urut cari baru lama acak susah liat lowong yg,negatif
 negatif,gua pake aplikasi 2015 sampe detik perna nyangkut isi kolom kolom nya gua lengkap lengkap enak linkedin kaya,negatif
-negatif,upload resume,positif
-positif,kecewa jobstreet upload surat lamar format pdf susah makan konversi file nya mohon tinjau terimakasih,negatif
-negatif,ramah fresh graduate,positif
+negatif,upload resume,negatif
+positif,kecewa jobstreet upload surat lamar format pdf susah makan konversi file nya mohon tinjau terimakasih,positif
+negatif,ramah fresh graduate,negatif
 negatif,aplikasi lucu orang nyari lowong kerja manfaatin tipu banget dapet panggil interview pas cek tipu,negatif
 negatif,susah daftar nya,negatif
 negatif,bocor dataini bukti pesan wa pt b lamar pt a bukti data bocor oknum ga tanggung jawablebih tingkat usaha valid akses data penggunapencari kerja,negatif
-positif,kalo dapet email interview tempat ya beda usaha tempat situ situ aja sebrang hotel orchardz,negatif
+positif,kalo dapet email interview tempat ya beda usaha tempat situ situ aja sebrang hotel orchardz,positif
 negatif,gak,negatif
 negatif,udah coba kirim lamar engga lihat satu kualifikasi niat cari karyawan iseng posting,negatif
 negatif,login,negatif
-negatif,dapet kerja suka kontak masuk gajelas nawarin kerja gajelas pake online hp aja gimana si kerja kaga dapet no sebar mana,positif
+negatif,dapet kerja suka kontak masuk gajelas nawarin kerja gajelas pake online hp aja gimana si kerja kaga dapet no sebar mana,negatif
 negatif,ratus lowong lamar jobstreet satu panggil,negatif
 negatif,aplikasi pea buang buang paket gw ngelamar 4x loker bodong kocak kadang ni apk nyari kerja gimana konsep nya dah developer beneran dikit msih loker nipu jobstret ngotak gw ken dtgin anjir,negatif
 negatif,usaha scam buka lowong kerja dapat kontak person lamar kali hubung tawar pekerjaaan ujung2nya bayar jobstreet seleksi usaha fiktif hati2 lamar usaha identitas usaha sembunyi,negatif
@@ -429,19 +429,19 @@ positif,peluang luas,positif
 positif,good banget,positif
 positif,bagus bantu aplikasi sngt sayang hny dar formalitas perusahaan2 menginklankan jobstreet melamar2 jobstreet usaha apply lihat respon lamaran2nya batas buka lamar tutupindonesiacemas2045,positif
 positif,moga kerja,positif
-negatif,bad experience never get a job from this apps,positif
+negatif,bad experience never get a job from this apps,negatif
 positif,iya salam salam sahabat dr erba saputra mt,positif
 positif,awas lapang,positif
 positif,staff brikes,positif
 negatif,aplikasi jelek gk kaya dulusetiap buka update terusbusuk,negatif
-negatif,loker yg,negatif
+negatif,loker yg,positif
 positif,terimakasih aplikasi jobstreet aplikasi sayah kerja,positif
 positif,mantab,positif
 positif,bagus,positif
 negatif,developer nya banyak tidur lokasi lokasi loker tampil beda query nya baik api backend nya kocak,negatif
 negatif,kemarin akun sign out sign in ga kolom email password gk muncul loading 1 hari paket data ku 250 gb,negatif
 negatif,aja download uda coba daftar langsung masuk pake email msih trouble aja gbisa login ktnya suruh contact support,negatif
-negatif,php doang,positif
+negatif,php doang,negatif
 negatif,udh bolak daftar akun tp ttp aja ga masuk2 ga tau deh,negatif
 positif,moga kerja,positif
 positif,coba lang,positif
@@ -465,7 +465,7 @@ negatif,300 lamar 95 terang lamar kadaluarsa,negatif
 negatif,percaya app app tipu kk download app kerja nya kerja tipu hatihati kena,negatif
 positif,manatab,positif
 positif,aplikasi yg ok,positif
-positif,mohon update open hiring nya update info yg siar telat mulai hiring usaha,negatif
+positif,mohon update open hiring nya update info yg siar telat mulai hiring usaha,positif
 positif,bantu,positif
 positif,jobstreet yes,positif
 negatif,data bocor wa gua telusur tu usaha ga,negatif
@@ -474,17 +474,17 @@ negatif,dapet panggil tuh aplikasi iniudah,negatif
 negatif,masak login gak bisakatanya perbaikanmaksudnya ya,negatif
 positif,mudah cari info loker yg,positif
 positif,bagus jobstreet lamar kerja thank you jobstreet,positif
-positif,saran aja lowong akurat fresh lamar serius yakinterus tunggu hasil,negatif
+positif,saran aja lowong akurat fresh lamar serius yakinterus tunggu hasil,positif
 negatif,tolong kembali jobstreet versi,negatif
 negatif,udah ngirim cv ratus ribu 1 usaha interviewmenerima kerja orang sulit ijazah s1 lawan ijazah smaijazah sma orang masuk lulus sma lulus s1 abai cv nya buang baca aneh jaman alas gantung usaha mah orang lulus doktor gabakal masuk kerja,negatif
 negatif,aplikasi ga dapet panggil kerja aplikasi payah,negatif
-negatif,aneh aplikasi cari kerja jobstreet glints dll hasil nihil apk real info loker yg butuh usaha rekayasa,positif
+negatif,aneh aplikasi cari kerja jobstreet glints dll hasil nihil apk real info loker yg butuh usaha rekayasa,negatif
 positif,great aplikasi bukti kerja aplikasi jobstreet sayang tampil aplikasi bagus notifikasi undang interview usaha skrg lihat email tau,negatif
-negatif,having trouble view kawan,positif
+negatif,having trouble view kawan,negatif
 positif,good kerja kerja dai jobstreet terimakasih,positif
 positif,ok mantap bantu,positif
-negatif,kali kali ngirim lamar 2 nggak terima notif nya lamar alami maju ya gimana maju baca usaha nggak lamar kadaluarsa aplikasi iming2 kerja sekian bnyak komentar ketemu komentar orang terima kerja jobstreet terima kasih memabaca keluh kesah capek cari kerja negeri,positif
-positif,thank you jobstreet kali kerja sampe 4 kali pindah usaha aply lamar salam lina,negatif
+negatif,kali kali ngirim lamar 2 nggak terima notif nya lamar alami maju ya gimana maju baca usaha nggak lamar kadaluarsa aplikasi iming2 kerja sekian bnyak komentar ketemu komentar orang terima kerja jobstreet terima kasih memabaca keluh kesah capek cari kerja negeri,negatif
+positif,thank you jobstreet kali kerja sampe 4 kali pindah usaha aply lamar salam lina,positif
 negatif,aplikasi tipu banget job tipu disinijadi yg install aplikasi extra hatihati,negatif
 positif,gue herann aplikasi udah 1 kirim lamar loker 1 panggil atu gimana aneh nya poin alam panggil,negatif
 positif,good,positif
@@ -495,9 +495,9 @@ negatif,jelek aja sie suka,negatif
 negatif,apply gak usaha baca kirim 50 lamar 2 baca 1 tahap interview cv lengkap kunci sesuai syarat recruiter lamar lulus s1 milik kurleb 5 alam kerja gimana cv,negatif
 negatif,masukin sandi keybord yg muncul bahasa arab pdahal masukin email keybord ny bahasa indonesia,negatif
 positif,bagus an jobstreet ka dpt panggil kerja dlu terang banding,positif
-negatif,aplikasi asu,positif
+negatif,aplikasi asu,negatif
 negatif,usaha lowong jobstreet lihat doang ga panggil main kandidat capein juang kandidat ujung tau biodata trus panggil aplikasi lowong mau hapus aplikasi lowong jobstreet biar usaha susah nyari kandidat tolong chat hrd aplikasi glints,negatif
-positif,lowong tipu download gays mending nyari orang nyari kerja situs online,negatif
+positif,lowong tipu download gays mending nyari orang nyari kerja situs online,positif
 positif,good,positif
 negatif,bat loker tipu nya,negatif
 negatif,lowong gajelas boroboro panggil interview hm,negatif
@@ -505,42 +505,42 @@ positif,coba fitur tanda kerja yg lamar mudah user berulang2 lamar kerja usaha y
 negatif,loker palsu alamat lokasi ruko ruko,negatif
 negatif,login pake google ribet bgt,negatif
 negatif,jobstreet tolong usaha anonim daftar data ptperusahaan yg ditolakdikarenakan nya interview bayar masuk ptperusahaandengan jamin bla bla bla bayar gaji tunggu 1 minggu,negatif
-negatif,aplikasi busuk,positif
+negatif,aplikasi busuk,negatif
 positif,5 jobstreet sarana kerja,positif
-negatif,bug,positif
+negatif,bug,negatif
 positif,jossssss,positif
 negatif,loker tipu ujung duit,negatif
 positif,terimakasih jobstreet manfaat ubah karir hidup berkat aplikasi mudah temu usaha sesuai minat 2017 sampe awal jobstreet terimakasih,positif
 negatif,kemaren bgtt dapet interview bodong first time nyoba cari loker app kek gin eh sekali apply zonk pake app langsung cantumin data kaya cv gitu banget panggil interview palsu emailwa udah buang tenaga dateng lokasi pas nyampe uang ngga kasi bangett jobseeker udah dateng ngeluarin uang iming jamin loker palsu tiati jobseeker juang,negatif
 negatif,aplikasi udah ngelamar 100 pt nunggu 6 aja gak panggil aplikasi scam kah,negatif
 positif,,positif
-positif,pt wahana lestari investama 20132018 sekretaris kelola upt sp i huaulu sekretaris pemuda negeri besi,negatif
+positif,pt wahana lestari investama 20132018 sekretaris kelola upt sp i huaulu sekretaris pemuda negeri besi,positif
 negatif,versi sadar sekian lamar kirim surat lamar simpan usaha lamar kirim surat lamar nama pt ribet,negatif
 positif,info nya lengkap,positif
 positif,good,positif
-negatif,syarat sulit lamar alami maju aplikasi kes main lamar cari kerja maaf uninstall aplikasi nya kecewa,positif
+negatif,syarat sulit lamar alami maju aplikasi kes main lamar cari kerja maaf uninstall aplikasi nya kecewa,negatif
 negatif,tipu,negatif
 negatif,app ga apply udah 3 blom pnggilan app ga memudhkn bukti ngga nihil dampah,negatif
 negatif,susah bgt sign in,negatif
 positif,terima kasih jobstreet bantu,positif
 negatif,aplikasi loker bangkepuluhan kirim lamaran1 usaha nggak yg responhati2 gaes jng data curi,negatif
 positif,visi misi usaha diri tuju 1mengembangkan usaha tiada batas kerja keras bahagian management padu 2pencapaian dukung hasil maksimal laba hasil kerja usaha tampa gantung pinjamankredit bank 3didukung sdm trampil profesional 4motto usaha haram kkn nepotisme korupsi,positif
-negatif,download jobstreet seekmax seekmax ya,positif
+negatif,download jobstreet seekmax seekmax ya,negatif
 positif,,positif
 negatif,loker hoaxxxxx,negatif
 negatif,aplikasi yg buruk jgn download nyesal kali gitu yg gak masuk akal,negatif
 negatif,login nyaman baharu eror login nya,negatif
 negatif,rekomendasi cari kerja jobstreet tipu nya,negatif
-negatif,bangun tidur bukabuka jobstreet nyoba ngelamar sono eh kagak dapet,positif
+negatif,bangun tidur bukabuka jobstreet nyoba ngelamar sono eh kagak dapet,negatif
 negatif,dah aplikasi login orang kenal enak nya login fb ku,negatif
 positif,like,positif
 positif,moga aplikasi bantu dlm kerja terimakasih,positif
 positif,manfaat,positif
 positif,lumayan bagus,positif
 positif,good,positif
-positif,baru,negatif
+positif,baru,positif
 positif,team leader,positif
-negatif,suka aplikasi nomer telepon akses tipu tuju cari kerja sulit pakai aplikasi dapat tipu cari uang cari kerja,positif
+negatif,suka aplikasi nomer telepon akses tipu tuju cari kerja sulit pakai aplikasi dapat tipu cari uang cari kerja,negatif
 positif,baik aplikasi kerja tempat luar daerah nikmat kerja,positif
 negatif,banyak loker yg post ulang minggu nya gak yg ubah aja loker nya,negatif
 positif,ok,positif
@@ -559,20 +559,20 @@ positif,lokernya tarik percaya,positif
 negatif,aplikasi tipu ini lowong kerja hoax rugi cari kerja tolong baik terima perushaan bodong aplikasi ga baguss bngt aja usaha bodong tipu sukaa mintain duitt orang lamar nominal nya ckup mohon tindak lanjut usah bodong tipu,negatif
 negatif,isi tipu,negatif
 negatif,aplikasi cari daerah acakacakkan akurat loket tutup,negatif
-negatif,g jlas g atur dcari krjaan terna yg muncul lowongantukang cukur house keeping lain2 g tratur,positif
+negatif,g jlas g atur dcari krjaan terna yg muncul lowongantukang cukur house keeping lain2 g tratur,negatif
 negatif,data bes bocor,negatif
 negatif,update login via apk via website,negatif
 positif,terima kasih,positif
 positif,bantu,positif
 negatif,jobstreet maaf banget nih ya kasih rating gin tolong min kalo ngasih konfirmasi usaha ngadi ngadi banget bodong and interview ruko usaha bandung aja aplikasi cabngnya jakarta,negatif
-positif,login aplikasi jobstreet nya mohon bantu nya kak,positif
+positif,login aplikasi jobstreet nya mohon bantu nya kak,negatif
 negatif,jobstreet bagus bagus yg format,positif
 positif,apk bagus,positif
-negatif,kadaluarsa nya lowong kerja,positif
+negatif,kadaluarsa nya lowong kerja,negatif
 negatif,upload cvnya bikin emosi gk bs2apus akun gw suu,negatif
 positif,great,positif
 positif,cepat akurat,positif
-negatif,aplikasi error gmna pas search job lokasi kota semarang muncul,positif
+negatif,aplikasi error gmna pas search job lokasi kota semarang muncul,negatif
 positif,,positif
 positif,bgt bantu mksh ya jobstreet berkat jobstreet cepat kerja posisi yg,positif
 positif,operator produksi rawat mesin produksi,positif
@@ -581,32 +581,32 @@ positif,bantu gratis ya lbh depan mudah lg thank u,positif
 negatif,tipu,negatif
 positif,good job,positif
 negatif,aplikasi payah susah login ga sprti up date,negatif
-negatif,error mulu,positif
+negatif,error mulu,negatif
 negatif,aplikasi guna loker expired download,negatif
 negatif,tolong filter usaha buka lowong udah dapet 3x lowong tipu thanks,negatif
 positif,kerja apk real thank jobstreet,positif
 negatif,lumayan,positif
-negatif,aplikasi nge bug mulu kntl bikin kesel orang cari kerja aja,positif
+negatif,aplikasi nge bug mulu kntl bikin kesel orang cari kerja aja,negatif
 negatif,2 coba lamar kerja pakai aplikasi ratus kali apply satu hasil panggil kerja panggil interview satu,negatif
 negatif,tipu,negatif
 positif,mantap,positif
 positif,kerja garmen 11 th lebihsemoga terima operator cuttingapa,positif
 negatif,hei developer update login dalam aplikasi jobstreet loading update mohon maaf uninstal kirim problem email tanggap kecewa jobstreet aplikasi yg bagus cari kerja kacau login akun,negatif
 negatif,sekian lamar yg kirim panggil masuk,negatif
-positif,lowong share usaha benefit cuman panggil,negatif
+positif,lowong share usaha benefit cuman panggil,positif
 negatif,dah sekarangbaru dapet kerja gak apk tipu mulu hubungin ya dapet dahhhh,negatif
 negatif,udah ratus kali melamartp tembus batas lihat usaha lanjut kadaluarsamasih rejekinya,negatif
 negatif,yg tau call senter jobstreet ga tolong ya nomor wa ga aman banget yg nawarin kerja via wa ngatasnamain jobstreet gimana solusi nya aplikasi aman,negatif
-negatif,susah cari kerja aplikasi cepet banget dapet kerja 2 gag mudah aneh status lamar usaha ubah status main main aplikasi jobstreetnya yah,positif
+negatif,susah cari kerja aplikasi cepet banget dapet kerja 2 gag mudah aneh status lamar usaha ubah status main main aplikasi jobstreetnya yah,negatif
 positif,nya ribet aplikasi nya lamar apploat,negatif
-negatif,suka ekspress sii bagus jugaa biar ga ngatur ngatur lagi tinggal lamarr,negatif
+negatif,suka ekspress sii bagus jugaa biar ga ngatur ngatur lagi tinggal lamarr,positif
 positif,good,positif
 negatif,loker tipu sialannn tolong seleksi rekrutmen,negatif
 negatif,buka detail loker,negatif
 negatif,login nya susah lamar jya susah,negatif
 negatif,loker nya hoax 99 nipu kerja udh dimintain duit uang admin nyagk tangung tangung lg 1600 ruko bekas ruko gren gaden ruko pesing blm yg nya iniminta nya maksa,negatif
 negatif,min tolong kelola lokernya bnyak loker tipu satin ruko contoh lokernya pt karunia megah sejahtera kasihan gara gara jobstreet suruh interview ruko byar 475000 than dp,negatif
-negatif,buseettttt kacau nih app,positif
+negatif,buseettttt kacau nih app,negatif
 positif,bantu cari kerja ga mutermuter cari kerja ngabisin ongkos,positif
 negatif,filter daerah nya ga guna,negatif
 positif,lokernya,positif
@@ -617,13 +617,13 @@ negatif,udh 5 bln applay cv g ad yg dipanggilnih aplikasu bnran bohong,negatif
 negatif,filter search job nya tolong baik relevan cari,negatif
 positif,bagus aplikasi bantu cari kerja,positif
 positif,good,positif
-negatif,pt sampah isi nya yg isengiseng cari karyawam murah,positif
+negatif,pt sampah isi nya yg isengiseng cari karyawam murah,negatif
 negatif,loker bodong panggil kerja palssu,negatif
 positif,bagus lowong kerja,positif
 negatif,login pake email yg,negatif
-negatif,aplikasi gajelasdalam baik mulu,positif
+negatif,aplikasi gajelasdalam baik mulu,negatif
 positif,bantu thanks jobstreet,positif
-negatif,lamar jobstreet lamar linkedin wkwkwk susah bgt dpt panggil kerja drisini status progressnya smpe apk rekomended cari kerja,positif
+negatif,lamar jobstreet lamar linkedin wkwkwk susah bgt dpt panggil kerja drisini status progressnya smpe apk rekomended cari kerja,negatif
 negatif,kalo gak tutup kada luarsa,negatif
 positif,kasi bintang 5 yg kreatifitas aplikasi mas donludsemoga hasil kerja aplikasi,positif
 positif,leader qcchip qcleader qc inline,positif
@@ -631,25 +631,25 @@ negatif,udah 2 ngirim lamar 100 apply gak yg nyangkut satu,negatif
 negatif,instal ya tulis aplikasi instal gana ya min,negatif
 positif,mantap,positif
 positif,cari kerja hormat aplikasi sedia lowong kerja temu lowong kerja penipuanbermasalah lapor aplikasi lamar panggil patah semangat lamar peluang kalo rezeki ya tukar sekian katakata ulas kedok tausiyah,positif
-positif,aplikasi bagus error proses nang tolong cepat maintenance nya blm buka aplikasi baik,negatif
+positif,aplikasi bagus error proses nang tolong cepat maintenance nya blm buka aplikasi baik,positif
 negatif,ga banget appnya login ga bisa2 mulu euy mending buka pake web dah sorry gw delete app ga,negatif
 positif,nice,positif
-positif,alam pt dewasutratex pt ramaputratexpt warna indah samajaya pt ramatex pt djatatex ptheksatex indah pt budi agung sentosa kerja dyeing finishing,negatif
+positif,alam pt dewasutratex pt ramaputratexpt warna indah samajaya pt ramatex pt djatatex ptheksatex indah pt budi agung sentosa kerja dyeing finishing,positif
 positif,smga bantu,positif
 negatif,aplikasi loker tipu,negatif
 positif,ko gbisa instal ya pdhal udh download,positif
 positif,aplikasi bagus simple mudah cari kerja kali lulus kuliah th 2013 aplikasi linkedn,positif
-negatif,suka jobstreet versi gamblang cv lihat notif lanjut pemberitahuan notif lihat urus lanjut moga ubah thanks,positif
+negatif,suka jobstreet versi gamblang cv lihat notif lanjut pemberitahuan notif lihat urus lanjut moga ubah thanks,negatif
 negatif,apa apk ga guna spam email doang,negatif
 negatif,loker sampah isi jelasyg tipu gila gak tu,negatif
 positif,good panggil wawancara,positif
 negatif,banyak iklan update 5 parah,negatif
 positif,manfaat jobseeker,positif
-positif,udh ngirim 15 usaha ko blm yg nyantol 1 piye iki,negatif
+positif,udh ngirim 15 usaha ko blm yg nyantol 1 piye iki,positif
 positif,moga dukung raih sukses amin yarobbi,positif
 negatif,saran aja nih admin jobstreet usaha daftar departemen tenaga kerja depnaker mohon keluar aplikasi cenderung hubung lamar wa telpon langsung datang usaha ruko nama pt nya tempel pintu kaca nya,negatif
 positif,goodds,positif
-positif,loker palsu cantum an anonim rugi cari kerja mohon baik evaluasi yg dtampilkan ciri ciri rekrut yg milik ktp miniaml ijazah sma usia max 45 seringkali dihub via whatsapp lamar cv yg cantum terimakasih,negatif
+positif,loker palsu cantum an anonim rugi cari kerja mohon baik evaluasi yg dtampilkan ciri ciri rekrut yg milik ktp miniaml ijazah sma usia max 45 seringkali dihub via whatsapp lamar cv yg cantum terimakasih,positif
 negatif,apk sampah banyak loker nipu,negatif
 positif,oke,positif
 negatif,download apk sihbanyak banget loker penipuannyacari aja kek apk sebelahhati hati loker penipuannyasad banget korbannyagak jelek apk alamin sendirisemoga gk korban,negatif
@@ -661,42 +661,42 @@ positif,aplikasi bagus memcari kerja,positif
 positif,aplikasi terpercayamudah paham bantu,positif
 positif,ok,positif
 positif,bagus,positif
-positif,kurang ga filter progress lamar kerja cari lamar progress saran buat filter progress dilanjutkanlanjut nya,negatif
+positif,kurang ga filter progress lamar kerja cari lamar progress saran buat filter progress dilanjutkanlanjut nya,positif
 positif,bantu,positif
 positif,bagus apl yg cuy,positif
-positif,developer hormat update uninstal aplikasi instal login akun jobstreet jaring internet stabil loading login tolong bantu login,negatif
+positif,developer hormat update uninstal aplikasi instal login akun jobstreet jaring internet stabil loading login tolong bantu login,positif
 positif,perfect,positif
 negatif,stuck registrasi ya masukin email pw ngestuck situ ga masuk apknya,negatif
 positif,mantap,positif
 negatif,yg kasih rating bagus bintang 5 hoak dgn nyata nya sy senang panggil tesinterview sesuai alamat pt alamat kantor ruko orang susah payah nekat sakin senang panggil ujung uud,negatif
 positif,info lowong kerja feedback tahap interview terima kerja,positif
-negatif,hati hati guna aplikasi jgn unduh hoak alamat tuju sesuai oknum yg orang niat kerja uang duluan mending bener mah jgn unduh apk,positif
+negatif,hati hati guna aplikasi jgn unduh hoak alamat tuju sesuai oknum yg orang niat kerja uang duluan mending bener mah jgn unduh apk,negatif
 positif,aplikaisnya bagus mudah penggunaanya banget lamar panggil moga segra dapet panggil kerja,positif
-positif,baharu apk terang apa usaha yg dilamarseharuanya tingkat contoh lamar proses tidaksehingga si lamar harap,negatif
+positif,baharu apk terang apa usaha yg dilamarseharuanya tingkat contoh lamar proses tidaksehingga si lamar harap,positif
 positif,rekom banget,positif
-negatif,keamanankurang nomer pribadi sebar mana,positif
+negatif,keamanankurang nomer pribadi sebar mana,negatif
 positif,titip doa admin kerja yg gaji rataamin,positif
 positif,nice,positif
 positif,aplikasi manfaat bantu mudah cari kerja,positif
-positif,suka jobstreet versi mana masukin lamar usaha si rekruter tarik dgn profil tera terang profil x1 x2 dst tanda hubung si rekruter si rektuter cocok dgn profil yg versi cuman terang aja ga terang lihat xxx kurang versi sekrang versi fitur dimasukin,negatif
+positif,suka jobstreet versi mana masukin lamar usaha si rekruter tarik dgn profil tera terang profil x1 x2 dst tanda hubung si rekruter si rektuter cocok dgn profil yg versi cuman terang aja ga terang lihat xxx kurang versi sekrang versi fitur dimasukin,positif
 positif,lumayan,positif
 positif,bantu cari kerja,positif
 positif,nya kerja,positif
 negatif,aplikasi bagus aplikasi job glient lamar kerja rekomended banget kali kirim lamar kerja respon kirim puluh lamar kerja respon,positif
 negatif,banyak loker ga,negatif
-positif,app bagus tinggal baik cari dikotakab saran kl loker yg closedtutup tolong konfirmasi usaha ditake out,negatif
+positif,app bagus tinggal baik cari dikotakab saran kl loker yg closedtutup tolong konfirmasi usaha ditake out,positif
 positif,bantu info percaya,positif
 positif,informasi loker nya valid ga si min serius nanya,negatif
 positif,aplikasi cari kerja bagus dpt kerja dr aplikasi,positif
 positif,mudah cari lamar kerja,positif
-negatif,alam ternak ayam telor,positif
+negatif,alam ternak ayam telor,negatif
 positif,thank you,positif
-positif,butuh sabar klo masuk,negatif
+positif,butuh sabar klo masuk,positif
 positif,bagusss apk nyasaya kerja apk,positif
 positif,bantu cari loker jobstteet,positif
-negatif,lamar kerja nya ribet,positif
+negatif,lamar kerja nya ribet,negatif
 positif,gabung mudah daftar mudah kerja mudah,positif
-positif,aplikasi hp jadwal interview wawancara kalo skrg mah udah gabisa tolong adakan fitur,negatif
+positif,aplikasi hp jadwal interview wawancara kalo skrg mah udah gabisa tolong adakan fitur,positif
 positif,menu profile tambah taut sosial media otomatisasi logo github linkedin stack overflow tarik kolom informasi pendek isi informasi,positif
 negatif,udah panggil kerja aplikasi,negatif
 positif,ok,positif
@@ -704,19 +704,19 @@ negatif,tau data bocor jadi modus mula hati sih kasih modus kripto,negatif
 positif,bagus bantu cari kerja 5 lamar hasil lamar tutup,positif
 positif,jobstreet profesional cari lowong kerja,positif
 positif,mantap,positif
-negatif,lamar kerja tdk tolak aplikasi jobstreet,positif
+negatif,lamar kerja tdk tolak aplikasi jobstreet,negatif
 negatif,tipu,negatif
 positif,moga aja dapet kerja apk,positif
 positif,,positif
-negatif,gimana ceritanyaa sih gw download gada lowong bener aje,positif
+negatif,gimana ceritanyaa sih gw download gada lowong bener aje,negatif
 positif,bantu kerja,positif
 negatif,bagus,positif
 positif,apk bantu mudah temu kerja rekomendasi,positif
 positif,tau dpt kerja yg sesuai,positif
 negatif,klo apply otomatis link gak,negatif
-negatif,ribet,positif
-positif,moga kredible lowong benar2 lowonga hoax tipu,positif
-positif,hrd ga supervisor,negatif
+negatif,ribet,negatif
+positif,moga kredible lowong benar2 lowonga hoax tipu,negatif
+positif,hrd ga supervisor,positif
 negatif,bagus update kurang update 1 ui aplikasi pc laptop hp jelek range salary lg lampir surat lamar cv 2 proses lamar usaha lolos tarik 3 cari lowong kerja range gaji sesuai gaji yg harap aplikasi transparan privasi gitu,negatif
 positif,suka,positif
 positif,bagus sdh 69thnapa,positif
@@ -725,36 +725,36 @@ positif,good,positif
 positif,mantap,positif
 negatif,info loker ga dapet panggil interview ga lamar usaha pas cek nama usaha maps google ga nemu,negatif
 positif,bantu kerja,positif
-negatif,applikasi mutu aplikasi bapuk,positif
-negatif,apply kyenya alam kerja usaha,positif
+negatif,applikasi mutu aplikasi bapuk,negatif
+negatif,apply kyenya alam kerja usaha,negatif
 positif,aplikasi bantu,positif
 negatif,aplikasi job seeker telat update loker dapet notifikasi email loker cek lokernya 10hari 3 14 berharihari cek info loker gimana kerja aplikasi guna notifikasi update loker nya,negatif
 negatif,gk kerja update mulu lot aplikasi nya,negatif
 positif,ok,positif
 positif,mantaf kerens utk info loker berqualitas,positif
-negatif,kecewa apk jobstreet percaya contoh apply part time bioskop cgv poins wa tiktok affiliate kerja online ngelike in postingan orang sesuai balas job apply contoh pokok apply wa mirip2 guna balas,positif
+negatif,kecewa apk jobstreet percaya contoh apply part time bioskop cgv poins wa tiktok affiliate kerja online ngelike in postingan orang sesuai balas job apply contoh pokok apply wa mirip2 guna balas,negatif
 positif,guna 2015 info loker banyakaplikasi bantu sekalitapi info loker nama usaha rahasia indikasi negatif,positif
 negatif,banget spam link aplikasi klik lamar aplikasi cari kerja aplikasi iklan aplikasi banyak lowong apk hoax gak ubah,negatif
 positif,bantu,positif
-negatif,notifikasi anjirr,positif
+negatif,notifikasi anjirr,negatif
 positif,coba langsung kasih bintang 5,positif
 positif,terimakasih jobstreetdisini temu kerja yg baik,positif
 negatif,jg prnah pakai apk lgi prnah mngalami kjadian pnipuan prtama kali sy ngrantau bnyk pabrikpt stelah pnggil interview daerah jaktim sy pakai grab abang grabny google gk pt yg mngadakn interview pikir sy udh ga enak brhentilah pom bensin tnya bnr ga pt stelah jalan aj tuh ssuai titik lokasi habis turun dri grab ad sorg laki yg nyuruh masuk lakukn interview ky mksa banget interview ditnya eh duitfiks pnipuan,negatif
-negatif,lowong kerja tipu2 semuaala negara konoha,positif
+negatif,lowong kerja tipu2 semuaala negara konoha,negatif
 positif,good,positif
 negatif,tutup aplikasi lamar gak 1 terpangil trus ngebung pemberitahuan nya 1 email masuk muncul usaha gak bales jobstreet nya ngebung,negatif
 positif,salah portal informasi cari kerja info nya up date mudah utk lamar sesuai fungsi kerja nya info feedback nya,positif
 negatif,100 lamar prosentase baca 5 persen lebih update tolak apa loker expired fitur sembunyi hapus loker loker baca sesuai ga muncul cari,negatif
 positif,mudah informasi lowong kerja terima kasih,positif
 negatif,loker tipu,negatif
-negatif,alah lokernya basi smuaa kadaluarsa smua tutup smuaa,negatif
+negatif,alah lokernya basi smuaa kadaluarsa smua tutup smuaa,positif
 positif,berkat aplikasi kerja mana suka usaha iming iming kerja usaha masuk aplikasi mohon sortir usaha terima kasih admin,positif
 negatif,blm prnh dpt kerja usaha liat cv aja yg ga liat,negatif
 positif,jobstreet profesional baik program,positif
 negatif,ya tipu loker lolos masuk apk,negatif
 negatif,10 jobstreet satu panggil php tingkat,negatif
 positif,bagus,positif
-negatif,bagus baharu eh bagus ancur lokernya gk ter update loker muncul,positif
+negatif,bagus baharu eh bagus ancur lokernya gk ter update loker muncul,negatif
 positif,good,positif
 positif,bantu orang yg informasih lowong kerja lengkap job street daerah lokernya trmksh,positif
 negatif,ngirim lamar udah puluh ga yg nyangkutbeda aplikasi kitalulusngirim lamar langsung respon hrdudh kali panggil interviewudh jelek skarnag jobstreetga kaya dulumungkin udah males2an ngurus situs,negatif
@@ -775,36 +775,36 @@ positif,mantap bantu bwngt butuh kerja,positif
 positif,project coordinator pulp paper project,positif
 negatif,gak login alih chrome udah user passwordnya gak support android versi 10 mohon update jalan android versi 10,negatif
 positif,lumayan,positif
-negatif,aplikasi filter lokasi kerja contoh cari kerja cibinong muncul lokasi aneh,positif
+negatif,aplikasi filter lokasi kerja contoh cari kerja cibinong muncul lokasi aneh,negatif
 positif,aplikasi bagus,positif
 positif,good,positif
 positif,bantu cari kerja sesuai,positif
 positif,bagus,positif
 positif,bantu cari kerja sesuai dgn alam,positif
 positif,mantul,positif
-positif,udh pas isi email huruf yg lewat gabisa ubah sampe tolong solusi,negatif
+positif,udh pas isi email huruf yg lewat gabisa ubah sampe tolong solusi,positif
 positif,aplikasi cari kerja andal thanks jobstreet,positif
 negatif,tipu ati,negatif
-negatif,aplikasi kerja lamar 100 lamar bagai perusaaan tp hasil nol,positif
+negatif,aplikasi kerja lamar 100 lamar bagai perusaaan tp hasil nol,negatif
 positif,mantap,positif
 positif,update baru kolom cari error,negatif
 negatif,aplikasi tipu lowong kerja akurat,negatif
 positif,bantu cari kerja,positif
 positif,top kali dpt kerja,positif
-positif,bagus baget aplikasi nya rekomendasi bgt bnyk info loker kerja tp aneh nya 2 thn kirim lamar jobstreet panggil kerja terima kerja mohon maaf yg salah yg iklanin loker kerjaapa aplikasi pemberitahuan lihat aja atauberakhir gk tutup moga aplikasi nya amin,negatif
+positif,bagus baget aplikasi nya rekomendasi bgt bnyk info loker kerja tp aneh nya 2 thn kirim lamar jobstreet panggil kerja terima kerja mohon maaf yg salah yg iklanin loker kerjaapa aplikasi pemberitahuan lihat aja atauberakhir gk tutup moga aplikasi nya amin,positif
 positif,baik,positif
 negatif,data jual belikan jobstreet banget spam telepon wa email scam spam hati2 jobstret penjualdata pribadi bocor apliaksi,negatif
-negatif,najis aplikasi gk gunaa,positif
+negatif,najis aplikasi gk gunaa,negatif
 negatif,data bocor ya nomor nomor kenal hubung data base jobstreet terima kasih,negatif
 positif,andal cari kerja moga dapet kerja sesui ahli,positif
-negatif,hilang fitur iklan anonim karna resiko tipu lowong kerja karna tau usaha moga baca ya ulas ku,positif
+negatif,hilang fitur iklan anonim karna resiko tipu lowong kerja karna tau usaha moga baca ya ulas ku,negatif
 positif,good,positif
 positif,good job,positif
 positif,scammer lowong kerja djancok,positif
 negatif,banyak bacelor digriiiii s123 lulus smk derajat berat lowong lamar email lowong udah tutup kadaluarsa beneran tawar lowong kerja kejar trafik web,negatif
 negatif,emang data daftar bocor ya min tipu hubung transfer uang,negatif
 negatif,loker nya tpi loker tipu orang yg sdh tipu habis berjuta2,negatif
-negatif,please make location filter like jobsdb indonesia separate the location of jakarta raya into west east north south and central jakarta and tangerang into tangerang south tangerang and tangerang regency,positif
+negatif,please make location filter like jobsdb indonesia separate the location of jakarta raya into west east north south and central jakarta and tangerang into tangerang south tangerang and tangerang regency,negatif
 positif,simple versi lamapencarian loker nya ga sesuai yg cari,negatif
 negatif,udah puluh kali lamar pemberitahuan tolak sesuai bermingguminggu lowong expired ga kembang apa,negatif
 positif,bagus,positif
@@ -828,23 +828,23 @@ positif,update baru terima kasih,positif
 positif,kerja darisini,positif
 negatif,susah bngt loginnya nyebelin,negatif
 positif,good,positif
-negatif,apk jelek gw main gta v,positif
-negatif,upload jobstreet 2018 tdk memdapatkan respon yg,positif
+negatif,apk jelek gw main gta v,negatif
+negatif,upload jobstreet 2018 tdk memdapatkan respon yg,negatif
 negatif,lamar ga nyangkut heran gua apk apaa,negatif
-positif,hi jobstreet sy tuh bingung filter job scoperole salary contoh 1 filter gaji atas nominilal yg nyangkut bawah nominal yg set filter 2 filter role supply chain kerja it yg masuk filter based on,negatif
+positif,hi jobstreet sy tuh bingung filter job scoperole salary contoh 1 filter gaji atas nominilal yg nyangkut bawah nominal yg set filter 2 filter role supply chain kerja it yg masuk filter based on,positif
 positif,team individu operasi komputer perapihan stok barang gudang control stok cek serah terima barang cek barang yg kirim loading barang cek kilo meter mobil lapor kilo meter mobil,positif
 negatif,respon dr sekian ratus apply booth,negatif
 negatif,buruk buruk buruk install apk bom nemu lowong yg,negatif
 positif,platfom cari kerja bagus pilih kerja tawar mudah proses aju lamar,positif
-negatif,banyak via website gk nge lamar,positif
-positif,usaha yg jalur masuk org php doang mnding jgn unggah jobstreet kasi yg lamar,negatif
+negatif,banyak via website gk nge lamar,negatif
+positif,usaha yg jalur masuk org php doang mnding jgn unggah jobstreet kasi yg lamar,positif
 negatif,kali lamar arah chrome chrome arah login aplikasi jora jobstreet express aplikasi beneran isi loker clickbait,negatif
 positif,mantap jobstreetsemoga bantu lg cari lokeramiin,positif
 positif,good aplikasi,positif
 negatif,masuk website daftar ulang data,negatif
-negatif,updete mulu,positif
+negatif,updete mulu,negatif
 negatif,tipu nya beda beda pt hrd nya aja,negatif
-negatif,taikkk,positif
+negatif,taikkk,negatif
 positif,mantap,positif
 negatif,menyalahgunakan aplikasi loh tipu mengatasnamakan aplikasi,negatif
 positif,bangus banget apk bantu ga bikin bingungribet,positif
@@ -860,7 +860,7 @@ negatif,jobstret tipu coba manajemen nya selektif cek usaha pasang iklan udah 3x
 negatif,apply apk panggil bener engga apk udh 3 coba apply apk,negatif
 positif,bantu cari lowong kerja,positif
 positif,bantu cari kerja,positif
-positif,apk nya udh bagus tpi log out sndri gx masuk akun sya tolong baharu lgi sistem,negatif
+positif,apk nya udh bagus tpi log out sndri gx masuk akun sya tolong baharu lgi sistem,positif
 positif,good,positif
 positif,,positif
 negatif,lamar kerja jobstreet dpt notif loker hasil kalo ngga notif loker tutup ya ngga proses profil dah lengkap cv baru byk usah pasang loker ngga proses lamar yg masuk hrsnya jobstreet ngepush usaha yg buka loker update progress lamar,negatif
@@ -885,14 +885,14 @@ positif,aseli keren pis mah bos,positif
 negatif,mesti pakai aplikasi blm komentar maaf,positif
 negatif,panggil usaha palsu lapor yg paka cara scam tdk habis yg turun lapang cs yg hubung usaha,negatif
 negatif,udah 2016 pakai jobstreet gk panggil aplikasi marketing jobstreet spam mulu beda aplikasi tetangga follup nya ketimbang spam doang,negatif
-positif,apply yaa,negatif
+positif,apply yaa,positif
 positif,bantu orang,positif
 positif,aplikasi bantu jobseekers pemberitahuannya jg,positif
 positif,aplikasi cari model ubah tampil lokernya cari muncul sesuai cari,positif
 negatif,hoax info lowong kerja jobstreet,positif
 positif,terimakasih jobstreet,positif
 positif,jobstreet mantab ok banget update lowingan kerja nyasesuai,positif
-negatif,aplikasi konyol,positif
+negatif,aplikasi konyol,negatif
 positif,kendala oke,positif
 negatif,lokernya kbnyakan tipu yg diposting,negatif
 positif,ngebantu utntu butuh kerja,positif
@@ -900,23 +900,23 @@ positif,lumayan bagus bantu,positif
 positif,selesai update eror gak muat halaman terooss ku ganti bintang kalo udah baik,negatif
 negatif,ngisi tanggal lahir udah bener klik tanggal ko invalid date kontoll email tanggap loker hoax dapet panggil palsu,negatif
 negatif,cari kerja aplikasi 2th undang interview tipu wa,negatif
-negatif,ugalugalan,positif
-negatif,tolong benah fitur cari save kerja ga relate,positif
-positif,ko ribet si mo apply diarahin jobstreet express ga langsung apply nanggung aja buka jobstreet express jobstreet yg,negatif
+negatif,ugalugalan,negatif
+negatif,tolong benah fitur cari save kerja ga relate,negatif
+positif,ko ribet si mo apply diarahin jobstreet express ga langsung apply nanggung aja buka jobstreet express jobstreet yg,positif
 negatif,aplikasi ngebug tim it nya bodoh seetting yg relevansi tanggal baru lowong nyasar yg tim it nya makan gaji buta,negatif
 negatif,ga login,negatif
 negatif,susah ya kerja dri aplikasi ni bantu,positif
-negatif,cari ngaco spesifik kaya muncul ga sesuai keyword,positif
+negatif,cari ngaco spesifik kaya muncul ga sesuai keyword,negatif
 positif,bagus,positif
 negatif,undang interview tipu orang yg niat cari uang buang2 uang ga dicheck valid ga lokernya kaya apk belah sayang banget lamalama apk bobrok,negatif
-negatif,update hasil cari kerja sesuai keyword masuk spesifik posisi cari cenderung random,positif
+negatif,update hasil cari kerja sesuai keyword masuk spesifik posisi cari cenderung random,negatif
 negatif,aplikasi sedia lowong kerja bodong plis klo mo nyari lowker sekali daftar apply loker byk nomer palsu kirim info lowker ga tipu udh jelek bgt skrg aplikasi nggak kayak,negatif
-negatif,hi developer jobstreet upload resume mohon diperbaikithx,positif
+negatif,hi developer jobstreet upload resume mohon diperbaikithx,negatif
 positif,mantap,positif
-negatif,semenjak baru proses cari kerja sesuai tampil cari,positif
+negatif,semenjak baru proses cari kerja sesuai tampil cari,negatif
 negatif,jelek bangett identitas nya dipake no gak kenal nipu,negatif
 negatif,sih aplikasi update aplikasi tp tetep aja bnyak usaha bodong yg liar atas nama hiring indikasi tunjang yg gak masuk akal posisi yg buka tolong development nya tindak kasus2 kaya gin tindak layar usaha share masuk nya lebih nya bantu aspek pencariker,negatif
-negatif,jdi art,positif
+negatif,jdi art,negatif
 positif,bantu,positif
 negatif,login gak menu ya,negatif
 positif,tampil bagus sederhana ikutin jaman menu pencariansearch 3 kolom 1 kolom barisjadi susah pas cari usaha yg dilamarmohon larat terima kasih,positif
@@ -927,12 +927,12 @@ positif,jobstreet emang aplikasi keren mudah cari kerja terimakasih jobstreet,po
 positif,mantap bagus bantu terima kasih,positif
 negatif,lokernya banyak hoax alamat ga,negatif
 positif,ok mantul,positif
-negatif,blum ki coba,positif
-negatif,bagus yg duluyg ribet,positif
+negatif,blum ki coba,negatif
+negatif,bagus yg duluyg ribet,negatif
 positif,aplikasi bagus bantu mudah2an dpet kerja aminnn,positif
 positif,bantu cari loker,positif
 negatif,parah bnyak bnget tipu jumat sore dpt panggil interview 2 usaha utk pda sabtu pagi jam 1400 sya datengin usaha yg jamin 16jt stelah 1bln kembali surat janji usaha 1 sya samper ga sma nama usaha lokasi org bnyak sya langsung cabut sblm kena jebak utk pt mpl pt cli singkat hati2,negatif
-negatif,mohon jobstreet selektif daftar usaha nama usaha aplikasi nama usaha datang beda cari kerja bantu jobstreet tipu usaha bodong ok,positif
+negatif,mohon jobstreet selektif daftar usaha nama usaha aplikasi nama usaha datang beda cari kerja bantu jobstreet tipu usaha bodong ok,negatif
 positif,6 jobstreet senang mudah lamar kerja efektif efisien alhamdulillah proses usaha tahap interview user interview hrd mcu thank you jobstreet moga upgrade baik,positif
 positif,,positif
 negatif,tolong kirim cv dikomen balas,negatif
@@ -942,23 +942,23 @@ positif,good,positif
 negatif,lowong yg apply banyak tutup,negatif
 positif,aplikasi yg bagus cari kerja,positif
 negatif,update parah bingung ribet bet bet,negatif
-positif,see max nya belah ya,negatif
+positif,see max nya belah ya,positif
 positif,,positif
 positif,aplikasi cari kerja ok banget tampil eye catching user friendly rekomendasi kerja sesuai cv pokok mantap banget deh,positif
 positif,good app for job seeker,positif
 positif,good,positif
 negatif,aneh fitur nya ilang ga lengkap baru,negatif
-negatif,info loker nya nyampur jobstrett express hrd nya sombong2 masuk kualifikasi tp tolak moga ga dapet karyawan yg betah sana,negatif
+negatif,info loker nya nyampur jobstrett express hrd nya sombong2 masuk kualifikasi tp tolak moga ga dapet karyawan yg betah sana,positif
 positif,alhamdulillah kerja,positif
 negatif,maaf min nya saran kalo kasih lowong bener dapet aplikasi ko masuk perumahanjadi tolong admin kalo usah daftar aplikasi tolong detail banyak usaha bodong tolong teliti,negatif
 negatif,hati hati tipu loker kedok janji kerja pt gaji umr singkat suruh bayar 15 jt dp bikin seragam ny akhirny iming korban jobds hati hati cari kerja harus bayar tipu fatal daftar arahin ruko yg lender interview tetap kerja tes ruko cakung satpam ramah paksa daftar,negatif
 negatif,semenjak update sumpah jelek banget loker bodong beda jobstreet sedia loker real panggil loker fake kalah aplikasi lulus dah nih kembali job street,negatif
-positif,usaha fiktippenipuan nama usaha anonim tolong jobstreet sharing ulang kasi lamar dihubungimrk dtg alamat tsb sampa mrk paksa bayar sekian juta dgn alas uang admin dll dgn iming dpt terima lgsg kerja,negatif
-negatif,jelek,positif
+positif,usaha fiktippenipuan nama usaha anonim tolong jobstreet sharing ulang kasi lamar dihubungimrk dtg alamat tsb sampa mrk paksa bayar sekian juta dgn alas uang admin dll dgn iming dpt terima lgsg kerja,positif
+negatif,jelek,negatif
 positif,mudah cari kerja informasi lowong kerja,positif
-positif,cepat panggil interview lamar via jobstreet,negatif
+positif,cepat panggil interview lamar via jobstreet,positif
 positif,jobstreet pribadi rekan2 bantu info lowong kerja yg caridan sesuai jobdest kitadan yg pekerjaanterima kasih jobstreetmaju karya,positif
-positif,kembali versi lamaversi yg baru bingung guna ribet utk gun,negatif
+positif,kembali versi lamaversi yg baru bingung guna ribet utk gun,positif
 negatif,jobstreet loker tipu suka minta2 duit masuk kerja,negatif
 negatif,loker yg kadaluarsa kasi yg ngelamar kerja posisi yg lamar uda 2 gk hapus kerja usaha cari kerja loker dipost aja paok kali aplikasi nya gk update,negatif
 negatif,hasil cari lowong sesuai tuju cari,positif
@@ -966,11 +966,11 @@ positif,bantu utk cari loker mudah,positif
 negatif,mula,positif
 positif,aplikasi jobstreet benarbenar bantu cari kerja mengunakan aplikasi 7 hasil usaha jadi alam gilir,positif
 positif,apk bodongpenipuan suru deposit kerja aja kudu bayar 800rb yg bener aja temen jgn download apk tipu,negatif
-negatif,buruk,positif
+negatif,buruk,negatif
 positif,bantu anggur,positif
 positif,good,positif
 negatif,aplikasi bagus update kerja sayang lamar kerja panggil usaha usaha nya tutup lamar yg kirim revisi cv surat lamar panggil aplikasi terimakasih,negatif
-negatif,i cant log in to my account for 2 days now how about i deleted the app and downloaded it again but still cant log in to my account,positif
+negatif,i cant log in to my account for 2 days now how about i deleted the app and downloaded it again but still cant log in to my account,negatif
 positif,oke,positif
 positif,good jobstreet bantu sari kerja sesuai alam kreteria,positif
 positif,banget kerja sesuai kriteria aplikasi,positif
@@ -978,7 +978,7 @@ negatif,tipu panggil kerja no tlp columbia denmark rusia hrd nya an cindy sih dp
 positif,bantu,positif
 positif,bantu kerja,positif
 negatif,install aplikasi data aplikasi jobstreet bocor dicall nomor negeri maksud tipu hati hati,negatif
-negatif,banget ya 2 aplikasi,negatif
+negatif,banget ya 2 aplikasi,positif
 negatif,banyak lowong nya fake ga sesuai deskripsi pt pas cari mah ga tu pt gampang bgt bikin lowong palsu jobstreet mah,negatif
 positif,mudah mendapatkankan kerja,positif
 negatif,jobstreet usaha palsu ya dapet email panggil pas cek usaha g,negatif
@@ -1001,31 +1001,31 @@ positif,aplikasi bantu,positif
 positif,dah pakai job seeker bagus,positif
 positif,alam bantu instal aplikasi cari kerja mudah keluar biaya terima kasih jobstreet,positif
 positif,aplikasi cari kerja bagus dapet informasi lowong baik slalu informasi lowong kerja yg recommended depan trima kasih,positif
-positif,udah ok jobstreet saran sih d saring saring yg model2 salur gituu sih yg ujung2 nyaa kecewa aja peloker apply nya gitu aj,negatif
+positif,udah ok jobstreet saran sih d saring saring yg model2 salur gituu sih yg ujung2 nyaa kecewa aja peloker apply nya gitu aj,positif
 positif,informasi kerja akurat bantu cari kerja sesuai bidang mantab bintang 5,positif
 positif,harga,positif
 positif,apk kerja bagus terima kasih kerja sama moga apk manfaat cari kerja semangat selamat juang awal doa,positif
-positif,aplikasi nya manfaat bangettt fitur2 jobstreet lengkap search job by daerah kontrak kerja part timefull timeetc klasifikasi kerja smpai ngatur rata2 gaji nya brapa jugaa pokok aplikasi udah lengkap pake banget lulus smk butuh info loker yg gercep jobstreet banget ngasih info2 loker via notifgmail yg suka notif info loker yg muncul berhub kerja yg pingin 100010,negatif
+positif,aplikasi nya manfaat bangettt fitur2 jobstreet lengkap search job by daerah kontrak kerja part timefull timeetc klasifikasi kerja smpai ngatur rata2 gaji nya brapa jugaa pokok aplikasi udah lengkap pake banget lulus smk butuh info loker yg gercep jobstreet banget ngasih info2 loker via notifgmail yg suka notif info loker yg muncul berhub kerja yg pingin 100010,positif
 positif,mantapppsss mudah kerja cari kerja,positif
 positif,bagus,positif
 positif,moga senang,positif
-negatif,nomer hp ambil orang tanggung,positif
+negatif,nomer hp ambil orang tanggung,negatif
 positif,good,positif
 positif,apk canggih mudah kerja mudah smua keren si tau apk bagus si ayu coba broo,positif
-negatif,lamar panggil samasekali,negatif
+negatif,lamar panggil samasekali,positif
 positif,aplokasi 2 terima kasih,positif
 positif,ok ko,positif
 positif,percaya,positif
 positif,bantu mudah cari kerja yg sesuai jurus yg suka,positif
 positif,mantap,positif
 positif,2017 cari kerja jobstreet hasil nya bantu hemat biaya akomodasi cari info kerja yg luas sesuai fashion,positif
-positif,aplikasi update rekomen,negatif
+positif,aplikasi update rekomen,positif
 positif,aplikasi jobstreet bagus cari kerja lowong fresh graduate pengalamn dunia kerja lowong tinggal cari aja penting cv tarik lirik hrd poko semangat gen z moga cepat kerja baik bidang nya semangat,positif
 positif,mntap pncari kerja lngsung bsa up load lmaran,positif
 positif,bantu cari kerja tips tips nya tarik bantu banget,positif
 positif,jobsrreet the best,positif
 positif,jobstreat bantu cari informasi loket tpi yg erti metode lamar kerja panggil kerja,positif
-negatif,boong,positif
+negatif,boong,negatif
 positif,aplikasi bermanpaat cari kerja gampang cepat panggil good untu aplikasi kecewa,positif
 positif,bagus job seeker,positif
 positif,nyari lowker alhamdulillah terima kerja jg,positif
@@ -1033,20 +1033,20 @@ positif,guna,positif
 positif,notif lowong kerja sesuai minat bakat progress lowong apply terima report nya pokok nya recommended banget,positif
 positif,alhamdulillah dpt kerja dr aplikasi,positif
 positif,aplikasi nya bagus simple,positif
-positif,jobstreet is the best loker app thanks for all have done,negatif
+positif,jobstreet is the best loker app thanks for all have done,positif
 positif,bantu,positif
 negatif,apk bapuk untung banyak atur minta apk gw donlot 2 apk yg panggil,negatif
 positif,aplikasi bantu 2 kali masuk kerja 2 pt beda berkat aplikasi terima kasih jobstret sukses,positif
-negatif,cas aki produksi 4r4r rmh kak,positif
+negatif,cas aki produksi 4r4r rmh kak,negatif
 positif,apk yg cari kerja,positif
 positif,alhamdulillah bersukur aplikasi jobsreet repot2 cari kerja moga mudah mudah kerja amin terimakasih jobstreet,positif
 positif,apk cari kerja baik,positif
 positif,aplikasi mantap,positif
 positif,baik lahhh cari kerja,positif
 positif,mudah pencaker jobstreet terpacaya depan pokok nya recomended bangett,positif
-positif,jaman lulus sekolah setia jobstreet ga paling aplikasi lainn 99 lowong nya reall 1 yg muncul loker bodong,negatif
+positif,jaman lulus sekolah setia jobstreet ga paling aplikasi lainn 99 lowong nya reall 1 yg muncul loker bodong,positif
 positif,aplikasi bantu cari kerja terima kasih jobstreet,positif
-positif,tarik alam tips bagi kontribusi saran buka peluang karier bidang industri utama terkadang peluang baik duga,negatif
+positif,tarik alam tips bagi kontribusi saran buka peluang karier bidang industri utama terkadang peluang baik duga,positif
 positif,bener bener top bgt deh mudah cari kerja,positif
 positif,sekian bnyknya aplikasi kecewa sya sngat syukur sya pakai apk jobstreet bnar sngat bantu mudah sya mendpatkn kerja terimakasih jobstreet,positif
 positif,aplikasi cari kerja bagus bantu orang orang cari kerja,positif
@@ -1059,12 +1059,12 @@ positif,good,positif
 positif,jobstreet bantu mudah cari kerja kerja,positif
 negatif,loker nya kasih yg real gantung,negatif
 positif,bantu cari referensi kerja cocok,positif
-negatif,bad result i love glints easy to use and good feedback,positif
+negatif,bad result i love glints easy to use and good feedback,negatif
 positif,baik,positif
 positif,the real aplikasi cari kerja kerja apply jobsteeet aja,positif
 positif,aplikasi yabg bantu cari kerja jobstreet kerja,positif
 positif,mudah cari kerja sesuai usaha rekrut kerja mudah,positif
-positif,aplikasi nya keren banget,negatif
+positif,aplikasi nya keren banget,positif
 positif,situs cari kerja baik no 1 indonesia,positif
 positif,bantu kerja sesuai ahli bidang,positif
 positif,this application is very good and helpfull for its region like singapore indonesia malaysia i hope jobstreet will expand this application for worldwide so we doesnt need to check linkedin anymore haha,positif
@@ -1080,14 +1080,14 @@ negatif,aplikasi mudah usaha yg daftar abal2 gampang tipu org yg awam uang 800rb
 negatif,aplikasi ga kirim cv,negatif
 positif,top mantap is the best,positif
 positif,bantu cari kerja,positif
-negatif,jau dpt panggil interview bdh grup pas sampe jakarta bukany interview mala dikerjain calen gajelas valid informasi ny maaf sy uninstall,negatif
+negatif,jau dpt panggil interview bdh grup pas sampe jakarta bukany interview mala dikerjain calen gajelas valid informasi ny maaf sy uninstall,positif
 positif,kasih bintang 4 ya sdh dpt kerja bantu,positif
 positif,muas,positif
 positif,aplikasi yg sesuai ekspektasi usaha yg rekomendasi kualitas feedback usaha nya sangan fast responsifsaya senang jonstreet bantu sayacongratulation i proude to you,positif
 negatif,usaha gapernah niat rekrut kandidat loker bodong,negatif
 positif,mudah kerja,positif
-negatif,kalo nyari daerah yg keluar daerah yg tuju,negatif
-positif,panggil interview blm jodoh x ya jd blm terima2,negatif
+negatif,kalo nyari daerah yg keluar daerah yg tuju,positif
+positif,panggil interview blm jodoh x ya jd blm terima2,positif
 negatif,kasih bintang 2 ya kerja tambah bintang,positif
 positif,moga untung kerja yg cocok dgn hati gaji yg muas,positif
 negatif,tipu yah aplikasi tau kalo panggil wawancarainterview langsung tempat sangkut ruko yah orang nyari kerja diarahin tipu ada2 aja woy bikin lamar modal,negatif
@@ -1103,13 +1103,13 @@ positif,no coment,positif
 positif,terima kasih berkat job streer kerja,positif
 positif,alhamdulillah,positif
 positif,drever,positif
-negatif,maaaf kasih bintang 1 saat upgrade banyak usaha bodong gak panggilanpadahal versi panggil moga bantu saran,positif
+negatif,maaaf kasih bintang 1 saat upgrade banyak usaha bodong gak panggilanpadahal versi panggil moga bantu saran,negatif
 negatif,tampil yg jdi sulit beda lowong dri scammer lowong perusahaansaran profil usaha taruh lowong,negatif
 positif,good application with simple easy way to apply job,positif
 positif,good,positif
 positif,private advertiser banyak tipu,negatif
 negatif,cant login,negatif
-negatif,banyak iklan,positif
+negatif,banyak iklan,negatif
 positif,kerja,positif
 negatif,jobstreet baru susah ya cari lokasi tangerang yg ikut muncul jakarta bekas wkwk gimana,negatif
 negatif,baharu susah lamar kerja versi nyaman sulit bingung versi tolong baik mudah guna,negatif
@@ -1122,16 +1122,16 @@ positif,aplikasi cari kerja bantu cari kerja mudah aplikasi mudah cari kerja rum
 positif,aplikasi guna cari lowong kerja batu temu kerja sesuai minat bakat mantap,positif
 positif,mudah cari kerja app tau rumah loker,positif
 positif,info lowong lumayan cepat,positif
-negatif,cerita alam jobstreet mendaptkan uandangan panggil interview oknum sedia lowong kerja langsung kantor intrv sperti oknum wawancara nama perushaan stelah papar mas gaji terima kerja bayar ya alesannya utk biaya kelengkpn alat kerja dll suruh teranfer langsung d modus,positif
-negatif,kesini jelek,positif
-negatif,pilih kerja cari sesuai keinginantapi barang panggil,positif
-negatif,download bintang 2 kalo udah kerja ta kasih 5,positif
+negatif,cerita alam jobstreet mendaptkan uandangan panggil interview oknum sedia lowong kerja langsung kantor intrv sperti oknum wawancara nama perushaan stelah papar mas gaji terima kerja bayar ya alesannya utk biaya kelengkpn alat kerja dll suruh teranfer langsung d modus,negatif
+negatif,kesini jelek,negatif
+negatif,pilih kerja cari sesuai keinginantapi barang panggil,negatif
+negatif,download bintang 2 kalo udah kerja ta kasih 5,negatif
 positif,bantu,positif
 negatif,2 x interview sm usah abal ngaku nya jobstreet usaha pt gudhome pt sariling aneka energi tp org yg interview layak parah buang ketemu sm org ambil data ijazah usaha yg buka lamar kerja jobstreet tdk melewatin verifikasi yg bagus,negatif
 negatif,gak dapet panggil lamar apk lamar notif email lamar tutup,negatif
-positif,aplikasi rawan tipu usaha bodong tolong laku verifikasi data kece ulang iklan lowong kerja hindar lowong palsu,negatif
+positif,aplikasi rawan tipu usaha bodong tolong laku verifikasi data kece ulang iklan lowong kerja hindar lowong palsu,positif
 negatif,suka jobstreet apdute mudah paham update ubah total tolong kembali versi,negatif
-positif,jobstret lowong kerja saring aja begroud perusahaanya loker tipu ruko kosong mohon masuk terima selamat pagi,negatif
+positif,jobstret lowong kerja saring aja begroud perusahaanya loker tipu ruko kosong mohon masuk terima selamat pagi,positif
 negatif,mudah mrncari kerja,positif
 positif,mantap bantu utk cari kerja,positif
 negatif,tolak mulu alas loker tutup kocak,negatif
@@ -1139,7 +1139,7 @@ positif,aplikasi nya bantu mecari kerja,positif
 positif,building system mechanic electrical,positif
 positif,kerja 1 gratis,positif
 positif,manfaat terimakasih,positif
-negatif,hapus aplikasi busuk playstore appstoreisinya sampah buang2 waktuthe most no1 scammer jobseeker in indonesia,positif
+negatif,hapus aplikasi busuk playstore appstoreisinya sampah buang2 waktuthe most no1 scammer jobseeker in indonesia,negatif
 positif,,positif
 negatif,ga susah masuk,negatif
 negatif,buang buang lamar pake jobstreet gak panggil,negatif
@@ -1148,14 +1148,14 @@ positif,bagusmudah,positif
 positif,jos,positif
 negatif,aplikasi sederhana cari kerja simpan usaha sedia kerja calon kandidat rekomendasi internal loker tebar ujung lamar terima info loker tutup kabar tolong developer usaha kasih syarat deadline timbang kandidat,positif
 positif,bantu,positif
-positif,aplikasi okeh sih cuman tolong ketat usah boleh iklan aplikasi karena rugi lanar,negatif
-negatif,sampah,positif
+positif,aplikasi okeh sih cuman tolong ketat usah boleh iklan aplikasi karena rugi lanar,positif
+negatif,sampah,negatif
 negatif,usaha usaha fiktif yg edar jobstreet loker staff gudang admin gudang prosess mudah iming2 gaji umr dpt uang transport uang makan pas proses interview bawa materai 2 buah bayar uang 300 ribu 750 ribu alami harus jobstreet filter usaha fiktif percaya 100 klo info loker dr aplikasi jobstreet asli tipu,negatif
 positif,ok,positif
 negatif,capek lamar gak yg terima minimal panggil sesuai minta usaha,negatif
 negatif,jobstreet emang ya aplikasi gua uda ngoceh perihal aplikasi g logis aja 100 lamar g yg nyantol 1 nyantol interview bodong lucu cari usaha butuh eh nonggol donk posisi yg gua coba iseng eh donk cair usaha butuh lucu nya nonggol jobstreet guna,negatif
 positif,good,positif
-negatif,baharu,positif
+negatif,baharu,negatif
 negatif,aplikasi bingung massa lamar ngirim resume,negatif
 positif,info loker,positif
 negatif,aplikasi anjengggbanyak tipu temen2 jgn instal aplikasi,negatif
@@ -1163,30 +1163,30 @@ positif,bantu cari kerja yg sesuai ahli alam kerja,positif
 positif,aplikasi cari kerja keren banget simpel mudah lamar thanks developer,positif
 negatif,gak bagus,positif
 positif,aplikasi bantu cari kerja utk lamar kerja,positif
-positif,operator produksi pt chemco harap nusantara plant karawang,negatif
+positif,operator produksi pt chemco harap nusantara plant karawang,positif
 positif,lumayan ngebantu ada filter usaha fiktif masuk email wa prusahaan engga proses interviewnya minta uang bla bla bla heran cerdas yah hadap go ahead cari kerja tuhan,negatif
 negatif,jelek gak sesuai,negatif
 positif,bagus utk cari kerja,positif
-negatif,gua nyari lowong asa apa2 siapa2 lulus smk syarat2 nya mainbanyak kudu,negatif
+negatif,gua nyari lowong asa apa2 siapa2 lulus smk syarat2 nya mainbanyak kudu,positif
 negatif,isi nya tipu smua hedee,negatif
 negatif,login pakai lupa password arah email reset password coba berkali2 email reset password,negatif
-positif,alam bidang konstruksi depelover kenan lamar usaha tks,negatif
+positif,alam bidang konstruksi depelover kenan lamar usaha tks,positif
 negatif,lowong tipu,negatif
 negatif,baru aplikasi bagus sempet panggil kerja jobstreet baru ga panggil,negatif
 negatif,maaf jobstreet skrng jelekkk bgt gak kaya lengkap mah udh profil photonya gada pt yg lamar aja yg ngelamar gak tau kolom nulis promosi jg gada bingung bgttttt,negatif
 negatif,daftar akun google,negatif
 positif,good,positif
-negatif,sih yg ide baru aneh anak cari muka sok sok pinter kayak eek,positif
+negatif,sih yg ide baru aneh anak cari muka sok sok pinter kayak eek,negatif
 negatif,aneh loker aplikasi banyak lempar aplikasi emang aneh,negatif
 positif,moga jobstreet bantu job seeker memuwujudkan harap aktualisasi,positif
-negatif,gabisa apply,negatif
+negatif,gabisa apply,positif
 positif,mantap,positif
 positif,ifd,positif
 negatif,loker loker hoax depan harap teliti percaya aplikasi kerja,negatif
 positif,jobstreet bantu cari kerja smoga jobstreet informasi lowong kerja baik cari kerja kualifikasi tingkat rendah,positif
 positif,,positif
 negatif,hati pt uang pt tipu hati kawan kalo uang embel logika nya seragam dll usaha suruh bayar,negatif
-negatif,aplikasi taiiiii,positif
+negatif,aplikasi taiiiii,negatif
 negatif,bom puas seh ganggu yg nganggur langsung terusin deh nyiksa hani yg nganggur pasrah ja w diapain jg,negatif
 positif,alhamdulillah sdh wawancara,positif
 positif,aplikasi bantu banget prihal cari kerja aplikasi mudah paham calon kerja usaha kerja karyawan jobstreet,positif
@@ -1196,7 +1196,7 @@ negatif,update mulu update gak enak bgt aplikasinyabagusan dluskrg kalo dpt emai
 positif,bantu cari kerja cari tenaga kerja yg profesional,positif
 positif,aplikasi bantu mudah cari kerja,positif
 negatif,login lamar google aplikasi pakai,negatif
-positif,yg apply kerja kalo wa pake nomor negeri ikutin aja sampe kalo suruh bayar langsung henti tipu ambil database jobstreet ekwkwk,negatif
+positif,yg apply kerja kalo wa pake nomor negeri ikutin aja sampe kalo suruh bayar langsung henti tipu ambil database jobstreet ekwkwk,positif
 positif,bantu aq,positif
 positif,a good place fir opportunity jb i like it,positif
 negatif,aplikasi bagus manfaat yg cari kerja sangatsangat bagus,positif
@@ -1211,21 +1211,21 @@ positif,membantuu susun rapi mudah pilih lowong yg sesuai kmampuan kitaa,positif
 positif,aplikasi bantu cari kerja sesuai ahli,positif
 positif,aplikasi cari kerja yg sesuai skill mudah ayooo semangat cari cuan,positif
 positif,aplikasi beri kerja no indonesiajob kasi job kasi job kasiaaaaan,positif
-positif,ngedrop cari kerja mentok gak sengaja buka buka aplikasi hadpon temu aplikasi jobstreet coba coba buka mantap loker nya komplit loker loker baru kerja berkat loker jobstreet,negatif
+positif,ngedrop cari kerja mentok gak sengaja buka buka aplikasi hadpon temu aplikasi jobstreet coba coba buka mantap loker nya komplit loker loker baru kerja berkat loker jobstreet,positif
 positif,bantu cari kerja,positif
 positif,jobstreet bagus cari kerja percaya mudah akses,positif
 positif,apk sya jdi gampang cari kerja yg sesuai dgan fashion sya,positif
 positif,mantap,positif
-positif,terap lamar kerja dah loker update,negatif
+positif,terap lamar kerja dah loker update,positif
 positif,bantu banget cari peluang2 kerjameski blm dpt info panggil lanjut lamar,positif
-positif,portal lowong kerja terupdate top bgt dah masuk ya tolong filter loker loker fiktip tipu oknum loker fiktip,negatif
+positif,portal lowong kerja terupdate top bgt dah masuk ya tolong filter loker loker fiktip tipu oknum loker fiktip,positif
 positif,keren banget aplikasi ubah semua menu bagus notifikasi email hasil lamar kerja,positif
 positif,bantu jobstreet temu lowong kerja sesuai mampu alam jobstreet lowong kerja kriteria sesuai dasar alam ahli yg milik,positif
 positif,mudah masuk lamar kerja informasi lowong kerja percaya,positif
 positif,5 coba cari lowong kerja aplikasi dapattolong min aplikasi tingkat perluasterima kasih,positif
 positif,mantap bantu pencaker,positif
 positif,aplikasi bagus rekomended bgt cari kerja tampil baru mudah guna nya cari kerja sukses jobstreet,positif
-positif,mudah cari loker ya jobstreet aj deh set up cv browse jobs apply ga ribet cari2 yg laen aj ya,negatif
+positif,mudah cari loker ya jobstreet aj deh set up cv browse jobs apply ga ribet cari2 yg laen aj ya,positif
 positif,aplikasi jobdesk bagus worth it poko the best wajib instal,positif
 positif,good,positif
 positif,good,positif
@@ -1233,7 +1233,7 @@ positif,aplikasi yg bantu cari lowong pekerjaanmemudahkan cari pekerjaanmantap p
 positif,bantu dlm cari kerja,positif
 positif,bantu informasi lowong kerja moga informasi lowong nya iklan,positif
 positif,mantappp,positif
-positif,situs loker percaya indonesia 100 bebas spam,negatif
+positif,situs loker percaya indonesia 100 bebas spam,positif
 negatif,semenjak update tampilnnya beda susah dapet panggil banget dapet panggil,negatif
 negatif,weiii akun gue ilang pas baru aplikasi nya pdhal gw pake dr th 2017 app gimana balikin akun gw adminnn,negatif
 positif,aktual,positif
@@ -1241,13 +1241,13 @@ negatif,aplikasi tutup dipuss bos liat email gua hrd gua lamar tau email aplikas
 positif,bantu,positif
 negatif,aplikasi manfaat gak jelaslamar kerja pke aplikasi slama 3 gak dpt panggil bagus email lngsng usaha nya lngsng dpt interview alhamdulillah lngsng ketrima,negatif
 negatif,kalo tampil nya kaya biar ga bingung,negatif
-negatif,harap aplikasi jobstreet memberika notifikasi beri kerja merespon lamar kirim lamar baca tolak abai,positif
+negatif,harap aplikasi jobstreet memberika notifikasi beri kerja merespon lamar kirim lamar baca tolak abai,negatif
 positif,saran tambah fitur chat video call recruiter jobseeker bantu fitur thank you,positif
 negatif,update ribet banget mending uninstall aja dah,negatif
 negatif,tolong posting job kadaluarsa muncul,negatif
 positif,nggak login,negatif
 negatif,update fitur profil usaha sedia fitur lamar ribet,negatif
-negatif,enak update cari kerja 5 kota 1 doang,positif
+negatif,enak update cari kerja 5 kota 1 doang,negatif
 negatif,banget loker kadaluarsa posting buang2 ngelamar aja,negatif
 positif,good,positif
 negatif,aneh loker jobstreet aja update udh kirim pemberitahuan email lamar apply kadaluwarsa heran aja s update udh expire aja,negatif
@@ -1263,7 +1263,7 @@ negatif,posisi banget muncul loker bal,negatif
 positif,ok,positif
 negatif,tampil buruk sulit ga serti mohon ceo jobsreet pantau,negatif
 negatif,bukti perintah gagal nya pengangguranlapangan kerja susahdan syarat usaha bantah,positif
-negatif,byk info loker yg hoax bin ruko bin abal bin tipu alias tipu saran harusny tim kembang apk nyaring si penyediaperekrut karyawan dgn coba researh usaha yg post lamar pencaker kasi org yg dr daerah ingin kerja bantu ekonomi keluarga tanah rantau jd sengsara,negatif
+negatif,byk info loker yg hoax bin ruko bin abal bin tipu alias tipu saran harusny tim kembang apk nyaring si penyediaperekrut karyawan dgn coba researh usaha yg post lamar pencaker kasi org yg dr daerah ingin kerja bantu ekonomi keluarga tanah rantau jd sengsara,positif
 positif,bantu,positif
 negatif,gak gak tahap lamar mu smpai gak kontak rekruter gak deadline apply and recruit aja loker post ulang ga nya tim kembang app nya gak tanggung bintang 1 yaaa,negatif
 negatif,saran jobstreet kalo info loker yg udah tutup diposting sia2 ngelamar usaha kalo udah tutup,negatif
@@ -1271,24 +1271,24 @@ negatif,ribet daftar nya ga,negatif
 positif,good,positif
 negatif,bnyk lowong tp kadaluwarsa iklanin bikin sulit aja,negatif
 negatif,aplikasi lowong yg lamar 100 kandidat udah 50 lamar apply aplikasi gada satu yg interview aneh,negatif
-negatif,aplikasi sampah,positif
+negatif,aplikasi sampah,negatif
 positif,good jobs,positif
-positif,update depan tolong tambah filter kerja remote,negatif
+positif,update depan tolong tambah filter kerja remote,positif
 negatif,2 bintang mohon teliti sedia lowong kode etik nya sedia aplikasi mohon blok buka lowong pake administrasi pinta uang hindar tipu kali panggil interview pinta biaya interview bener langsung pabrikperusahaan nya,negatif
 negatif,data orang min nggak lamar usaha data min data disebarin min,negatif
 positif,apresied banget,positif
 positif,aplikasi mudah cari kerja,positif
-negatif,rumit aplikasi,positif
-negatif,kurang aplikasi baru apl gagal total baru mundur sulit cari kerja,positif
-negatif,aplikasi bagus mahal ribet parah,positif
+negatif,rumit aplikasi,negatif
+negatif,kurang aplikasi baru apl gagal total baru mundur sulit cari kerja,negatif
+negatif,aplikasi bagus mahal ribet parah,negatif
 negatif,bahasa inggris oy gimna ganti bahasa indonesia nya gk paham gw bahas inggris,negatif
 positif,very helpful application,positif
-negatif,hbyv knob numb how hj,positif
+negatif,hbyv knob numb how hj,negatif
 positif,link bagus guna,positif
 positif,bantu,positif
-negatif,gaje,positif
+negatif,gaje,negatif
 positif,bantu cari kerja,positif
-negatif,why is it getting worse nowadays the employers used to be able to contact the candidates straightaway but now they seem to have to use jobstreet as a middle man to contact candidates we dont need that you want to make it better provide category by education or by industry becoming a middle man to employers and candidates is just rubbish,positif
+negatif,why is it getting worse nowadays the employers used to be able to contact the candidates straightaway but now they seem to have to use jobstreet as a middle man to contact candidates we dont need that you want to make it better provide category by education or by industry becoming a middle man to employers and candidates is just rubbish,negatif
 negatif,awas loker yabg sedia kena tipu harap tindak loker tipu,negatif
 negatif,diupadate kualitas turun nambah lot please balikin versi,negatif
 positif,puas,positif
@@ -1304,22 +1304,22 @@ negatif,scam,positif
 positif,ok,positif
 negatif,2013 2024 nggak yg srius usaha rekrut karyawan,negatif
 negatif,tolong sesuai ui database singkron bnyak bugs coba tolong upin ipin bnatuannya,negatif
-positif,informasi lowong yg yach tolong filter os tks,negatif
-negatif,pas resume upload suruh pilih pilih telponsim card pas mencet sim card apus aneh orang mah kasih pilih biar buka wps aneh,positif
+positif,informasi lowong yg yach tolong filter os tks,positif
+negatif,pas resume upload suruh pilih pilih telponsim card pas mencet sim card apus aneh orang mah kasih pilih biar buka wps aneh,negatif
 negatif,login,negatif
 negatif,baharu gampang nambah ribet tambah gatau susah nyangkut baharu,negatif
 negatif,loker scam nya coba tolong tindak lanjut loker nya verifikasi coba2 iklan pajang,negatif
 negatif,loading ngak bagus d hapus aja aplikasi pusing aja,negatif
 positif,driver pribaditruk,positif
-negatif,bobrok,positif
+negatif,bobrok,negatif
 negatif,banyak pt salur yg cek google tdk nama pt dn alamat tsb,negatif
-negatif,fitur gaji harap baik range gaji 10 juta anggap rangenya kelipat 5 juta seakanakan minta gaji,positif
+negatif,fitur gaji harap baik range gaji 10 juta anggap rangenya kelipat 5 juta seakanakan minta gaji,negatif
 negatif,jobstreet sampah login gagal melulu udah udah user gin,negatif
 negatif,hati nyari loker jobstreet bnyk usaha bodong yg ujung duit,negatif
 negatif,bagus erti sikas dah ngelamar ga dapet panggil usaha resmi ngelamar yg alam nya tetep aja liat doang profil cape gua nganggur lamar simpen,negatif
 negatif,usaha tipu selektif pilih usaha buka lowong,negatif
 positif,terimakasih jobstreet bantu cari kerja,positif
-negatif,usul team development aplikasi jobstreet tampil reason alas resume cv tolak lolos seleksi usaha ditujujadi lamar cari kerja baik salah lamar instropeksi salah terima kasih,positif
+negatif,usul team development aplikasi jobstreet tampil reason alas resume cv tolak lolos seleksi usaha ditujujadi lamar cari kerja baik salah lamar instropeksi salah terima kasih,negatif
 positif,mantap bantu,positif
 negatif,gak login jobstreet 2 ku email sandi pas gerangan jobstreet,negatif
 negatif,bingung sistem nya loker nya yg real nya sdh up berkas berkali2 gak respon,negatif
@@ -1337,7 +1337,7 @@ negatif,data nomer telpon salah tawar info dapet no jobstreet tau usaha yg data,
 positif,ok,positif
 negatif,kembali versi,negatif
 positif,good job,positif
-negatif,usaha perusaahan yg lamar terima panggilantutup pasang iklan,positif
+negatif,usaha perusaahan yg lamar terima panggilantutup pasang iklan,negatif
 negatif,arah browser pdahal buka aplikasi selau login lihat data aplikasi,negatif
 negatif,bnyak pt pt plsu alias tipu ni sya tipu pt daerah jakarta jauh2 sya dri tangerang smpai loksi duit ga jls 750rbu ngelmar lwat jobstreet tpi pty palsu smpe snah ruko nma pt gda bnyak korban yng tipu sudh byar jga oknum trsbut mke nma pt2 ntuk panggil pra korban sya dpet email dri pt a mislakan yng pt b gedung yng sma smpe snah g jls sruh byar 750rbu mksa tlong dng jobstreet ntuk lbh slektif lgi sma pt bdong,negatif
 negatif,tipu y lowong benerannya uptudate ajj menuhin apklikasi doank,negatif
@@ -1346,16 +1346,16 @@ negatif,jobstreet yg gak banget lowong pas apply notif email loker nya kadaluars
 positif,rekrut karyawan aplikasi,positif
 negatif,update ga masuk,negatif
 positif,bantu butuh kerja,positif
-negatif,susah banget tembus kalo udah ngirim lamar gada info,negatif
+negatif,susah banget tembus kalo udah ngirim lamar gada info,positif
 positif,oke,positif
-negatif,gabisa log in aneh banget ni aplikasi,positif
+negatif,gabisa log in aneh banget ni aplikasi,negatif
 negatif,ga apk nya filter bla bla bla,negatif
 positif,fabrikasi buat vesel quality control dimensional,positif
-positif,aplikasi simple gampang tinggal adds and aplycuma pas recomended notifikasi merah angkapas buka new ga hilangharusnya scroll bawah hilang notifikasi merahtolong perbaikiterima kasih,negatif
+positif,aplikasi simple gampang tinggal adds and aplycuma pas recomended notifikasi merah angkapas buka new ga hilangharusnya scroll bawah hilang notifikasi merahtolong perbaikiterima kasih,positif
 positif,nice,positif
 positif,moga bantu kerja,positif
 positif,saran web pilih lowong kerja a tp apps nggk mohon bagus thanks,positif
-positif,update info,negatif
+positif,update info,positif
 negatif,maaf update susah panggil interview beda yg mudah nyari kerja,negatif
 positif,lihat detail kerja lamaaa banget muncul pengaruh koneksi internet hp aplikasi,positif
 negatif,isi tipu loker kadaluarsa asu ni apk,negatif
@@ -1383,12 +1383,12 @@ negatif,payah semenjak update ubah nya parah jobstreet bangkrut aplikasi buruh l
 negatif,diupdate ga buka nih aplikasinyaparah nih aplikasi jobstreet payah ratus lamar gada kadaluarsa tutup ngapain lu pajang jobstreet sampah ubah kaya aja by seeklebih gampang,negatif
 negatif,tolong kembali tampil ssbelumnya benar2 susah tolong dengar guna update lowong kadaluarsa,negatif
 positif,ok bgt,positif
-negatif,usaha open rekrut kirim lamar balas kadaluarsa terima rekrut,positif
+negatif,usaha open rekrut kirim lamar balas kadaluarsa terima rekrut,negatif
 positif,,positif
 negatif,yg versi gimna sih sign in gabisa mulucape banget udah kali kali coba gabisa masuk email password tolong baik,negatif
 positif,wc,positif
 negatif,diapply zonk aja email jawab lamar kerja tutup kadaluarsa tolong baik tau kalo indonesia susah terima lamar kerja terkadang syarat luar nalar,negatif
-negatif,g uraj coba ngelamar tiba2 lowong kerja kadaluwarsa segitunya nyari reting,positif
+negatif,g uraj coba ngelamar tiba2 lowong kerja kadaluwarsa segitunya nyari reting,negatif
 negatif,buset apk kirim lamar aja susah bgt aja yg nyesel gw download aplikasi,negatif
 positif,support,positif
 negatif,tampil asa nambah dpt panggil kerjamending tampil,negatif
@@ -1397,7 +1397,7 @@ negatif,tampil nya semenjak update baru posisi jenis kerja lokasi boleh 1 pilih 
 positif,mantap,positif
 negatif,sya buka apk jobstreet hilang n hape lansung mati koq gtu yaa d update koq bs hilang gtu,negatif
 positif,good,positif
-positif,admin lokernya tutup tolong admin tampil,negatif
+positif,admin lokernya tutup tolong admin tampil,positif
 positif,good,positif
 positif,mohon adminuntuk informasi terima pegawai usaha tanggal kadaluarsa tampil kembaliagar mudah cari pekerjaansekian terimakasih,positif
 positif,jobstreet komplain cepat tanggap bagus moga hoki kerja,positif
@@ -1405,12 +1405,12 @@ negatif,abis update tingkat susah cari loker usaha bodong cari lamar better upda
 positif,hubung jobstreet express ya,positif
 positif,cari kerja driver operational,positif
 negatif,udah ratus kali apply gonta ganti cv bagus aja gaada satu yg panggil aplikasi,negatif
-negatif,kesini cakep dekil gambar,positif
-negatif,7776,positif
+negatif,kesini cakep dekil gambar,negatif
+negatif,7776,negatif
 negatif,gak bentar bentar update bentar bentar update,negatif
 positif,nice information bantu cari kerja,positif
 negatif,xiaomi redmi 12 login loading can not log in,negatif
-negatif,abis diupgrade kosong gak enak model sebal model,negatif
+negatif,abis diupgrade kosong gak enak model sebal model,positif
 positif,good,positif
 positif,mantap dah bantu,positif
 negatif,lamar tp tdk panggil gk sieh lowong kerja nya,negatif
@@ -1418,18 +1418,18 @@ negatif,tampil bikin susah update resume aja kagak nya kek aja update resume gam
 positif,mantap aplikasi bantu hidup cari kerja,positif
 positif,susah bingit nie jobstreet udah ganti susah masuk nya haduh coba baik lgi terima kasih,negatif
 positif,ready to work,positif
-negatif,baharu ribet bagus,positif
+negatif,baharu ribet bagus,negatif
 negatif,bagus mudah upgrade mudah cari usaha dilhat usaha gak lanjut ubah status lmaranmu lanjut tampil lamar usaha dilhat panggil panggil interview kalo kemmajuan aplikasi buat tampil inbox langsung aplikasi usaha inbox plamar lwat aplikasi,negatif
-negatif,ngelamar mari oper aplikasi nyusahin,positif
+negatif,ngelamar mari oper aplikasi nyusahin,negatif
 positif,bagus bantu cari kerja tp program proses lamar ribet simpel yg,positif
 negatif,jobstreet rekrut karyawan lamban aplikasi update panggil,negatif
 negatif,lamar joobstreet aja wa lowong kerja alamat intervew alamat kantor wa nama pt yg beda oknum nih yg jual data orang,negatif
 negatif,update riwayat lamar sebelumnyahanya riwayat susah panggil interview riwayat lamaranriwayat lama2 panggil interview lamar lama2 semenjak update jelas usaha yg lamar detail mohon ganti tampil yg,negatif
 negatif,jelek bingung tampil baru bagus versi,negatif
 negatif,ku tampil isi data sulit sukar paham,negatif
-negatif,up grade bingung lot hp bagus tampil yg simpel mudah baca,positif
+negatif,up grade bingung lot hp bagus tampil yg simpel mudah baca,negatif
 positif,lumayan bagus cari kerja,positif
-positif,overall bagus jdi simple ubah hilang contoh info usaha buka loker,negatif
+positif,overall bagus jdi simple ubah hilang contoh info usaha buka loker,positif
 positif,mantap bantu cari kerja,positif
 negatif,woy baca jobstreet skrng ribet parah kaga ngirim unggah cv ngelamar bener,negatif
 positif,mantap,positif
@@ -1438,10 +1438,10 @@ negatif,suliitttttt login email password sesuai loading lamaaaaaa bangetttt plea
 negatif,jelekbagus yg perbaharuilangsung uninstal,positif
 negatif,susah nyari kerja 2022 gak dapet panggil aplikasi tau lamar udah tutup usaha pilih wkwkwkwk,negatif
 positif,construction superintendent steel structure civil construction and fabrication erection steel structure,positif
-positif,panggil kerja aplikasi bnyak loker tp blum yg nyangkut yg kualifikasi smuaa,negatif
+positif,panggil kerja aplikasi bnyak loker tp blum yg nyangkut yg kualifikasi smuaa,positif
 negatif,bagus model upgrade aplikasi tampil gak bagus susah filter lokasi kerja detail usaha baik model model bagus detail banding bagus tampil,negatif
-positif,aneh apk lowong gak aja yg terima apk lowong kerja pajang iklan setia kirim lamar gak balas lowong tsb gak mutu dak manfaat,negatif
-negatif,mohon milik aplikasi yg tipu mengatasnamakan aplikasi kak foto foto profil aplikasi salah nama oknum tanggung kak mohon bantu aman cari kerja terimaksih,positif
+positif,aneh apk lowong gak aja yg terima apk lowong kerja pajang iklan setia kirim lamar gak balas lowong tsb gak mutu dak manfaat,positif
+negatif,mohon milik aplikasi yg tipu mengatasnamakan aplikasi kak foto foto profil aplikasi salah nama oknum tanggung kak mohon bantu aman cari kerja terimaksih,negatif
 positif,dapet kerja aplikasi jobstreet emang aplikasi recommend banding aplikasi2 cari kerja yg thanks jobstreet,positif
 positif,good,positif
 negatif,baru sampah buka menu aja bgt habis unggah resume cv aja loading,negatif
@@ -1455,25 +1455,25 @@ negatif,jonstreet sekang aplikasi koq lari nya web,negatif
 negatif,alhamdulillah aman aplikasi mudah kerja,positif
 negatif,habis update susah masuk reset password 4 kali masuk balik versi woi,negatif
 negatif,isi loker tipu,negatif
-negatif,program ribet hasil cari program,positif
+negatif,program ribet hasil cari program,negatif
 negatif,aneh skrng aplikasi gabisa login coba email kendala cs ttp aja gabisa login turun drastis segi kualitas,negatif
 negatif,udah 1 tau apk terbyata abal abal yahhsmoga berkah,negatif
 positif,better information,positif
-negatif,baharu mudah sulit semangat tim pengaruh aplikasi nya,positif
+negatif,baharu mudah sulit semangat tim pengaruh aplikasi nya,negatif
 negatif,akun sampe gak panggil usaha lamar formalitas aplikasi engga,negatif
-negatif,ribet,positif
+negatif,ribet,negatif
 positif,mantap,positif
 negatif,hadeuh gmna seh jobstreet data sebar tiga pakai jobstreet kali data salah udh gak safety,negatif
 positif,apk coba bantu sih kurang aplikasi 1lowongan pilih tampil beranda lowong umumtampilan lowong 2tak notifikasi lowong baru 3lowongan simpan 4tak ting notifikasi icon tombol ting ting informasi terang moga baharu nyaman guna 5lokasi lowong kota propinsi,positif
 positif,bantu,positif
-negatif,info lowong kerja fiktif sesuai recruitment jb konfirmasi usaha tersebutjangan download,positif
+negatif,info lowong kerja fiktif sesuai recruitment jb konfirmasi usaha tersebutjangan download,negatif
 negatif,aplikasi ya login mobile web ya aneh bug mohon laku unit testing qa engineer ya sedih,negatif
 negatif,baru buka bagus ribet gk efektif,negatif
 negatif,update ribet login langsung aplikasi mesti alih chrome gak buka taut,negatif
-negatif,baharu jelek banget,positif
+negatif,baharu jelek banget,negatif
 positif,mantaap,positif
 negatif,jelek bangetsetelah update muka bingung buka google chrome,negatif
-negatif,aplikasi sulit daerah pontianak adopsi referensi orang dekat lowong kerja dishare lowker dr jobstreet batas formalitas dr usaha but jkrt relevan aplikasi,positif
+negatif,aplikasi sulit daerah pontianak adopsi referensi orang dekat lowong kerja dishare lowker dr jobstreet batas formalitas dr usaha but jkrt relevan aplikasi,negatif
 positif,manfaat,positif
 positif,tolong mudah kerja,positif
 positif,bantu,positif
@@ -1484,12 +1484,12 @@ negatif,lowong yg udah kadaluarsa wkwkwk kirain update dapet email lowong tutupt
 negatif,broken klo loker tutup ya hapus postingannya lawak bener,negatif
 negatif,panggil kerja ruko tipu,negatif
 positif,guna,positif
-negatif,orang dalem susah,negatif
-negatif,user interface ramah user,positif
+negatif,orang dalem susah,positif
+negatif,user interface ramah user,negatif
 positif,loker palsu,negatif
 negatif,parah yg baru mudah sulit klik lamar masik klik bolak masukin email lg update trus habis update syulit bu aplikasi nya sengaja x laku tdk org,negatif
 positif,,positif
-negatif,updatenya sampah loading searching fix uninstall aplikasi,positif
+negatif,updatenya sampah loading searching fix uninstall aplikasi,negatif
 negatif,aplikasi minggu update kali kali ya aplikasi tentu wkt tutup lowong kerja,negatif
 positif,nice,positif
 positif,moga mudah cari kerja kawan jauh tsb orangdalem bawa kerjaberbayar goodjobs,positif
@@ -1497,7 +1497,7 @@ negatif,diupdate mulu jelek lg tampil bikin ribet,negatif
 negatif,baharu by seek ga login muter,negatif
 negatif,undang interview fiktif interview ruko minta uang,negatif
 positif,bagus bantu,positif
-negatif,skrg blum panggil kerja,positif
+negatif,skrg blum panggil kerja,negatif
 negatif,guna pilih unggah foto,positif
 negatif,buruk loker tdk update ekposure lamar tdk bagus,negatif
 negatif,login error,negatif
@@ -1508,8 +1508,8 @@ negatif,data hilang sial nih tim baru jobstreet susah aja,negatif
 negatif,cv nya tarik ngelamar jobstreet sih kaya nggak harap buang menuhin email pemberitahuan,negatif
 negatif,aplikasi ggga pangilan siniyang lamar kadaluarsa,negatif
 positif,bagus,positif
-negatif,sampah,positif
-positif,staf produksi pt pos pt kelapa sawit,negatif
+negatif,sampah,negatif
+positif,staf produksi pt pos pt kelapa sawit,positif
 negatif,lambat info loker kadang2 1 minggu lokernya 1 minggu iklanya terimakasih,positif
 negatif,diupdate suruh login parah,negatif
 negatif,baharu tarik mudah cari kerja sulit deh,positif
@@ -1527,14 +1527,14 @@ negatif,datadata hapus file nya hilang baharu bingung,negatif
 positif,ok tks,positif
 negatif,password salah login ganti password tetep salah,negatif
 negatif,aplikasi lowong kerja bohong lowong kerja lamar email yg masuk lamar jobstreet lamar kadaluwarsa mending lowong kadaluwarsa keterlaluansementara lamar harap masuk harap zoonk menghimbau donlod aplikasi sampah leceh nama juang cari kerja,negatif
-negatif,aplikasi buruk lowong unjung aja aplikasi kerja yg terima lowong,positif
+negatif,aplikasi buruk lowong unjung aja aplikasi kerja yg terima lowong,negatif
 negatif,balik versi aja baru bagus jelekk bagus versi,negatif
 positif,suka aplikasi mudah cari lowong fitur jalan baikbanyak loker nya,positif
 negatif,bikin bingung,positif
 negatif,teryata jobstreet jelek banget akun masuk bagusteryata kualiatasnya buruk selamat tinggal jobsteet hapus aplikasi download aplikasi sistem mohon baik aplikasi sumpah buruk banget,negatif
 positif,operator forklift,positif
 positif,bagus,positif
-negatif,aplikasi kontolll makah ubah pengaturanya,positif
+negatif,aplikasi kontolll makah ubah pengaturanya,negatif
 negatif,gak login kirim via email tanggap,negatif
 negatif,baru ubah data hilang,negatif
 negatif,mohon maaf ga login ga apply,negatif
@@ -1544,7 +1544,7 @@ positif,liat orang lamar hehe,positif
 negatif,baru gak enak tampil,negatif
 negatif,baru login tolak chrome tetep enak versi,negatif
 positif,interface baru bagus bantu proses lamar ya blm panggil kerja jobstreet platform gratis yg tawar ribu lowong tampil oke minim bug fitur yg kasih kerja yg lamar sesuai ekspektasi gaji sayang liat gaji loker yg cantum nominal,positif
-negatif,wwww wwa wllwwwla lwl lwllw w l awlwll la llw w lw wawwlwlwawwlwllwl w l l l l wal l l ll wa oa l l ll a l lal www,positif
+negatif,wwww wwa wllwwwla lwl lwllw w l awlwll la llw w lw wawwlwlwawwlwllwl w l l l l wal l l ll wa oa l l ll a l lal www,negatif
 positif,muas,positif
 positif,cari loker driver perintah,positif
 negatif,masuk upgrated pdahal pasu email yg bnerdan terang diri masuk,negatif
@@ -1559,7 +1559,7 @@ negatif,diupdate buka muter muter trus,negatif
 negatif,baik nya update,negatif
 negatif,ya baru login,negatif
 negatif,lengkap gampang eh gataunya ribet filter cari 1 3 minggu ga sedia langsung uinstal,negatif
-negatif,bs short lokasi range gaji bikin kasih tau udah kasih bintang 5,positif
+negatif,bs short lokasi range gaji bikin kasih tau udah kasih bintang 5,negatif
 positif,manfaat,positif
 negatif,update aplikasi ngk bagus versi,negatif
 negatif,update guna update ribet,negatif
@@ -1570,12 +1570,12 @@ negatif,10001 yg d proses interview paling2 cuman muncul notif lowong tutup,nega
 negatif,baru burik gin bagus versi fast respon tanggap usaha bagus,negatif
 negatif,payah lowong buka 7 yg 30 email lamar tutup tolong benahin sistem nya,negatif
 negatif,gasuka dng tampil yg skr,negatif
-negatif,aplikasi jobseeker sesuai jenis lowong kerja valid,positif
+negatif,aplikasi jobseeker sesuai jenis lowong kerja valid,negatif
 negatif,yg cari recruiter spek gmn sih prasaan udh upload berkas dr 8 yg ga maju ga progress yg lamar kelas operator pakai ijasah s1 bolakbalik ganti model cv dll hasil zonk cv nya ga nyampe hrd,negatif
 positif,mantab,positif
-positif,upgrade bagus kalo d buka web ga tau kompetitor lamar yg lamar orang didik rendah tara kali lamar lihat usaha,negatif
+positif,upgrade bagus kalo d buka web ga tau kompetitor lamar yg lamar orang didik rendah tara kali lamar lihat usaha,positif
 positif,mentor,positif
-positif,mohon min tambah flagging status lamar job list biar tau lamar jg ditambahin status kalo rejected list jobnya gk submit ulang kalo gak ditandain lamar bingungitu2 yg muncul udah sempet apply gara2 gaada status jdi resubmit lgidikasih flagging color list yg reject process review,negatif
+positif,mohon min tambah flagging status lamar job list biar tau lamar jg ditambahin status kalo rejected list jobnya gk submit ulang kalo gak ditandain lamar bingungitu2 yg muncul udah sempet apply gara2 gaada status jdi resubmit lgidikasih flagging color list yg reject process review,positif
 negatif,login,negatif
 positif,bantu,positif
 positif,bantu mudah lamar majubterus jobstreet,positif
@@ -1586,28 +1586,28 @@ positif,lengkap update,negatif
 positif,ok,positif
 negatif,baharu bagus aneh gak aplikasi,negatif
 negatif,ga bro henti ngasih notif gmail gua bikin keliru aja notif panggil kerja campur notif gajelas lu,negatif
-negatif,kecewa filter range gaji waste time proses recruitment kandidat recruiter deal proses,positif
+negatif,kecewa filter range gaji waste time proses recruitment kandidat recruiter deal proses,negatif
 positif,,positif
 negatif,tolong sortir lowong kerja sampah tipu bgt tipu,negatif
-negatif,ruwet,positif
+negatif,ruwet,negatif
 negatif,update aplikasi ribet maaf uninstall,negatif
 positif,keren,positif
-negatif,ribet,positif
+negatif,ribet,negatif
 positif,bantu,positif
-negatif,update gabisa buka,negatif
+negatif,update gabisa buka,positif
 positif,ok,positif
-negatif,buruk bagus tampil kembang pintar bodoh fitur bingung,positif
+negatif,buruk bagus tampil kembang pintar bodoh fitur bingung,negatif
 negatif,susah buka apk gadget ya baru alih chrome sesuai email password tp muncul tulis something went wrong try again later try agajn berharihari bagus apk,negatif
 positif,bantu cari kerja,positif
-negatif,new version is suck large load time when search job lol and new ui is very confusing me,positif
+negatif,new version is suck large load time when search job lol and new ui is very confusing me,negatif
 negatif,baru akun hilang,negatif
 negatif,email info kerja browser aplikasi ga otomatis ribet skrg,negatif
 negatif,gak satu panggil aplikasi nih,negatif
-negatif,ribed,positif
-negatif,update sampah sortir wilayah lari mana sortir gaji ribet orang cari lowong,positif
+negatif,ribed,negatif
+negatif,update sampah sortir wilayah lari mana sortir gaji ribet orang cari lowong,negatif
 positif,komunikatif cari kerja,positif
-positif,terima kasih salur media cari kerja kasih bintang 5 app ya dah ga baru langsung trus login ga muterrr ditungguin lama gitu sya pikir signal paket kali ya buka app youtube medsos lancar aja ter ta aplikasi aja yg masalah log out ga bsa sign in putus uninstall,negatif
-negatif,kecewa banget tampil yg mending kaya mudah ajar segi lamar rekruter,positif
+positif,terima kasih salur media cari kerja kasih bintang 5 app ya dah ga baru langsung trus login ga muterrr ditungguin lama gitu sya pikir signal paket kali ya buka app youtube medsos lancar aja ter ta aplikasi aja yg masalah log out ga bsa sign in putus uninstall,positif
+negatif,kecewa banget tampil yg mending kaya mudah ajar segi lamar rekruter,negatif
 positif,kren,positif
 positif,laksana pryek awas k3,positif
 negatif,login buka email browser update ya update buka email langsung buka aplikasi,negatif
@@ -1615,22 +1615,22 @@ negatif,versi jelek gak shortir daerah nyak repot scroll lowong sabang merauke,n
 positif,aplikasi manfaat,positif
 positif,bantu info akurat hoky,positif
 positif,bagus aplikasi whatsappnya bosqeu,positif
-negatif,aplikasi merefresh tinggal aplikasi ribet cari buka,positif
+negatif,aplikasi merefresh tinggal aplikasi ribet cari buka,negatif
 positif,bantu cari kerja,positif
 negatif,khusus jobstreet versi baru bagus developer yg buat uninstal,negatif
 negatif,masuk akun jobstreet,negatif
 negatif,skrng susah login kuk mlulu,negatif
 negatif,aplikasi abal 100 apply lamar ngk respon n tanggap,negatif
-positif,blm paham klau lamar yg lamar balas nya,negatif
-negatif,buruk bgt lamar kerja eror saran jgn download deh,positif
+positif,blm paham klau lamar yg lamar balas nya,positif
+negatif,buruk bgt lamar kerja eror saran jgn download deh,negatif
 positif,bagus manfaat,positif
 negatif,kelas jobstreet aja loker tipu,negatif
-negatif,bagus versi baharu sekrang bingung ribet,positif
+negatif,bagus versi baharu sekrang bingung ribet,negatif
 negatif,tampil user friendly background hitam nyaman bagus versi,negatif
 negatif,sampah banget baru jobstreet inimakin upgrade ga bener ga pakelog in ga klik ga heran mending delet aja aplikasi ga mutu,negatif
-positif,perusahaan2 nya iseng lowong biar ramein aplikasi aja minimal kenain sanksi admin rusa nya lamar yg gak liat,negatif
-negatif,usaha muncul jobstreet kadaluarsa iklan lowong kerja yg kadaluarsa muncul,positif
-negatif,gatel,positif
+positif,perusahaan2 nya iseng lowong biar ramein aplikasi aja minimal kenain sanksi admin rusa nya lamar yg gak liat,positif
+negatif,usaha muncul jobstreet kadaluarsa iklan lowong kerja yg kadaluarsa muncul,negatif
+negatif,gatel,negatif
 positif,bantu cari kerja,positif
 negatif,maaf d update ga masuk log intolong d benerin aplikasi,negatif
 negatif,tim creativenya update kemunduranlebih bagus versi lamaversi jelek aplikasi kompetitorcari kerja sulit jobstreet andal aneh aja anjirr,negatif
@@ -1639,51 +1639,51 @@ negatif,min loker loker kadaluarsa pampang ajasaya lamar usaha sedia sini2 mingg
 negatif,tim baru nya mikir apasingapain samain seekmana musti reupload data histori hilang duh,negatif
 negatif,bantu ga,positif
 negatif,baru nya rusak,negatif
-negatif,tamabah ngak karu karuanbosss,positif
-negatif,this apk wasnt usefull,positif
-negatif,kecewa tampil filter jobstreet bagus buruk,positif
-negatif,upload file apa coba berkali2 sampe kuota habis ttep nggk terang apa,positif
+negatif,tamabah ngak karu karuanbosss,negatif
+negatif,this apk wasnt usefull,negatif
+negatif,kecewa tampil filter jobstreet bagus buruk,negatif
+negatif,upload file apa coba berkali2 sampe kuota habis ttep nggk terang apa,negatif
 negatif,aplikasi gk login ya login susah sx ak pikir aplikasi upgrade sy upgrade aja gk login tp klw buka komputer kayak gin aplikasi,negatif
 negatif,akun baru login konfirmasi ubah password kali via email,negatif
 positif,bantu cari kerja percaya,positif
-negatif,ukur file yh d tambahin lgi 3mb jgn 2 mb kran,positif
+negatif,ukur file yh d tambahin lgi 3mb jgn 2 mb kran,negatif
 negatif,setwlah update serasa aplikasi karbitan,negatif
 negatif,update lowong tutup rekomendasi,negatif
 negatif,aplikasi sampah orang susah cari kerjaa ribett,negatif
 negatif,baru taikk pas login cv kereset,negatif
 positif,ok banget,positif
 negatif,aplikasi puluh apply lamar gak panggil alhamdulillah apply pake aplikasi belah gak dapet panggil apk jobstreet usaha publish loker gak usaha,negatif
-positif,status lamar kerja nya mana sih ilang baru jd nggak tau kembang lamar terima usaha nya,negatif
+positif,status lamar kerja nya mana sih ilang baru jd nggak tau kembang lamar terima usaha nya,positif
 positif,klo kerja ku kasih 5 star,positif
 negatif,gue lamar d jobstreet satu gak panggil,negatif
 positif,butuh tingkat,positif
 positif,mantul,positif
 positif,bagus keren,positif
-negatif,wa yg tawar kerja online dalih nomer wa aplikasi jobstreet gitu,positif
+negatif,wa yg tawar kerja online dalih nomer wa aplikasi jobstreet gitu,negatif
 positif,bagus simple bantu,positif
-positif,guna jobsteet dah lumayan kenap pas d uprad jd donload cv donload surat lamar initrs komenan2 yg tdk enaktolong d baik lg yg sajaterimakasih salam pncari kerja,negatif
+positif,guna jobsteet dah lumayan kenap pas d uprad jd donload cv donload surat lamar initrs komenan2 yg tdk enaktolong d baik lg yg sajaterimakasih salam pncari kerja,positif
 positif,good job,positif
 negatif,update akun masuk kak tolong bantu,negatif
 positif,exelent,positif
 negatif,jobstreet enak versi kemarin yg versi sakarang lolapenampilan nya loding mulu,negatif
 positif,keren,positif
-negatif,tawar kerja sedia banyak kadaluwarsa cari informasi lowong kerja,positif
-negatif,upload foto profil ya tampil profil ubah foto profil macam bingung,negatif
+negatif,tawar kerja sedia banyak kadaluwarsa cari informasi lowong kerja,negatif
+negatif,upload foto profil ya tampil profil ubah foto profil macam bingung,positif
 negatif,mengupload cv tolong baik cepat,negatif
-negatif,aplikasi sih nglamar kerja gagal,positif
+negatif,aplikasi sih nglamar kerja gagal,negatif
 negatif,app ok jarang panggil klo lamar jobstreet panggil usaha klo by email app,negatif
 negatif,udh update mlh kga d buka,negatif
 positif,moga nemu kerjaanmaksud baru,positif
 negatif,tim ide baharu sampah tampil bingung biasa aneh bagus antarmuka tampil nya susah orang tau range gaji usaha tetap gak dah tampil super aneh,negatif
 positif,update buka aplikasi,negatif
 positif,senang,positif
-negatif,tolong kembang jobstreet hilang fitur confidental company transparan kurang scam user mudah lapor usaha terima kasih,positif
+negatif,tolong kembang jobstreet hilang fitur confidental company transparan kurang scam user mudah lapor usaha terima kasih,negatif
 negatif,jobstreet lamar kerja aja suruh install apk pintar jobstreet express knp g jd 1 aja sih bikin ribet aja ngelamar kerja dikerjain,negatif
 negatif,gak bukaharus log in pdahal loginloginnya,negatif
 negatif,update login muncul pesan something went wrong please try again later coba berulang2 muncul somethings not right weve sent instructions on how to reset your password to your email buka email klik sesuai tunjuk halaman kosong,negatif
 positif,fitur lamar kualifikasi tudak hilang,positif
 negatif,knpa gk buka aneh,negatif
-negatif,scam download instal apk,positif
+negatif,scam download instal apk,negatif
 negatif,update cv hilang profile akun hilang history lamar hilang data pribadi hilang tolong balikin akun,negatif
 negatif,apk panggil apk akal2an aja gimna yamohon maaf unistal,negatif
 positif,panggil jobstreet,negatif
@@ -1692,7 +1692,7 @@ positif,bantu template nya tolong tahan mudah cari kerja,positif
 positif,bagus cari kerja,positif
 positif,good,positif
 negatif,balas,positif
-negatif,filter kacau gk fungsi,positif
+negatif,filter kacau gk fungsi,negatif
 positif,nice,positif
 positif,bagus manfaat,positif
 positif,bantu,positif
@@ -1705,13 +1705,13 @@ positif,bantu thank u jobstreet,positif
 positif,skrng sdh bs log in lg sdh diperbaharuimksh apk andal,positif
 positif,terimakasih kembang aplikasi mudah lamar kerja kirim cv daring,positif
 positif,terimakasih berkat jobstreet sy dpt kerja panggil kali interviewer tinggal pipih yg sesuai,positif
-positif,yg sistem susah apply susah banget mending pakai yg sestem why sistem proses cepat yg sistem lelet dak apply baik biar lancar spt sistem yg mohon koreksi,negatif
-negatif,gk simpel,positif
+positif,yg sistem susah apply susah banget mending pakai yg sestem why sistem proses cepat yg sistem lelet dak apply baik biar lancar spt sistem yg mohon koreksi,positif
+negatif,gk simpel,negatif
 positif,bagus,positif
 negatif,gak panggil,negatif
 negatif,semenjak update versi ga nyaman enak versi tolong perhati,negatif
 positif,ok,positif
-negatif,apk hoax,positif
+negatif,apk hoax,negatif
 negatif,kerja ga uptodate itu2 mulu,negatif
 positif,,positif
 negatif,bahaya pakai jobstreet pantau data2 identitas,positif
@@ -1720,18 +1720,18 @@ positif,top,positif
 positif,informasi joobsreet kerja,positif
 positif,jobstreet transparan,positif
 negatif,upgrade naik kualitas turun kualitas login ampun puh sepuhhhh,negatif
-positif,sy log in akun jobstreet sy yah sy kirim email tp responnya sy butuh utk bs log in akun sy,negatif
+positif,sy log in akun jobstreet sy yah sy kirim email tp responnya sy butuh utk bs log in akun sy,positif
 negatif,gak login yapadahal daftar,negatif
-negatif,baharu nambah jelek,positif
+negatif,baharu nambah jelek,negatif
 negatif,update mulu gx dapet panggil,negatif
 negatif,update ribetsistem nampak amatir input lokasi filter cari tampil lokasi,negatif
 negatif,baru login pdhl pass sdah,negatif
-positif,suka banget apk versi baru abis update mudah akses,negatif
+positif,suka banget apk versi baru abis update mudah akses,positif
 negatif,aplikasi pas,positif
-negatif,profil usaha rekruiter hilang calon cari kerja hak tau usaha gerak bidang lamar,positif
+negatif,profil usaha rekruiter hilang calon cari kerja hak tau usaha gerak bidang lamar,negatif
 positif,bagus 3 kali lamar website percaya,positif
 negatif,upgrade g aplikasi ngeshare loker gilir udah lamar dapet email klo loker udah kadarluarsa aplikasi asli g update,negatif
-negatif,atur ribet,positif
+negatif,atur ribet,negatif
 negatif,kerja,positif
 positif,suka tampil kerja jobstreet tampil bagus mudah cari kerja orang lamar,positif
 negatif,baharu ga buka ga masuk putar putar aja sdh 1 jam,negatif
@@ -1741,7 +1741,7 @@ positif,bagus manfaat cari informasi lowong kerja,positif
 negatif,update jelekmasih bagus sekarangkita lamar gaji bawah diatasatau sesuai diharapkandan kali usaha lamar kitaserta lamar ribet sekaliselalu pasu cv,negatif
 negatif,lbh bagus apk yg krn yg jelas deskripsi pabrik jam kerja filter job apk jg tdk fungsi sy hy filter job dg gj atas 5jt tp yg gaji 23 jt yg tlg kembali bbrp tampil yg sdh bagus apk sy skg sulit dg apk akibat faktor atas,negatif
 positif,good,positif
-negatif,bagus versi seek,positif
+negatif,bagus versi seek,negatif
 negatif,parah update,negatif
 positif,mantaaap,positif
 negatif,aplikasi udah update ga login loading banget,negatif
@@ -1750,24 +1750,24 @@ negatif,tolong seleksi yg perusahaantempat kerja usaha fiktif tipu tolong periks
 negatif,tampil buruk user friendly,negatif
 negatif,parah ne aplikasi nya update gk,negatif
 negatif,sih login aja susahharus lwt web login seekmuter putih hadeh pdhl dlu lpgin lwt apl,negatif
-positif,aplikasi gimana maksud yaapa sdg pelihara system login browser tdk aplikasi,negatif
+positif,aplikasi gimana maksud yaapa sdg pelihara system login browser tdk aplikasi,positif
 negatif,udah ngelamar nunggu eh dapet notif maaf lamar yg lamar tutup gmn sih bener lowong kagaapa nipu aja nih,negatif
 negatif,knpa aplikasi update gabisa buka loding terusplis ja aplikasinyapadahal mo liat lanjut lamar,negatif
 negatif,usaha palsu nipu2 jobstreet tiga mi usaha bener bodong,negatif
-negatif,aplikasi diupdate dah minggu eror ros,positif
+negatif,aplikasi diupdate dah minggu eror ros,negatif
 negatif,masuk loading,negatif
 negatif,register lambat tolong baik,negatif
 negatif,diupdate upload cv,negatif
 negatif,loading mulu ya gak login,negatif
 positif,bantu cari kerja sesuai skill,positif
 negatif,ngk login update dasar bodoh,negatif
-negatif,diupgrade ribet yaaastaga,positif
+negatif,diupgrade ribet yaaastaga,negatif
 negatif,update suruh login ulang loadingnya parah,negatif
 positif,membantuterimakasih,positif
 negatif,update login tanggal 25112023,negatif
 negatif,paksa uninstal login semenjak update tolong perbaaiki,negatif
 negatif,bagus versi passaya updatelamaran liat batas lamar yg apply yg cek history sekarangsaya panggilansaya cekbener gak panggil interview yg apply via jopstreet tolong dibantutks,negatif
-negatif,ga log inlewat web aplikasi jobstreet bantu cari kerja tolong baik,positif
+negatif,ga log inlewat web aplikasi jobstreet bantu cari kerja tolong baik,negatif
 positif,bantu aplikasi kali terima apps guna,positif
 positif,the best,positif
 positif,good,positif
@@ -1804,17 +1804,17 @@ positif,terima kasih jobstreet informasi loker kerja yg bantu moga informasi ker
 positif,efektif reliable,positif
 negatif,update ga masuk akun gimana nih,negatif
 positif,bantu utk cari lapang kerja,positif
-negatif,lowong presiden gk,positif
+negatif,lowong presiden gk,negatif
 positif,acu mem job sesuai kriteria,positif
 negatif,update masuk login nya aja bngt,negatif
 negatif,update akun susah masuk,negatif
 negatif,update rumit bagus versi 1 yg lamar lamar 2 riwayat lamar batas 3 lokasi 1 4 surat lamar diupload ulang apply,negatif
-negatif,semenjak upgrade jafi log in suppurt samsung a50s,positif
+negatif,semenjak upgrade jafi log in suppurt samsung a50s,negatif
 positif,bantu,positif
 positif,fitur cari nama kandidat salary muncul susah pilah,positif
 negatif,update fitur jelek gabisa liat deskripsi usaha gabisa liat cv intip usaha blm ribet jelek kembali fitur yg lamaaa,negatif
 negatif,update buruk login susah dowload apk kalo alih browser itu loading jobstreet batas type device iosos yg lancar,negatif
-negatif,abis update ilang,negatif
+negatif,abis update ilang,positif
 negatif,log in aja susah,negatif
 positif,puas senang harap langsung hubung rekruterterimakasih,positif
 negatif,update susah log in muter ga,negatif
@@ -1829,7 +1829,7 @@ negatif,update gak login,negatif
 negatif,ter filter lowong yg lampau selamat pilih berulangulang kali lanjut tolong apk nya bantu benah apk baik moga baca developer budiman salam hormat semenjak update notifikasi email mekanisme lamar auto sistematis simple kualitas sortir lowong,negatif
 positif,ok,positif
 negatif,update nih aplikasi,negatif
-negatif,alami kendala lamar mengapply kerja suruh apply,positif
+negatif,alami kendala lamar mengapply kerja suruh apply,negatif
 positif,maaf sebenernya jobstreet pasang foto profil engga ya,positif
 negatif,semenjak update apknya lambatt responnya,negatif
 negatif,aplikasi baik total susah tau berp loker yg buka contoh posisi legal staff freshgraduate loker yg buka 2 tolong kembali jobstreet fitur chat hrd usaha,negatif
@@ -1849,19 +1849,19 @@ negatif,hallo jobstreetada upgrade alami mundur buka akun loading sungguh payah 
 positif,kerennnn sukses,positif
 negatif,update masuk lg tolong bantu open lg akun,negatif
 positif,susah banget si login abis update gabisa nih login akun ngelamar min,negatif
-negatif,baharu masukin lot bagus lot,positif
+negatif,baharu masukin lot bagus lot,negatif
 negatif,update gk bsa loginaneh bgt ngeblenk,negatif
 positif,berpengalaman10 driver,positif
 positif,bantu,positif
 negatif,aplikasi pasti,positif
-positif,skrg update yah developer,negatif
+positif,skrg update yah developer,positif
 positif,baru ok cuman riwayat kerja ga hapus kah pilih ubah doang mo hapus tp ga,positif
 negatif,hadeeehhh update ui skrg nyari history lamar batas gk liat yg panggil ngecek bener gk gue ngelamar pt siap lihat jobdescnya skrg gk,negatif
-negatif,updet ribet suka karna simple slogan indonesia ribet gampang,positif
+negatif,updet ribet suka karna simple slogan indonesia ribet gampang,negatif
 positif,diupdate gak login muter,negatif
 positif,jobstreet sukses berkaryamantaaaaaaapppppp,positif
 negatif,suruh update update gak login,negatif
-positif,pkl 6 tempuh didik s1 admin lampung news paper marketing home credit teleseles oprator blistering stripsealing oprator cetak prosuksi pt bayer indonesia,negatif
+positif,pkl 6 tempuh didik s1 admin lampung news paper marketing home credit teleseles oprator blistering stripsealing oprator cetak prosuksi pt bayer indonesia,positif
 positif,terimakasih,positif
 positif,good,positif
 negatif,update gak login buffering aplikasi google tolong baik,negatif
@@ -1875,13 +1875,13 @@ negatif,hbis d update lokernya update,negatif
 positif,masuk akun ya 18032023 terimakasih responnya bintang 5 bintang 3 221123 baharu masuk,negatif
 negatif,updet knpa gak masuk ya updet aman bagus gampang ngelamar semenjak updet gak lamar kerja susah masukin akun,negatif
 negatif,diupdate info dalam ga jelas bgt terang nurun inimah,negatif
-negatif,msuk loading mlu paket internetan kenceng sinyal penuh,positif
+negatif,msuk loading mlu paket internetan kenceng sinyal penuh,negatif
 positif,good,positif
 negatif,sruh update pas update login pas login pasw email salah pdhal udah pke dr th 2009 anehhh bgt,negatif
 negatif,update gabisa ya login aja gabisa benerin server,negatif
 positif,muas,positif
 positif,memdapatkan rizky,positif
-positif,daromi domisili bsi blok g 1 no 46 rt 001012 asin sawangan depok tpttgl lahir boyolali 19 06 1966bekerja bursa efek indonesia 25 security dukung pusdiklat sec gardalidho tangan bakar pt baroon dll,negatif
+positif,daromi domisili bsi blok g 1 no 46 rt 001012 asin sawangan depok tpttgl lahir boyolali 19 06 1966bekerja bursa efek indonesia 25 security dukung pusdiklat sec gardalidho tangan bakar pt baroon dll,positif
 negatif,20 lamar ga hasil bintang 1 aja yahh,negatif
 negatif,update aplikasi jelek susah user apply kerja,negatif
 positif,0000000000000000000ug cc,positif
@@ -1891,7 +1891,7 @@ positif,lowong isi headhunter,positif
 negatif,jelek jobstreet sekaarang log in aja lelet banget gabisa masuk gausalah alihin web lamaa,negatif
 negatif,update aplikasi lelettttttr bangat,negatif
 negatif,kacau set update 18nov kemaren yg ubah tampil info usaha hilang ragu usaha apabergerak bidang hilang ganti video yutub yg guna minim tolong info usaha n syarat didik tampil jobstreet kenal krn informasi lengkap validskrg spti ikut tipu loker dgn menhilangkan tolong baik,negatif
-negatif,ribetdrpd yg,positif
+negatif,ribetdrpd yg,negatif
 positif,recom cari kerja,positif
 negatif,gak log in loading,negatif
 negatif,habis diupdate login buffering jaring bagus,negatif
@@ -1905,7 +1905,7 @@ positif,ok,positif
 negatif,kena upgrade masuk louding kaya hp ga internetnya,negatif
 positif,good,positif
 positif,2 kali kerja karna aplikasi dn perusahaanya pt,positif
-negatif,loadingnya lamaaaaaa aplikasi berat udah gitu gak praktiswaktu kirim lamar 4 x klik bagus yg klik langsung kirim,negatif
+negatif,loadingnya lamaaaaaa aplikasi berat udah gitu gak praktiswaktu kirim lamar 4 x klik bagus yg klik langsung kirim,positif
 negatif,akun tiba2 login,negatif
 positif,moga,positif
 positif,bantu cari kerja,positif
@@ -1918,7 +1918,7 @@ negatif,web gak enak banget pakai,negatif
 positif,jobstreet mutu sasar terimakasih,positif
 positif,mudah cari kerja kerja sesuai mampu,positif
 positif,bantu,positif
-negatif,abis update bagus aneh bagus update,negatif
+negatif,abis update bagus aneh bagus update,positif
 positif,ok,positif
 negatif,aplikasi ribet yaaa cv upload upload ribet deh,negatif
 positif,bagus,positif
@@ -1934,7 +1934,7 @@ negatif,aplikasi bagus diupdate diupdate gak login,negatif
 positif,good,positif
 positif,guna,positif
 negatif,progres signifikan nunggu pasti cepet proses lamar pakai aplikasi,negatif
-positif,baik versi enak ui nya,negatif
+positif,baik versi enak ui nya,positif
 negatif,aplikasi formalitas doang yg recruit tetep aja yg orang dalem,negatif
 positif,bantu,positif
 positif,oke pencaker,positif
@@ -1944,12 +1944,12 @@ negatif,semenjak update gabisa sign in muternya bgt ilang,negatif
 negatif,gimana si abis maintenance akun hapus ga bsa masuk,negatif
 negatif,cmon habis update aja ga login masuk web seek login dr aplikasi loading ga buka buka,negatif
 negatif,versi baru ribetttttttt,negatif
-negatif,diupdate jobstreet ribet proses,positif
+negatif,diupdate jobstreet ribet proses,negatif
 positif,kerja,positif
 negatif,update mudah,positif
 positif,bagus,positif
 negatif,ko abis update ribet ya aplikasi,negatif
-negatif,sdh diapdate bukany bagusmalah gak bs masuk sekalitolong admin ksh solusi sy bs sign in aplikasi,negatif
+negatif,sdh diapdate bukany bagusmalah gak bs masuk sekalitolong admin ksh solusi sy bs sign in aplikasi,positif
 positif,update ga login ya,negatif
 negatif,lamar batasin iya nunggu lamar butuh kerja tolong jobstreet nya ga batas lamar,negatif
 positif,aplikasi cari kerja,positif
@@ -1961,14 +1961,14 @@ negatif,daftar jobstreet pas update masuk arah paly store nih gk masuk aplikasi,
 positif,update aplikasi ga login data username hapus gimana,negatif
 positif,bagus bantu,positif
 negatif,tampil uiux jumpah lamar kali usaha turun kualitas uiuxnya,negatif
-negatif,rip jobstreet aplikasi,positif
-positif,indonesia kerja aja syarat segambreng gimana gak banyal anggur udah males lamar kerja mending jual goreng duit gak pake perintah2 bos gak absen2an,negatif
+negatif,rip jobstreet aplikasi,negatif
+positif,indonesia kerja aja syarat segambreng gimana gak banyal anggur udah males lamar kerja mending jual goreng duit gak pake perintah2 bos gak absen2an,positif
 negatif,habis update data profil hilang registrasi ulang loading doang,negatif
 positif,aplikasi bagus batu terima kasih,positif
 positif,fii umrik,positif
 positif,bagus,positif
 negatif,update 19 nov kacau log in engga jalanjalan aplikasi tungguin aja gausah diupdate org cari kerja sulit,negatif
-positif,banyak rekrut kedok uang jamin mohon saring usaha yg fiktif,negatif
+positif,banyak rekrut kedok uang jamin mohon saring usaha yg fiktif,positif
 negatif,cari lokasi kerja spesifik app yg kota gak cari dasar susah deh cari lokasi bsd aja loker kosong,negatif
 positif,alhamdulillah pakai jobstreet kerja sesuai alam referensi hrd seleksi karyawan,positif
 negatif,gabisa login akun jobstreet do klik sign loading gamasu masuk,negatif
@@ -1981,21 +1981,21 @@ negatif,aplikasi cari cari lowong gilir login akun cuman loading aja,negatif
 positif,alhamdulillah beneran dapet kerja pt bonafit mm2100 aplikasi,positif
 negatif,ko jobstreet gin si udh update gabisa login mulu pdhl udh sesuai gimana si sistemnyaaa anjlok bangettt min tolong perbaikin lahhh suka jobstreet yg dluuu lot ginisorry ksh bintang 1,negatif
 positif,suka versi yg yg versi baru bingung,negatif
-positif,saran usaha tolak berkalikali rekomendasi pencaker,negatif
+positif,saran usaha tolak berkalikali rekomendasi pencaker,positif
 positif,4 dlu aja download soalna,negatif
 positif,makasih,positif
 positif,mantap,positif
-positif,lamar gampang cuman susah dapet panggil nya,negatif
+positif,lamar gampang cuman susah dapet panggil nya,positif
 negatif,versi job street rumit turut gak mudah sesimple lowker yg kirim lamar liat kirim lamar tolong kembali aja,negatif
 positif,lamar langsung direspon,positif
 positif,bagud,positif
-positif,keren banget aplikasi ubah semua menu bagus notifikasi email hasil lamar pekerjaanl,negatif
+positif,keren banget aplikasi ubah semua menu bagus notifikasi email hasil lamar pekerjaanl,positif
 positif,good,positif
 negatif,gak yg nyangkut dr yg lamar gk panggil,negatif
 positif,great,positif
 positif,updatenya bagus fitur tambah bagus tampil,positif
 negatif,update baru kecewa informasi detail lokasi kerja tampil kota,negatif
-positif,yg program aplikasi jobstreet org pinter pasti tpi yg nmanya menu search dg plihan lbih spesifik ya hrusnya yg tampil sesuai dg yg konsumen cari klox ex nyari loker jakarta timur yg muncul ya smua jakarta raya buang2 utk scrol update jngan nanggung2 bos q terima ksih,negatif
+positif,yg program aplikasi jobstreet org pinter pasti tpi yg nmanya menu search dg plihan lbih spesifik ya hrusnya yg tampil sesuai dg yg konsumen cari klox ex nyari loker jakarta timur yg muncul ya smua jakarta raya buang2 utk scrol update jngan nanggung2 bos q terima ksih,positif
 positif,bagus,positif
 positif,3 kerja aplikasi 2 kerja sebelumya jobsdb yg gabung jobstreet thanks note saran ada fitur kualifikasi kerja lamar peta saing thanks,positif
 positif,terima kasih salur kerja yg,positif
@@ -2006,7 +2006,7 @@ positif,,positif
 positif,keren updetan apk nya detail turut terimakasih jobstreet kali kerja jobstreet,positif
 positif,bantu mudah apply lamar,positif
 positif,good nice,positif
-positif,dear management jobstreet kaya range gaji usaha buka lowong tampil lamar kecewabiar gambar gak lamar perusaahan tersebutkebanyakan capek2 wawan berat nego gajinyaalasan apa,negatif
+positif,dear management jobstreet kaya range gaji usaha buka lowong tampil lamar kecewabiar gambar gak lamar perusaahan tersebutkebanyakan capek2 wawan berat nego gajinyaalasan apa,positif
 negatif,update nge bug akun log in ga bisabisa tolong baik aplikasi nya,negatif
 positif,hrd and human capital experience more than 25 years,positif
 positif,peluang cepat,positif
@@ -2015,7 +2015,7 @@ negatif,gak bagus aplikasi gak kayak login aja susah tunggu unistal kecewa,negat
 positif,alhamdulillah,positif
 negatif,kurang kali usaha lamar tolong tampil kemarin,negatif
 positif,mudah,positif
-positif,aplikasi bawa pindah pindah usaha keliling indonesia,negatif
+positif,aplikasi bawa pindah pindah usaha keliling indonesia,positif
 positif,bantu cari kerja bantu terima kasih,positif
 positif,asm,positif
 negatif,panggil kasih 1 dlu,positif
@@ -2024,7 +2024,7 @@ negatif,semenjak maintenance ribet login susah alih google ga kaya langsung sesu
 positif,manfaat,positif
 positif,ok bantu,positif
 positif,okk,positif
-positif,update kilas aplikasi kitalulus,negatif
+positif,update kilas aplikasi kitalulus,positif
 positif,lamar kerja jobstreet bagus kerja bagus yg terima kasih y jobstreet,positif
 negatif,apps nya semenjak baru ribet mantau susah kalo lamar wilayab cangkup 2 wilayah tdk bsa bisa tolong jd masuk uiuxnya,negatif
 positif,maaf turun bintang suka aplikasi update tambah spt tggl dll fitur hilang moga kembali contoh kali lamar versi web nya moga jobstreet baik,positif
@@ -2034,26 +2034,26 @@ negatif,proses maintenance update apk data isi hilang musti isi,negatif
 negatif,aja update login muter2 doang,negatif
 negatif,susah gk login bug,negatif
 positif,habis update login versi web nya login,negatif
-negatif,gaka da jelas,positif
+negatif,gaka da jelas,negatif
 negatif,udah lamar aplikasi sih banyak nda kabar apa2 dri usaha tau2 status lowong kerja udah tutup terima kerja,negatif
 negatif,loker tipu masuk aplikasi,negatif
 positif,aplikasi ya bantu,positif
 negatif,aplikasi,positif
 positif,mudah cari lowong kerja jobstreet,positif
 positif,manfaat,positif
-negatif,udah bug nga buka maaf ngasih bintang 1 bagus aplikasi jobstreet rekomen cari kerja,positif
+negatif,udah bug nga buka maaf ngasih bintang 1 bagus aplikasi jobstreet rekomen cari kerja,negatif
 positif,bantu,positif
 negatif,2 aplikasi inisudah puluh loker apply status terima loker berakhirapa aplikasi cv usaha entahlahtidak jelas didalamnyayang apply aja ulang lagijadi ragu aplikasi,negatif
 positif,bantu pemcari kerja cari kerja,positif
-positif,maaf aplikasi tulis 18 november aplikasi sedia tolong maksud ya,negatif
+positif,maaf aplikasi tulis 18 november aplikasi sedia tolong maksud ya,positif
 positif,nice,positif
 positif,aplikasi cari kerja mudah applay lowong lamar via email,positif
 positif,goodjob,positif
 positif,mudah cari lowong kerja moga manfaat berkah,positif
 positif,keren,positif
-negatif,kasih 1 bintang panggil kerja bintang,positif
+negatif,kasih 1 bintang panggil kerja bintang,negatif
 positif,mantap,positif
-negatif,susah temu cari,positif
+negatif,susah temu cari,negatif
 positif,jobstreet bagus mudah cari kerja,positif
 positif,ok,positif
 positif,simple guna,positif
@@ -2092,11 +2092,11 @@ positif,bantu,positif
 positif,bantu mudah,positif
 positif,bantu,positif
 positif,bantu,positif
-positif,aplikasi yg manfaat,negatif
+positif,aplikasi yg manfaat,positif
 positif,bagus,positif
 positif,bantu,positif
 positif,bagus profil usaha,positif
-positif,bukti panggil,negatif
+positif,bukti panggil,positif
 positif,bagus mudah naruh dokumenya,positif
 positif,goood job,positif
 negatif,semenjak update baru auto sign out account login coba via webnya,negatif
@@ -2106,7 +2106,7 @@ positif,please add a search bar on application history,positif
 positif,manfaat,positif
 positif,puas,positif
 positif,aplikasi bagus sayang orang2 pinter nipu lulus kerja hati2 aja,positif
-positif,muncul tulis 18 nov aplikasi sedia jobstreet tutup gimana yaa,negatif
+positif,muncul tulis 18 nov aplikasi sedia jobstreet tutup gimana yaa,positif
 positif,bantu,positif
 positif,good,positif
 positif,,positif
@@ -2115,7 +2115,7 @@ positif,user experience nya bikin nyaman,negatif
 positif,ok,positif
 positif,bagus recommended,positif
 positif,apk mudah cari kerja,positif
-negatif,maksimal,positif
+negatif,maksimal,negatif
 positif,mudah cari kerja terima kasih,positif
 positif,mudahh,positif
 positif,oke,positif
@@ -2130,7 +2130,7 @@ positif,bantu,positif
 positif,bagus,positif
 positif,good aplication,positif
 positif,ok bantu,positif
-positif,lumayan bagus sedia impormasi lokernya ga panggil salah yshhhy,negatif
+positif,lumayan bagus sedia impormasi lokernya ga panggil salah yshhhy,positif
 positif,ok,positif
 positif,okokok,positif
 negatif,sekian ratus lamar aplikasi satu panggilansumpah nih aplikasi jancuuuk jaran yg bikin,negatif
@@ -2154,7 +2154,7 @@ positif,bermanpaat,positif
 positif,muda2han tawar kerja,positif
 positif,bagus cari kerja,positif
 positif,bantu,positif
-negatif,aplikasi eror,positif
+negatif,aplikasi eror,negatif
 positif,goo banget mudah erti,positif
 positif,bagus bantu,positif
 positif,bantu mudah orang cari kerja,positif
@@ -2165,7 +2165,7 @@ negatif,update akun masuk masuk jobstreet filipina aneh sumpah gimana data cv ak
 positif,bantu,positif
 positif,job street saran kerja sasuai bidang dalam,positif
 positif,bantu,positif
-positif,panggil interview,negatif
+positif,panggil interview,positif
 positif,alhamdulillah download aplikasi jobstreet panggil usaha terimakasih jobstreet,negatif
 positif,ga ubah profil ya ganti email susah banget sih tolong baik yaa,negatif
 positif,goods aplicationmantabss,positif
@@ -2190,11 +2190,11 @@ negatif,kasih bintang 1 yaa terima kerja kasih bintang 5,positif
 positif,bagus,positif
 positif,mantab,positif
 positif,lowong kerja jobstreet tarik minat proses aju lamar nya proses cepat terimakasih jobstreet,positif
-negatif,error mulu,positif
+negatif,error mulu,negatif
 positif,mudah informasi yg bantu cari kerja,positif
 positif,lowong mudah,positif
 positif,senang apk mudah cari kerja go great jobstreet,positif
-negatif,gagal unggah cv mulupadahal sinyal bagus,positif
+negatif,gagal unggah cv mulupadahal sinyal bagus,negatif
 positif,moga hasil nya lamar,positif
 positif,jos butuh kerja,positif
 positif,maaf kasih bintang satunotif gabisa buka eror notice,positif
@@ -2215,7 +2215,7 @@ positif,bantu rekomendasi lowong kerja,positif
 positif,bagus,positif
 positif,mantap lowong kerja sesal mendownloadnya,positif
 positif,bagus,positif
-positif,emudahkan mrncari loker,negatif
+positif,emudahkan mrncari loker,positif
 positif,terimakasih jobstreet informasi lowong kerja,positif
 positif,simple cepat,positif
 positif,mudah aju aplikasi lamar hamya detik,positif
@@ -2240,12 +2240,12 @@ positif,good informasi,positif
 positif,tembus 4,positif
 positif,jobstreet is very usefull for job seeker and jobstreet platform is really uses friendly,positif
 positif,cocok bingung cari kerja aplikasi,positif
-negatif,lamar panggil2 baharu udah terima kerja bintang,positif
+negatif,lamar panggil2 baharu udah terima kerja bintang,negatif
 negatif,parah udah naro email jobstreet temu sandi salah cek google,negatif
 positif,good support me,positif
 positif,aplikasi manfaat cari kerja cari karyawan moga kerja sempat usaha lamar,positif
 positif,alam drever 15,positif
-positif,ga ganti foto profil,negatif
+positif,ga ganti foto profil,positif
 positif,trima kasih aatas aplikasi moga bermaanfaat teman yg membutuhkanya,positif
 positif,like,positif
 positif,ok banget,positif
@@ -2276,13 +2276,13 @@ positif,good,positif
 positif,nice,positif
 positif,good app,positif
 positif,bantu,positif
-negatif,saran minimal cari filter kerja khusus cari loker smasmk mudah cari lowong kerja kalo tambah fitur usaha usaha sesuai kriteria lamar usaha wajib kasih terang cocok ya kasih terang cocok banyak lamar status terima jelas,positif
+negatif,saran minimal cari filter kerja khusus cari loker smasmk mudah cari lowong kerja kalo tambah fitur usaha usaha sesuai kriteria lamar usaha wajib kasih terang cocok ya kasih terang cocok banyak lamar status terima jelas,negatif
 positif,aplikasi manfaat,positif
 positif,bantu,positif
 positif,bagus,positif
 positif,bagus,positif
 positif,bantu sukses,positif
-positif,not bad,positif
+positif,not bad,negatif
 positif,ok,positif
 positif,aplikasi bagus cari lowong kerja,positif
 positif,mantap apk nya,positif
@@ -2292,7 +2292,7 @@ positif,rekomendasi ajang cari kerja,positif
 positif,good,positif
 positif,aplikasi keren mudah cari kerja lamar usaha sesuai kualifikasi,positif
 positif,bantu cari kerja,positif
-positif,nice tp sedia lowong kerja kaya jarang buka akun bgt proses recruitment nya,negatif
+positif,nice tp sedia lowong kerja kaya jarang buka akun bgt proses recruitment nya,positif
 positif,muas,positif
 positif,yes oke,positif
 positif,aplikasi yg bagus,positif
@@ -2315,14 +2315,14 @@ positif,,positif
 positif,bagus loker tinggal pilih ahli kitamudah gampang lamar jobstreet,positif
 negatif,nya kerja serius yg terima,positif
 positif,lumayan,positif
-positif,temu loker job street,negatif
+positif,temu loker job street,positif
 positif,good,positif
 positif,bagus cari kerja,positif
 positif,pakai aplikasi bantu benar2 hubung usaha apply lamar moga ajah benar2 bukti aplikasi loker recommended,positif
 positif,bantu,positif
 positif,bantu,positif
 positif,lumayan bagus,positif
-positif,lowong kerja lengkap update usaha tayang peluang sempat sesuai posisi butuh,positif
+positif,lowong kerja lengkap update usaha tayang peluang sempat sesuai posisi butuh,negatif
 positif,bantu cari lowong kerja,positif
 positif,one loveeee,positif
 positif,bantu banget,positif
@@ -2337,7 +2337,7 @@ positif,good,positif
 positif,pilih,positif
 positif,,positif
 positif,bantu aplikasi,positif
-positif,crew leader pt reckitt benckiser indonesia operator pt meiwa indonesia operator pt sumiden serasi wire prodact,negatif
+positif,crew leader pt reckitt benckiser indonesia operator pt meiwa indonesia operator pt sumiden serasi wire prodact,positif
 positif,moga untung kawan,positif
 positif,bagus,positif
 positif,moga rezeki aamiin,positif
@@ -2355,11 +2355,11 @@ positif,mantap,positif
 positif,manfaat,positif
 positif,bagus bantu cari eja,positif
 positif,moga rezeki terima apply lamar,positif
-negatif,mudah susah gapay lamar iqhtiar nihil sesuai harap,positif
+negatif,mudah susah gapay lamar iqhtiar nihil sesuai harap,negatif
 positif,,positif
 positif,suka aplikasi jobstreet mudah cari kerja lamar pangilan interview proses usaha terimakasi,positif
 positif,jobstreet bantu cari kerjasemoga kembang terimakasih jobstreet,positif
-negatif,jobstreet area singapore,positif
+negatif,jobstreet area singapore,negatif
 positif,bantu top,positif
 positif,bantu bnyk info lowong kerja sesuai skil mampu,positif
 positif,ok,positif
@@ -2370,7 +2370,7 @@ positif,good,positif
 negatif,apk ga,negatif
 positif,mudah cari kerja,positif
 positif,bantu,positif
-negatif,jobstreet bagus cari posisi spesialisasi akurat cari posisi branch manager spesialisasi sales posisi spesialisasi loker hrd manager salesman posisi tolong baik filter cari klo cari posisi branch manager sales manager ya posisi posisi terimakasih,positif
+negatif,jobstreet bagus cari posisi spesialisasi akurat cari posisi branch manager spesialisasi sales posisi spesialisasi loker hrd manager salesman posisi tolong baik filter cari klo cari posisi branch manager sales manager ya posisi posisi terimakasih,negatif
 positif,,positif
 positif,ok,positif
 positif,mudah cari kerja sesuai ahli,positif
@@ -2387,7 +2387,7 @@ positif,joobstreet bantu,positif
 positif,ok,positif
 positif,brmanfaat org yg mncari pkerjaan moga smkin aktf dlm mmbgi info lowong pkerjaan,positif
 positif,oke,positif
-positif,senang nya,negatif
+positif,senang nya,positif
 positif,informatif,positif
 positif,nice,positif
 positif,bantu informasi lowong kerja,positif
@@ -2413,16 +2413,16 @@ positif,good verry well verry good afternoon,positif
 positif,bagus,positif
 positif,bagus manfaat,positif
 positif,mantap,positif
-positif,semenjak download cari kerja jobstreet sampe gak 1 lamar yg terima,positif
+positif,semenjak download cari kerja jobstreet sampe gak 1 lamar yg terima,negatif
 positif,ok,positif
 positif,impormasi respon cepat,positif
 positif,mudah cari kerja,positif
 positif,bes oktimal,positif
 positif,mantap,positif
 positif,mudah2an terima amin,positif
-positif,mudah2xx ya tembus cv,negatif
+positif,mudah2xx ya tembus cv,positif
 positif,ok,positif
-positif,baik poko nya sayah blm dapet panggil kerja dri sampe aplikasi inih tpi sayah bkl usaha mudahhan dapet inih,negatif
+positif,baik poko nya sayah blm dapet panggil kerja dri sampe aplikasi inih tpi sayah bkl usaha mudahhan dapet inih,positif
 positif,bantu,positif
 positif,mudah jangkau lowong kerja,positif
 positif,top,positif
@@ -2437,8 +2437,8 @@ positif,bantu,positif
 negatif,sumpah lot banget beda bgt versi,negatif
 positif,bagus,positif
 positif,good and easy for apply,positif
-negatif,emang parah aplikasi kedok pencaker eh ujung ujung seret yayasan ptktt pulo gebang interview nya kayak upah sekian sekian sedia sragam ujung ujung suruh bayar member 15 juta miris domisili tangerang tempat tangerang kantor tangerang kerja sesuai yg janji ob gaji 15 juta umr,positif
-negatif,server philippine,positif
+negatif,emang parah aplikasi kedok pencaker eh ujung ujung seret yayasan ptktt pulo gebang interview nya kayak upah sekian sekian sedia sragam ujung ujung suruh bayar member 15 juta miris domisili tangerang tempat tangerang kantor tangerang kerja sesuai yg janji ob gaji 15 juta umr,negatif
+negatif,server philippine,negatif
 positif,very useful app,positif
 positif,bantu,positif
 positif,lumayan bantu,positif
@@ -2455,7 +2455,7 @@ negatif,kanapa update gagal loading,negatif
 positif,apk yamg bagus,positif
 positif,mantap,positif
 positif,bagus,positif
-positif,ko aplikasi jobstreet jobstreet express beda resmi beda tolong,negatif
+positif,ko aplikasi jobstreet jobstreet express beda resmi beda tolong,positif
 positif,mantap,positif
 positif,good,positif
 negatif,update lamar kerj,negatif
@@ -2472,7 +2472,7 @@ positif,mudah,positif
 negatif,profile g buka bikin email gmana coba,negatif
 positif,usaha tambang pasir besi ntb admin cari kerja,positif
 positif,bagus d,positif
-positif,update login bilang negara filipina indonesia sedia,negatif
+positif,update login bilang negara filipina indonesia sedia,positif
 positif,mudah cepat,positif
 positif,bismilah,positif
 positif,lamar mudah bantu,positif
@@ -2500,7 +2500,7 @@ positif,ok mohon lg info kerja putar collection,positif
 negatif,validasi gagal hapus akun gak,negatif
 positif,senang,positif
 negatif,aplikasi gajelas suruh validasi email gaada email masuk udah suruh upload foto maksimal 20 kb kocakk,negatif
-positif,update an baru ngbug gavisa edit profil,negatif
+positif,update an baru ngbug gavisa edit profil,positif
 positif,diam,positif
 positif,terima kasih bantu mudah cari lowong kerja,positif
 positif,bantu juang cari kerja,positif
@@ -2532,16 +2532,16 @@ positif,mudah cari loker,positif
 positif,aplikasi bagus bayak lowong yg tersediia,positif
 positif,terima kasih,positif
 positif,mudah cepet info lowong,positif
-positif,tampil enak,negatif
+positif,tampil enak,positif
 positif,,positif
 negatif,lg diupgrade app nya tp,negatif
-negatif,apply lamar kerja download app fungsi app,positif
+negatif,apply lamar kerja download app fungsi app,negatif
 positif,ok,positif
 positif,ok,positif
 positif,mudah,positif
 positif,mantap,positif
 positif,moga rezeki jobstreet aamiin,positif
-negatif,banget lemon ulur,positif
+negatif,banget lemon ulur,negatif
 negatif,aplikasi hoax info minim lamar susah kirim cv gagal terusmemperkaya aplikasi yg fungsi,negatif
 positif,terima kasih,positif
 positif,ok,positif
@@ -2568,7 +2568,7 @@ positif,suka aplikasi inisuami kerja jobstreet alhamdulillah moga kerja,positif
 positif,bantu,positif
 positif,good job,positif
 positif,bismillah komisaris,positif
-negatif,member prorioritas,positif
+negatif,member prorioritas,negatif
 positif,blm dpt kerja dri aplikasi moga cepet dpt ya amin,positif
 positif,baik,positif
 positif,apply lamar mudah sederhana,positif
@@ -2586,7 +2586,7 @@ positif,bagus,positif
 negatif,parah ni aplikasi selesai update banyak loading lambat ngecek cv yg udh upload aja gabisa suruh install aplikasi ecek dokumen udh pindah tab menu aja loading yg device mumpuni versi kemaren kaya ga gin gin,negatif
 negatif,notifikasi telat ga aplikasi ghosting kerja yg iklan check hah payah,negatif
 positif,keren,positif
-positif,bagusbanyak loker,negatif
+positif,bagusbanyak loker,positif
 positif,good,positif
 positif,bagus loker yg butuh,positif
 positif,bantu orng anggur,positif
@@ -2648,7 +2648,7 @@ positif,mudah,positif
 positif,ok,positif
 positif,bagus,positif
 positif,bantu cari kerja,positif
-positif,berkat jobstreet udh dpt kerja sblm nya kali dpt panggil interview bulan cakeppp parah,negatif
+positif,berkat jobstreet udh dpt kerja sblm nya kali dpt panggil interview bulan cakeppp parah,positif
 positif,mantap,positif
 positif,muas,positif
 negatif,ga panggil capek ngelamar aja,negatif
@@ -2668,7 +2668,7 @@ positif,apk nya bagus,positif
 positif,,positif
 positif,nice application,positif
 positif,guna manfaat,positif
-positif,saring lgi biar kgk ad tipu,negatif
+positif,saring lgi biar kgk ad tipu,positif
 positif,sanagat mudah dalammelamar kerja,positif
 positif,bantu cari kerja sesuai bidang mati,positif
 positif,terima kasih,positif
@@ -2693,7 +2693,7 @@ positif,mantil mantap betil,positif
 positif,bantu,positif
 positif,lancar job situs,positif
 positif,manfaat,positif
-negatif,urus mudahjika kerja 5 bintang,positif
+negatif,urus mudahjika kerja 5 bintang,negatif
 positif,bagus bantu,positif
 positif,mantap bosque,positif
 positif,loker update,negatif
@@ -2705,7 +2705,7 @@ positif,mantap,positif
 positif,bantu thanks jobstreet,positif
 positif,ok,positif
 negatif,aplikasi buka ambil langkah hadir tingkat aplikasi sedia 5 am thu 10 agustus 2022maaf ketidaknyamanan,negatif
-positif,apk jobstreet buka,negatif
+positif,apk jobstreet buka,positif
 positif,moga dapatkanpekerjaan,positif
 positif,bantu cari lowong kerja,positif
 positif,bantu cari lowong kerja,positif
@@ -2718,7 +2718,7 @@ positif,bantu,positif
 positif,moga cpt dpt kerja amin,positif
 positif,lamar kerja jobstreet terima kerja,positif
 positif,bantu cari kerja relevan latar didik alam,positif
-positif,min notif tgl 28 oktober sedia baik hapus aplikasi,positif
+positif,min notif tgl 28 oktober sedia baik hapus aplikasi,negatif
 positif,bantu cari kerja,positif
 positif,ok,positif
 positif,ok bgt,positif
@@ -2731,7 +2731,7 @@ positif,bantu sayaterima kasih,positif
 positif,bom alam terima kerja jobstreet sih moga dapet deh coba,positif
 positif,memuasakam,positif
 positif,bagus bantu,positif
-negatif,jobstreet bagus deh kayak nya sekrg kayak kualitas nya notif muncul tgl 28 aplikasi wahh gimana moga baik ya,positif
+negatif,jobstreet bagus deh kayak nya sekrg kayak kualitas nya notif muncul tgl 28 aplikasi wahh gimana moga baik ya,negatif
 positif,bantu cari kerjs,positif
 positif,kadang suka error,positif
 positif,mantap,positif
@@ -2740,12 +2740,12 @@ positif,info usaha butuh,positif
 positif,good jobs,positif
 positif,kasih 4 karna ad yg masuk minggu usaha,negatif
 positif,mantabb,positif
-negatif,filter indexing sesuai sulit cari lowong sesuai minat,positif
-negatif,info loker jobstreet yg respon lamar sesuai kriteria interview langsung tolak,negatif
-negatif,pertnyakan loker2 yg post joobstreet,positif
+negatif,filter indexing sesuai sulit cari lowong sesuai minat,negatif
+negatif,info loker jobstreet yg respon lamar sesuai kriteria interview langsung tolak,positif
+negatif,pertnyakan loker2 yg post joobstreet,negatif
 positif,mantab,positif
 positif,bagus apknyasemoga,positif
-negatif,byk loker palsu dh make apk sampe skrg blom dpt kerja,positif
+negatif,byk loker palsu dh make apk sampe skrg blom dpt kerja,negatif
 positif,buka aplikasi jobstreet muncul tulis aplikasi 28 oktober 2023 aplikasi bantu cari lowker,positif
 positif,bantu yg alam katena sedia informasi lowong kerja,positif
 positif,bantu cari kerja,positif
@@ -2760,7 +2760,7 @@ negatif,eror muat ulang gel hapus data susah panggil ya haha 200 lamar ga panggi
 negatif,masak sdh ngelamar lowong sederhana 30 usaha buka aja nggak lamar hahahaha ngelawak aplikasi,negatif
 positif,mambantu,positif
 positif,bantu,positif
-negatif,dibatasin tulis batas maksimal si,positif
+negatif,dibatasin tulis batas maksimal si,negatif
 positif,bantu cari kerja,positif
 positif,ok,positif
 positif,mantap,positif

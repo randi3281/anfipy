@@ -1,14 +1,14 @@
-A_test,Label NB
+test_set,Label SVM
 maaf ulssannya palsu,positif
 terimakasih tokopedia seller mudah transaksi bantu,positif
-aplikasi ombak terima otomatis pesan proses cepat pesan batal otomatis berat jual kesal bijak,negatif
+aplikasi ombak terima otomatis pesan proses cepat pesan batal otomatis berat jual kesal bijak,positif
 mantap,positif
 baguss,positif
-tokopedia gk jelasmasa upload produk masuk draf gk tampil,positif
+tokopedia gk jelasmasa upload produk masuk draf gk tampil,negatif
 mantap,positif
 recommended,positif
 tdk ubah alamat,negatif
-mohon sistem otomatis terima pesan langsung proses kirim mepet seller produk masak sulit atur nya risiko transaksi batal otomatis kasihan seller makan terimakasih moga direspon,positif
+mohon sistem otomatis terima pesan langsung proses kirim mepet seller produk masak sulit atur nya risiko transaksi batal otomatis kasihan seller makan terimakasih moga direspon,negatif
 cocok,positif
 berat bijak tanggal 18 november seller kecewa trimaksih 5,negatif
 muda mudah usaha lancar,positif
@@ -18,7 +18,7 @@ aplikasi bagus tahan yah,positif
 mantap,positif
 moga usaha toko dia sukses amin,positif
 niii alam moga aman berkah,positif
-sih gak loginorang jual sulit gak kayak hadeh,positif
+sih gak loginorang jual sulit gak kayak hadeh,negatif
 keren,positif
 bantu jual,positif
 pake ktp daftar sih ktp hilang,negatif
@@ -52,7 +52,7 @@ strummer handlebar mtb 318mm specifications diameter 318 mm width 800 mm rise 50
 uji coba mudah mudah usaha sih lancar jaya,positif
 bantu promo,positif
 ,positif
-kadang notifnya ngga muncul,positif
+kadang notifnya ngga muncul,negatif
 toko spesial ku,positif
 gila si tokopedia potong ga logis 75 customer belanja 7juta seller potong sampe 500ribu tokped ga buruk tokped ga kaya,negatif
 jujur yg rasa seller beli tiktok kebijakan2 atur yg berat seller biaya layan topads yg aneh daya beli unjung tokopedia aneh seller cepat respon chat 85100 transaksi yg nanya2 topads habis transaksi engga harap baik bagus aturan2 ambil alih tiktok,negatif
@@ -66,17 +66,17 @@ tolong kasih seller blockir beli nakal,positif
 bagus batu pasar,positif
 mudah mengupload produk,positif
 ya tokopedia seller lot gin download terusss hadeuuuh,positif
-gk jual tokpedseller potong,positif
+gk jual tokpedseller potong,negatif
 mantab apk ngebantu umkm orang bintang 5,positif
 saangat bantu seller,positif
 mantap,positif
 saldo jual tahan tokped engga ambil ngegantung udah bulan lumayan udah komplen tp udah 1 g has,negatif
 jos,positif
-min tolong modal toko tolong baik tagih kemarin bayar tolong tambah menu fitur tambah akun aplikasi pindah switch akun cepat aplikasi twitter aplikasi belah tambah alamat gudang kirim produk kirim produk alamat gudang beda ribet ganti ulang alamat kirim,positif
+min tolong modal toko tolong baik tagih kemarin bayar tolong tambah menu fitur tambah akun aplikasi pindah switch akun cepat aplikasi twitter aplikasi belah tambah alamat gudang kirim produk kirim produk alamat gudang beda ribet ganti ulang alamat kirim,negatif
 good,positif
 bagus,positif
 biaya layan,negatif
-cekik seller biaya gak ngotak iklan nguras cepet banget ga imbang jual cost marketplace berlipat2 laba pajak cost produksi dll moga marketplace ilang muka bumi biar jual kayak jaman pake web,positif
+cekik seller biaya gak ngotak iklan nguras cepet banget ga imbang jual cost marketplace berlipat2 laba pajak cost produksi dll moga marketplace ilang muka bumi biar jual kayak jaman pake web,negatif
 patah2,positif
 fitur blokir nya kesini downgrade,negatif
 bermenfaat,positif
@@ -94,14 +94,14 @@ tolong moderasi toko toko transaksi apa alas moderani point b no 12 tera manipul
 puas,positif
 buruk mending tokopedia update buruk sumpah libur hari minggu kirim perfoma langsung merah aneh minggu loh,negatif
 sangan bagus jual lupa mampir toko ya kak batik rumiy sedia sarung celana batik,positif
-tokopedia ambil margin ny sampe 10 potong hasil jual selleragak berat euy jual online,positif
+tokopedia ambil margin ny sampe 10 potong hasil jual selleragak berat euy jual online,negatif
 kapok dah pakai tokopedia seller danasaldo review tunggu 2 moga tokopedia cepat bangkrut,positif
-gk aplikasi ken nambahin produk aja judul produk 25 karakter lgi persen yg potong produk yg jual mei kemaren dinaikin,positif
+gk aplikasi ken nambahin produk aja judul produk 25 karakter lgi persen yg potong produk yg jual mei kemaren dinaikin,negatif
 bobrokkkkk todd,positif
 moga produk2 yg toko gikaproduct tokpedlaku jual,positif
 aplikasi belanja no 1 utk gampang lihat banding yg,positif
 manfaat,positif
-potong nya besarniatnya ambil untung biar uang cepet muter tombok,positif
+potong nya besarniatnya ambil untung biar uang cepet muter tombok,negatif
 terima kasih tokopedia seller,positif
 ok,positif
 biaya adminnya henti langgan power merchant gak untung bisnis habis gara2 nombok biaya admin gimana sukses umkm kalo biaya admin sanasini mohon adakan fitur henti langgan power merchant mending toko belah adminnya gak gede,negatif
@@ -169,7 +169,7 @@ terima kasih tokopedia milik hasil tambah,positif
 garagara kurir rekomendasi bintang 1,negatif
 mudah2an lancar jual tokopedia seller mantap,positif
 nice,positif
-ok aja update kali fungsi yg fungsi balas chat diskusi,positif
+ok aja update kali fungsi yg fungsi balas chat diskusi,negatif
 moga bagus foto barang suka tibatiba hilang,positif
 mudah bantu jual jalan usaha moga sukses aamiin,positif
 jual bantu terimakasih tokopedia sukses,positif
@@ -177,7 +177,7 @@ bantu,positif
 habis update gk pemberitahuan chat order masuk,negatif
 moga bantu niaga,positif
 ,positif
-berat bgt app prasaan cetak resi ja gak,positif
+berat bgt app prasaan cetak resi ja gak,negatif
 okkkkk,positif
 suka,positif
 nice banget,positif
@@ -186,7 +186,7 @@ lumayan jual barang yg gk kepake normal numpuk rumah yekan meding jual tokped wk
 batu,positif
 bantu,positif
 tokopedia mantap pokok nya,positif
-kendala dlm proses kirim chat,positif
+kendala dlm proses kirim chat,negatif
 maaf turun yg rasa seller skg tokopedia sungguh berat seller untung 10 susah saing berjutajuta banting harga produk yg seller kena 12 bebas ongkir produk jual biaya topads,negatif
 tokopedia mudah bantu usaha ol tengah transkasi aman,positif
 great,positif
@@ -207,7 +207,7 @@ mudah,positif
 seler bagus barang sesuai pesan,positif
 good aps,positif
 mudahh,positif
-lumayan potong twrlalu,positif
+lumayan potong twrlalu,negatif
 mudah niaga,positif
 puas,positif
 aplikasi super,positif
@@ -224,7 +224,7 @@ fitur hapus chat ga update kagak apk risih orang hapus2 chat ampas nanya2 doank 
 cuan,positif
 mantab jaya,positif
 mantap,positif
-jelek banget sat bubar aja bubar,positif
+jelek banget sat bubar aja bubar,negatif
 kasih bintang 5 skrg beh turun drastis malu berat sih stlh pegang tiktok ambruadul bisnis bangun maju hancur malu sih dagang dr cina jago dlm dagang n bisnis nilai saham terjun bebas tolong benah u seller kasi 24 jam kirim paket h uda feenya gede sesuai donk kerja yg pro duit aja kerja yg bener tokped jgn mundur,negatif
 jos dagang susah laku,positif
 mantap,positif
@@ -245,7 +245,7 @@ top up iklan gagal terur,positif
 mantul,positif
 ok mantul,positif
 kurir sameday grab gosend diilangin aja bangat ampe toko tutup gak kurir slama 3 jam ubah pick up lg nunggu jam jam ampe malam jujur kadang org sengaja base camp warung yg suka kunjung ngintip ngopi disna yg request pickup sapa gk ambil ambil klo gitu mending diilangin aja beli gak harap byk sameday kacau euy,negatif
-moga potong pajak kecilin,positif
+moga potong pajak kecilin,negatif
 toko pediatooooop dech sukses trs pertahankanaku suka,positif
 fitur nya simpel mudah pahamikalau potong nya ya terimakasih,positif
 bantu usahaterimakasih seller tokopediapokok nya aplikasi bantu,positif
@@ -259,11 +259,11 @@ ikeuhhh,positif
 puas,positif
 aplikasi bantu seller mula,positif
 puas banget,positif
-bntu jual produk,positif
+bntu jual produk,negatif
 moga toko rame beli aminn,positif
 mantap,positif
 elegan,positif
-gak gunaa sulit org jual,positif
+gak gunaa sulit org jual,negatif
 bantu laku bisnis,positif
 mahalllll potong,negatif
 mantap moga bantu toko rame,positif
@@ -274,19 +274,19 @@ update aplikasi gabisa login mutar loading,positif
 bantu umkm,positif
 ok,positif
 ok,positif
-mantep gak kaya tiktok ribet gampang banget ngeblokir,positif
+mantep gak kaya tiktok ribet gampang banget ngeblokir,negatif
 aplikasi cocok belanja perlu seharihari,positif
 mantap,positif
 mantap,positif
 nyoba jual tokopedia moga lancar aamiin btw fiturnya muas aplikasi recommended,positif
 ngeri potong pm nya henti langgan ga acc berat ah kaya gin mah,negatif
 bagus,positif
-kali download tokopedia daftar toko pas daftar toko seller update aplikasi baru maksud sih udah aplikasi versi baru download,positif
+kali download tokopedia daftar toko pas daftar toko seller update aplikasi baru maksud sih udah aplikasi versi baru download,negatif
 terimakasih bantu,positif
 rugi,negatif
 bagus,positif
 mantaaaaaap,positif
-aplikasi gajelas promosi diskon ga fiturnya,positif
+aplikasi gajelas promosi diskon ga fiturnya,negatif
 bagus manfaat,positif
 mudah paham mula,positif
 bantu promosi produk,positif
@@ -325,20 +325,20 @@ the best poko maahh,positif
 tolong jnt keluarin kurir rekomendasi bagus kerja nya daerah tebet jnt tutup jne id express jnt kerja buruk,positif
 good,positif
 keren,positif
-aplikasi yg aneh pesan terima tunggu 2 pesan terima saldo nya tahan 2 aplikasi parah rekomendasi jual,positif
+aplikasi yg aneh pesan terima tunggu 2 pesan terima saldo nya tahan 2 aplikasi parah rekomendasi jual,negatif
 bantu usaha on line terimakasih tokopedia seller,positif
 hidup lbh mudah,positif
 ga jaman covid,negatif
 kadang suka eror jaring bagus update,positif
 pas,positif
-jual tokopedia sulit lakunyaa untung bersih paaalllingggg potong adm 75 10 tokped penting reseller sisi penting juga rapuhhhj market place,positif
+jual tokopedia sulit lakunyaa untung bersih paaalllingggg potong adm 75 10 tokped penting reseller sisi penting juga rapuhhhj market place,negatif
 bagus banget,positif
 aplikasi bagus,positif
 update bagus gabisa login monyeettt,positif
-hapus produk bayar layan top ads uang habis order 0 identifikasi no hp d jual beli no buka toped yg kirim sms promosi telf promosi biaya layan bayar pajak negara nya untung prusahaan,positif
+hapus produk bayar layan top ads uang habis order 0 identifikasi no hp d jual beli no buka toped yg kirim sms promosi telf promosi biaya layan bayar pajak negara nya untung prusahaan,negatif
 good,positif
 sedia fasilitas uniaga nilai turun tingkat perhati seller buyerkritikan ekspedisi tertanganitapi perhati seller buyer yg utama perkara urus partnership gak tau ok admin tolong bilang yg atas yaa kalo kagak ubah niscaya pindah per makasih maaff,positif
-jual tokopedia sulittt penarikannn danaaa sulitt tunggu baranf modal mahall untung ga cak cek review mao withdraw rekening punnnn ga jelasssss,positif
+jual tokopedia sulittt penarikannn danaaa sulitt tunggu baranf modal mahall untung ga cak cek review mao withdraw rekening punnnn ga jelasssss,negatif
 ok,positif
 ,positif
 bantu banget terimakasih,positif
@@ -360,7 +360,7 @@ jual ditokopedia cair saldo susah kadang sengaja sulit kapok kecewa layan respon
 ,positif
 good,positif
 cepat,positif
-jiaahudah maen buzzer jg liat ya sedih kondisi skrgjgn salah seller yg kasih masuk yaini ulah ya,negatif
+jiaahudah maen buzzer jg liat ya sedih kondisi skrgjgn salah seller yg kasih masuk yaini ulah ya,positif
 ok sip,positif
 tolol bijak yg,negatif
 potong gak masuk akal promo ongkir biaya2 apa lempar seller semangat seller receh,negatif
@@ -376,7 +376,7 @@ keren,positif
 sesuai ulas normal ganti bintang nya 5 terimakasih,positif
 bantu umkm,positif
 maju tokopedia,positif
-sulit,positif
+sulit,negatif
 nicegood luck,positif
 ok bagus,positif
 mantab,positif
@@ -391,8 +391,8 @@ suka potong gede,positif
 bgus aman murah percaya top toped,positif
 ok,positif
 mantap,positif
-nyesel pake tokped seller sanggat rugi seller tokped yg ngadain promo pormo potong seller jahat bgt sistem,positif
-halo tari saldo hasil transaksi yg masalah dana tahan hubung via tokopedia care respon apa mohon bantu,positif
+nyesel pake tokped seller sanggat rugi seller tokped yg ngadain promo pormo potong seller jahat bgt sistem,negatif
+halo tari saldo hasil transaksi yg masalah dana tahan hubung via tokopedia care respon apa mohon bantu,negatif
 jual tokopedia kirim barang rusak kembali rusak kena ongkir,negatif
 baik fitur chat biar hapus chat tolong pihak customer mslah komplainseller kontribusi aplikasi,positif
 bagus,positif
@@ -404,7 +404,7 @@ bagus bantu,positif
 kangen tokopedia seller ngiklan produk beli ga tau ngiklan sepi ga ngaruh tolong baik untung min hiks tolong template chat nya tambah maksimal 10 cicil modal toko limit cair nya cicil lunas tambah pilih tenor cicil 24 terimakasih,positif
 nya sy belanja tokped puas kecewa puas syukur berkat tokped sy untung jual tokped terima kasih tokopedia moga sukses jaya,positif
 tokopedi seller bantu jual makasih seller,positif
-hati aplikasi tipu yah,positif
+hati aplikasi tipu yah,negatif
 moga bantu peluang usahaaamiin,positif
 aplikasi berat seller potong potong gratis ongkir ngga masuk akalseharus nya potong gratis ongkir kena potong transaksiini kena kali kali lipat 1 transaksi kali produk terjualpihak tokopedia tolong evaluasi mekanisme gratis ongkir nya,negatif
 good,positif
@@ -429,7 +429,7 @@ bantu seller,positif
 rem pot nya jasa sampe 10 marketplace internasional yg pasar eropa dunia jual perlahan mundur henti jual online,positif
 biaya layan layan gitu2 ja,positif
 mantap,positif
-bagus susah naik produk,positif
+bagus susah naik produk,negatif
 ok,positif
 bagus,positif
 mantap,positif
@@ -442,7 +442,7 @@ ok,positif
 ,positif
 puas,positif
 puas bantu ekonomi kluargaku,positif
-biaya potong dr app bagus,positif
+biaya potong dr app bagus,negatif
 potong pwer merchant besartidak pwr merchant,negatif
 good job goto,positif
 potong admin kalo komplain langgan main setujuin aja adminya bodoh ambil putus salah beli jual yg nanggung,negatif
@@ -454,11 +454,11 @@ bagus bantu,positif
 puuuuaaaaassss,positif
 mantap jual apk tokopedia seller,positif
 aplikasi aman utk jual online,positif
-apk taiiiiikkk usaha aneh,positif
+apk taiiiiikkk usaha aneh,negatif
 puas layan nya,positif
 good,positif
 keren gak pake langsung order,positif
-mantap potong,positif
+mantap potong,negatif
 puas,positif
 kesini rugi seller biaya admin makn mahal tp konfirmasi kirim singkat kocak,negatif
 keren,positif
@@ -469,13 +469,13 @@ moga bnyak beli topedtrmksh,positif
 bantu,positif
 jual aplikasi toped moga untung yaaa,positif
 terimakasih tokopedia,positif
-akun saldo nya tahan beli terima pesan 2,positif
+akun saldo nya tahan beli terima pesan 2,negatif
 keren bantu,positif
 good marketplace,positif
 mudah erti,positif
 bantu jual,positif
 mantaaab,positif
-potonganya gedebukane untung rugi,positif
+potonganya gedebukane untung rugi,negatif
 wow,positif
 moga bantu,positif
 moga moga,positif
@@ -501,13 +501,13 @@ mantap jual barang beli barang tokped seller,positif
 bantu jual produk mudah transaksi jarang beli bohong spam makasih tokopedia,positif
 moga guna bermangfaat,positif
 biar jual airsoft,positif
-marketplace top markotop marketplace belah salah dikit akun maen hapus kompromi pemberitahuan rugi seller seller langsung andil bantu kaya app gak yaaa,positif
+marketplace top markotop marketplace belah salah dikit akun maen hapus kompromi pemberitahuan rugi seller seller langsung andil bantu kaya app gak yaaa,negatif
 admin order otomatis proses aplikasi,positif
 bantu,positif
 mantab,positif
 mantab,positif
 ok,positif
-dana seller tahan uang modal mutarin dagang sulit,positif
+dana seller tahan uang modal mutarin dagang sulit,negatif
 mantap gan,positif
 mantapp,positif
 ok banget jual beli tokopedia,positif
@@ -520,13 +520,13 @@ nice suka,positif
 sukses toko vedia,positif
 mantab,positif
 the best,positif
-apk rusah login aja susah salah server,positif
+apk rusah login aja susah salah server,negatif
 apk tokoh online mudah makam nya,positif
 alhamdulillah mantap kak terima kasih,positif
 bantu,positif
 parah potong doang layan customer service saat tanggap keluh seller,negatif
 gak layan merchant potong biaya merchant enak nya motong gila kali ni tokopedia,negatif
-downgrade ribet atur dikit beli haha,positif
+downgrade ribet atur dikit beli haha,negatif
 tolong live jual tarik,positif
 ,positif
 gampang daftar,positif
@@ -543,9 +543,9 @@ blum puas,positif
 alhamdulillah jual modal semangat rintis usaha rumah alhamdulillah kembang gak tau toko jarang beli nihil,positif
 maknyos,positif
 banyak sesuai harga potong potong udah toko sepi,positif
-3 sepi potong tokped kesini rusak aplikasi mending bagus aplikasi orange,positif
+3 sepi potong tokped kesini rusak aplikasi mending bagus aplikasi orange,negatif
 aplikasi jual beli keren,positif
-seller rugi tindak tokoed tolak transaksi kasih tau sebab,positif
+seller rugi tindak tokoed tolak transaksi kasih tau sebab,negatif
 mantap,positif
 ok,positif
 muantap bantu,positif
@@ -555,7 +555,7 @@ gak faham tibatiba order masuk langsung otomatis proses klik konfirmasi terima o
 tolong naikin toko produk ya kak laris jual biaya hidup keluarga terimakasih kak terimakasih tokopedia,positif
 mantap,positif
 bintang 5 rubah 1 aja dah sesuai dg bijak yg pihak dg seller mau jual jual jual manajemen kalo luar buyer psikopat berkeliaranmereka psikopat mengerjan seller fitur blokir orang2 inidisini chat blokir transaksi kalo order tolak tau jual cuman ngerjain dapet kurang poin parah,negatif
-tokopedia seller enak kirim pakai instan car gak tau instan car udah gk kalo pakai expedisi resiko barang rusak pecah kurang berat kurir instan bike yg nolak krn barang besartolong tokopedia instan car adain lg biar beli nyaman belanja tokopedia jgn beli kabur aplikasi yg instan carnya,positif
+tokopedia seller enak kirim pakai instan car gak tau instan car udah gk kalo pakai expedisi resiko barang rusak pecah kurang berat kurir instan bike yg nolak krn barang besartolong tokopedia instan car adain lg biar beli nyaman belanja tokopedia jgn beli kabur aplikasi yg instan carnya,negatif
 kacau mahal terima pesan otomatis batas mepet seller,negatif
 bantu jual mudah,positif
 moga berkah ramai,positif
@@ -568,7 +568,7 @@ ketar tir iklan stop tayang yuk topads,positif
 oke,positif
 mudah,positif
 oksangat suka,positif
-batas input resi 1 doang pesan masuktapi cair dana tetep 2x24 jam kalo gak dikonfirmasikalo mah cepetin atuh min toko puter modal jual terimakasih,negatif
+batas input resi 1 doang pesan masuktapi cair dana tetep 2x24 jam kalo gak dikonfirmasikalo mah cepetin atuh min toko puter modal jual terimakasih,positif
 ok bgt bikin kaya,positif
 aplikasi fungsi keluarmulu,positif
 suka tokopedia,positif
@@ -582,4 +582,4 @@ mudah jual d,positif
 bagus diskon,positif
 ,positif
 muantabz,positif
-maaf admin produk yg tambah muncul notif new produk ya baik atur,positif
+maaf admin produk yg tambah muncul notif new produk ya baik atur,negatif
